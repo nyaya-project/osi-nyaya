@@ -13,7 +13,8 @@ This directory versions the non-secret role artifacts for four Telegram bot prof
 
 Each profile directory contains:
 
-- `SOUL.md`: the Hermes profile instruction actually used to define the role.
+- `SOUL.md`: the Hermes profile instruction that defines the role.
+- `AGENT.md`: the operational workflow and Vaada-record requirements for that role.
 - `nyaya_reasoning.yaml`: a machine-readable reasoning contract, including inputs, outputs, quality gates, and agent handoffs.
 - `skills/` when needed: profile-scoped, portable skills used only by that role. The `causal-knowledge-mapper` profile includes the causal graph workflow and the Nyāya evidence-hierarchy rubric.
 
