@@ -18,5 +18,5 @@ quality_gates:
   - distinguish_missing_evidence_from_negative_evidence
   - provide_repair_path_when_possible
 handoff:
-  evidence_checks: causal-knowledge-mapper
-  decision: nyaya-judge
+  next_role: nyaya-judge
+  dispatcher: vaada_dispatcher

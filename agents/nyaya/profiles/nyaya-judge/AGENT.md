@@ -55,4 +55,4 @@ Use a new immutable `record_id`, retain the shared `debate_id`, and set the curr
 
 ## Handoff
 
-Return the Decision Record to the Proponent when the action item is `revision_requested` or `experimental_data_requested`. Send a focused evidence-plan request to Pramana when provenance or identification is the bottleneck.
+Append the Decision Record and post it to the configured delivery target. Only `revision_requested` starts another round: increment `round_count` and set `current_turn` to `proponent`. For every other action item, terminate the debate and set `current_turn` to `null`. The dispatcher performs any next role invocation.

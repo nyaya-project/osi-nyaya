@@ -15,26 +15,27 @@ Use this skill whenever a human asks the Nyaya Proponent, Opponent, and Judge to
 
 ## Non-negotiable protocol
 
-- A debate is **strictly sequential**. Do not generate a later role's substantive turn before every required earlier turn is present and valid.
+- A debate is **strictly sequential**: **Human/Proponent → Opponent → Judge**. Do not generate a later role's substantive turn before every required earlier turn is present and valid.
 - Keep one append-only `vaada-cycle/v1` JSON document per `debate_id`. Do **not** create independent, competing debate JSON files.
 - Every appended turn contains one `vaada-record/v1` role record. That embedded record must conform to `schemas/vaada-record.schema.json`.
-- Never overwrite, rewrite, or silently drop an earlier turn. A revision or defense is a new appended turn with `responds_to` pointing to the earlier record IDs.
+- Never overwrite, rewrite, or silently drop an earlier turn. A Judge-authorized revision is a new round; it does not create a Proponent defense/rebuttal turn within the previous round.
 - Preserve provenance. Label synthetic data as synthetic; distinguish `knowledge_graph`, `direct_observation`, and `proposed_link`; do not present a proposal or inference as observation.
-- A debate terminates only when the Judge selects an end disposition (`end_hypothesis_accepted` or `end_hypothesis_rejected`) or requests new evidence/experiment. A `revision_requested` disposition begins the next sequential round, subject to `max_rounds`.
+- The Judge ends the debate for every disposition except `revision_requested`. A `revision_requested` disposition begins the next sequential round, subject to `max_rounds`.
 
 ## Human launch and Telegram constraint
 
-The human scientist may invoke all three roles in one **human-authored** message. That launch must include the three bot mentions, research question, and a unique `debate_id`.
+The human scientist launches a debate by mentioning the Proponent (or by supplying a first Hypothesis Card), a research question, and a unique `debate_id`. The launch artifact must set `autonomous_dispatch: true` and a `delivery_target` such as `telegram:-1004419031322:182`.
 
-Telegram bots cannot receive messages sent by other bots. Therefore, a Telegram message is a public transcript surface, not the role-to-role transport. A coordinator or shared durable debate artifact must pass the appended JSON to the next role. A role must never claim it has read another bot's Telegram output unless that output is present in the shared debate artifact supplied to it.
+Telegram bots cannot receive messages sent by other bots. Therefore Telegram is only the public audit transcript. The installed `scripts/vaada_dispatcher.py` is the authoritative coordinator: it polls eligible shared artifacts, invokes exactly the profile named by `current_turn`, and that profile appends its record and posts it with its own Telegram identity. This eliminates human turn-by-turn nudges.
 
-When a role is invoked before its turn:
+When a role is invoked by the dispatcher:
 
 1. Read the current shared artifact.
 2. If `current_turn` is not that role, make no substantive Vaada contribution.
-3. Wait through the coordinator/state mechanism; do not manufacture a missing earlier turn, answer a different debate, or produce an out-of-order verdict.
+3. Append exactly one valid record, advance state, and post the complete appended record to `delivery_target`.
+4. Never invoke, mention, or wait for another bot; the dispatcher starts the next role from artifact state.
 
-For group launches, Telegram privacy mode must allow every named bot to receive the human launch message. This platform setting does not remove the bot-to-bot visibility restriction.
+For group launches, Telegram privacy mode must allow the named Proponent to receive the human launch message. This platform setting does not remove the bot-to-bot visibility restriction.
 
 ## Shared debate artifact
 
@@ -48,6 +49,8 @@ Use this shape. `turns[*].record` is the existing role-specific `vaada-record/v1
   "round_count": 1,
   "max_rounds": 3,
   "status": "active",
+  "autonomous_dispatch": true,
+  "delivery_target": "telegram:-1004419031322:182",
   "current_turn": "proponent",
   "turns": [
     {
@@ -86,29 +89,17 @@ The Proponent appends one or more independently evaluable candidate hypotheses. 
 - list-valued `vyapti_links` identifying the proposed reason-to-outcome links;
 - assumptions, scope, uncertainty, evidence gaps, discriminating predictions, and falsifiers.
 
-Set `current_turn` to `vyapti_check` after the Proponent turn.
+Set `current_turn` to `opponent` after the Proponent turn.
 
-### 2. Causal grounding: Vyapti check
+### 2. Opponent: adversarial critique
 
-Audit each proposed `hetu → sadhya` link against the available causal map and evidence. Mark a link as grounded, uncertain, or weak causal support. A weak link is not discarded: it is carried to the Opponent with its flag and provenance intact.
+The Opponent appends a Challenge Dossier for each candidate after the Proponent turn. It must fairly restate the claim; identify the strongest Tarka/counterargument; test for hetvabhasa; identify alternative causal graphs, confounders, and measurement weaknesses; run novelty/deduplication checks; and name decisive tests plus a repair path.
 
-Set `current_turn` to `opponent` after this audit.
+Set `current_turn` to `judge` after the Opponent turn.
 
-### 3. Opponent: adversarial critique
+### 3. Judge: evidence validation and decision
 
-The Opponent appends a Challenge Dossier for each candidate. It must fairly restate the claim; identify the strongest Tarka/counterargument; test for hetvabhasa; identify alternative causal graphs, confounders, and measurement weaknesses; run novelty/deduplication checks; and name decisive tests plus a repair path.
-
-Set `current_turn` to `proponent_defense` after the Opponent turn.
-
-### 4. Proponent: one defense
-
-The original Proponent appends exactly one defense to the validated critique, choosing `reinforce`, `narrow`, `revise`, or `concede`. The defense must respond to the Challenge Dossier's `record_id` and retain the affected claim lineage. Do not parallelize defenses or generate unbounded rebuttal loops.
-
-Set `current_turn` to `judge` after the defense.
-
-### 5. Judge: evidence validation and decision
-
-The Judge appends a Decision Record after reviewing the shared artifact, including direct evidence available from the Knowledge Pool and both sides' claims. Grade evidence using Pramana categories without treating a category as an automatic strength score. Separate accepted, rejected, and unresolved components; preserve material dissent; name a key defeater, next test, and update condition.
+The Judge appends a Decision Record after reviewing the Proponent and Opponent records in the shared artifact, together with available Knowledge Pool evidence. Grade evidence using Pramana categories without treating a category as an automatic strength score. Separate accepted, rejected, and unresolved components; preserve material dissent; name a key defeater, next test, and update condition.
 
 Map the operational outcome as follows:
 
@@ -117,21 +108,20 @@ Map the operational outcome as follows:
 - **Revise** → `action_item: revision_requested`.
 - **Escalate to human / new evidence required** → `action_item: experimental_data_requested` or `status: escalated_to_human` when the round limit is reached.
 
-### 6. Termination or next round
+### 4. Termination or next round
 
-- On acceptance or rejection, set `status: terminated`, set `current_turn: null`, and write `termination` with the Judge record ID and rationale.
-- On experimental-data request, terminate the current debate outcome as evidence-pending and name the required experiment or observation. Do not pretend a final acceptance/rejection was reached.
-- On revision, increment `round_count`, set `current_turn: proponent`, and begin the next sequential round. If `round_count` would exceed `max_rounds`, set `status: escalated_to_human` rather than silently continuing.
+- On acceptance, rejection, or experimental-data request, set `status: terminated`, set `current_turn: null`, and write `termination` with the Judge record ID and rationale.
+- On revision, increment `round_count`, set `current_turn: proponent`, and begin the next **Human/Proponent → Opponent → Judge** round. If `round_count` would exceed `max_rounds`, set `status: escalated_to_human` rather than silently continuing.
 
 ## Public transcript rule
 
-The coordinator posts every appended turn visibly in the shared Telegram topic with its `debate_id`, `record_id`, `round`, stage, and complete JSON. The public messages are an audit trail; the shared artifact is the authoritative state used to trigger the next role.
+Each dispatched role posts its own appended turn visibly in the shared Telegram topic with its `debate_id`, `record_id`, `round`, stage, and complete JSON. The public messages are an audit trail; the shared artifact is the authoritative state used by the dispatcher to trigger the next role.
 
 ## Role-specific guardrails
 
 - **Proponent:** never self-certifies acceptance and never converts a weak Vyapti link into established evidence.
 - **Opponent:** attacks the strongest charitable version, does not infer falsity from missing evidence, and names what would repair the claim.
-- **Judge:** never issues a substantive decision without the preceding Proponent, Vyapti, Opponent, and Proponent-defense stages for the same candidate and round. Prefer insufficient identification, revision, experiment, or escalation to unsupported causation.
+- **Judge:** never issues a substantive decision without the preceding Proponent and Opponent stages for the same candidate and round. Prefer insufficient identification, revision, experiment, or escalation to unsupported causation.
 
 ## Verification before appending
 

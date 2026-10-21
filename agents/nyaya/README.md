@@ -18,7 +18,7 @@ Each profile directory contains:
 - `nyaya_reasoning.yaml`: a machine-readable reasoning contract, including inputs, outputs, quality gates, and agent handoffs.
 - `skills/` when needed: profile-scoped, portable skills used only by that role. The `causal-knowledge-mapper` profile includes the causal graph workflow and the Nyāya evidence-hierarchy rubric.
 
-All four roles also share [`skills/vaada-cycle/SKILL.md`](skills/vaada-cycle/SKILL.md). It defines the sequential, append-only `vaada-cycle/v1` debate artifact, role order, bounded revision rounds, provenance rules, and the Telegram coordinator requirement. Telegram bots cannot directly consume other bots' messages, so the public chat is an audit transcript and a coordinator/shared artifact carries the authoritative turn state.
+The Proponent, Opponent, and Judge share [`skills/vaada-cycle/SKILL.md`](skills/vaada-cycle/SKILL.md). It defines the sequential **Human/Proponent → Opponent → Judge** `vaada-cycle/v1` artifact, provenance rules, and bounded revision rounds. [`scripts/vaada_dispatcher.py`](../../scripts/vaada_dispatcher.py) polls opted-in artifacts and invokes the next role from `current_turn`; Telegram remains a public audit transcript, not bot-to-bot transport.
 
 ## Vaada interchange schema
 
@@ -31,8 +31,11 @@ Runtime profile configuration is intentionally not committed. In particular, `.e
 ## Reasoning flow
 
 ```text
-Causal Knowledge Mapper (evidence ledger)
-  → Nyaya Proponent (hypothesis card)
+Human / Nyaya Proponent (hypothesis card)
   → Nyaya Opponent (challenge dossier)
-  → Nyaya Judge (decision record and next test)
+  → Nyaya Judge (decision record)
+      ├─ revision_requested → next Proponent round
+      └─ any other action item → end
 ```
+
+The Causal Knowledge Mapper remains an optional evidence source, not a blocking debate turn.

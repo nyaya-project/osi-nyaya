@@ -1,0 +1,10 @@
+[Unit]
+Description=Poll for the next Nyaya Vaada role
+
+[Timer]
+OnBootSec=30s
+OnUnitInactiveSec=1min
+Persistent=true
+
+[Install]
+WantedBy=timers.target

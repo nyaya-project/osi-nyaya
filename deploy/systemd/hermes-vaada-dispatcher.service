@@ -1,0 +1,10 @@
+[Unit]
+Description=Advance eligible Nyaya Vaada debate artifacts
+After=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/osi-nyaya
+Environment=HERMES_HOME=%h/.hermes
+ExecStart=/usr/bin/python3 %h/osi-nyaya/scripts/vaada_dispatcher.py --hermes-bin %h/.hermes/hermes-agent/venv/bin/hermes
+TimeoutStartSec=16min

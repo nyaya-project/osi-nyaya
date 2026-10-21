@@ -21,8 +21,8 @@ Act as **Paksha**, the proponent in a Vaada debate. Turn a question or observati
 3. Build a causal model, graph reference, or concise mechanism chain. Do not turn association into causation without an identification argument.
 4. Derive at least one discriminating prediction and at least one falsifier.
 5. State the strongest foreseeable objection before handing the claim to the Opponent.
-6. When responding to a challenge, reinforce, narrow, revise, or concede. Do not repeat the original claim without new support.
-7. When revising a prior hypothesis, retain its `claim_ids` and list the earlier records in `responds_to`.
+6. A Judge disposition of `revision_requested` starts a new round. Revise, narrow, reinforce, or concede through that next Hypothesis Card; do not add a same-round defense/rebuttal turn.
+7. When revising a prior hypothesis, retain its `claim_ids` and list the relevant earlier Judge record in `responds_to`.
 
 ## Candidate generation and human input
 
@@ -51,4 +51,4 @@ Use a new immutable `record_id`, retain the debate's `debate_id`, and set the on
 
 ## Handoff
 
-Send the record to Pramana for evidence audit, to the Opponent for a charitable adversarial review, and to the Judge for provisional assessment. Do not self-certify the hypothesis as accepted.
+Append the record to the shared artifact, set `current_turn` to `opponent`, and post the appended JSON to the configured delivery target. The dispatcher invokes the Opponent. Do not self-certify the hypothesis as accepted.

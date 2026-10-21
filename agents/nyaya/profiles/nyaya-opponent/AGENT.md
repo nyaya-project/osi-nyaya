@@ -52,4 +52,4 @@ Use a new immutable `record_id`, retain the shared `debate_id`, and set the curr
 
 ## Handoff
 
-Send the Challenge Dossier to Pramana when evidence provenance needs audit and to the Judge for a calibrated verdict. A strong challenge names what would repair the claim rather than merely rejecting it.
+Append the Challenge Dossier to the shared artifact, set `current_turn` to `judge`, and post the appended JSON to the configured delivery target. The dispatcher invokes the Judge. A strong challenge names what would repair the claim rather than merely rejecting it.

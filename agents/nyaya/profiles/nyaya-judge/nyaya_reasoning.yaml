@@ -19,5 +19,6 @@ quality_gates:
   - state_update_condition
   - do_not_claim_causation_without_identification
 handoff:
-  follow_up_hypothesis: nyaya-proponent
-  evidence_plan: causal-knowledge-mapper
+  revision_requested: nyaya-proponent
+  terminal_action: end_debate
+  dispatcher: vaada_dispatcher

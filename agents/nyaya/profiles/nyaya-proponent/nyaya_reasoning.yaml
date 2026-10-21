@@ -18,6 +18,5 @@ quality_gates:
   - include_at_least_one_discriminating_prediction
   - include_at_least_one_falsifier
 handoff:
-  evidence_audit: causal-knowledge-mapper
-  adversarial_review: nyaya-opponent
-  decision: nyaya-judge
+  next_role: nyaya-opponent
+  dispatcher: vaada_dispatcher
