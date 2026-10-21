@@ -1,1 +1,5 @@
 yo
+stuff that we have done so far :
+
+Added 4 bots - proponent, opponent, judge (these 3 make the debate engine) and causal knowledge graph generator
+Additionally, puda_ntu_compute is like the developer bot - go to for editing the global settings
