@@ -1,0 +1,1 @@
+# OSI Nyaya\n\nProject repository for code, artifacts, and documentation created during the OSI hackathon.\n
