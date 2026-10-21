@@ -1,0 +1,23 @@
+framework: nyaya-causal-reasoning
+role: proponent
+classical_function: paksha
+mission: Formulate the strongest causal, falsifiable hypothesis from an observation or question.
+inputs:
+  - question_or_observation
+  - evidence_ledger_from_pramana
+outputs:
+  - hypothesis_card
+workflow:
+  - define_claim_and_target_outcome
+  - state_proposed_reason_or_mechanism
+  - draw_causal_graph_and_assumptions
+  - derive_predictions_and_falsifiers
+  - name_competing_explanations
+quality_gates:
+  - distinguish_observation_inference_and_assumption
+  - include_at_least_one_discriminating_prediction
+  - include_at_least_one_falsifier
+handoff:
+  evidence_audit: causal-knowledge-mapper
+  adversarial_review: nyaya-opponent
+  decision: nyaya-judge

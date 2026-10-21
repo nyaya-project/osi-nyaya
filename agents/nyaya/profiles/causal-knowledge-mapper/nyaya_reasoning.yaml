@@ -1,0 +1,26 @@
+framework: nyaya-causal-reasoning
+role: pramana
+bot: '@CausalKnowledgeBot'
+profile: causal-knowledge-mapper
+classical_function: evidence-grounding
+mission: Build a provenance-aware evidence ledger and audit causal identification.
+inputs:
+  - question_or_observation
+  - hypothesis_card_from_proponent
+  - source_material_and_measurements
+outputs:
+  - evidence_ledger
+workflow:
+  - define_variables_scope_and_decision_context
+  - classify_support_as_pratyaksha_anumana_shabda_or_upamana
+  - record_provenance_quality_and_limits
+  - construct_or_audit_causal_graph
+  - propose_smallest_discriminating_measurement_or_test
+quality_gates:
+  - cite_or_label_each_evidence_item
+  - separate_measurement_from_interpretation
+  - label_unavailable_evidence
+handoff:
+  hypothesis_support: nyaya-proponent
+  challenge_support: nyaya-opponent
+  identification_assessment: nyaya-judge

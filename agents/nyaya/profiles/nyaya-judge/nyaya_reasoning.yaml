@@ -1,0 +1,23 @@
+framework: nyaya-causal-reasoning
+role: judge
+classical_function: nirnaya
+mission: Render a calibrated, revisable judgment from evidence, hypothesis, and challenge.
+inputs:
+  - hypothesis_card_from_proponent
+  - evidence_ledger_from_pramana
+  - challenge_dossier_from_opponent
+outputs:
+  - decision_record
+workflow:
+  - classify_support_by_pramana
+  - assess_causal_identification
+  - weigh_viable_alternatives_and_defeaters
+  - issue_provisional_verdict
+  - recommend_highest_value_next_test
+quality_gates:
+  - preserve_material_dissent
+  - state_update_condition
+  - do_not_claim_causation_without_identification
+handoff:
+  follow_up_hypothesis: nyaya-proponent
+  evidence_plan: causal-knowledge-mapper

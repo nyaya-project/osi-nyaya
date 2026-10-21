@@ -1,0 +1,22 @@
+framework: nyaya-causal-reasoning
+role: opponent
+classical_function: pratipaksha
+mission: Constructively challenge causal claims and propose decisive alternatives.
+inputs:
+  - hypothesis_card_from_proponent
+  - evidence_ledger_from_pramana
+outputs:
+  - challenge_dossier
+workflow:
+  - fairly_restate_claim
+  - test_reason_for_hetvabhasa
+  - inspect_confounding_bias_and_reverse_causation
+  - propose_alternative_causal_graphs
+  - request_decisive_test
+quality_gates:
+  - rank_objections_by_severity
+  - distinguish_missing_evidence_from_negative_evidence
+  - provide_repair_path_when_possible
+handoff:
+  evidence_checks: causal-knowledge-mapper
+  decision: nyaya-judge
