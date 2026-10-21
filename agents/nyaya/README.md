@@ -15,6 +15,7 @@ Each profile directory contains:
 
 - `SOUL.md`: the Hermes profile instruction actually used to define the role.
 - `nyaya_reasoning.yaml`: a machine-readable reasoning contract, including inputs, outputs, quality gates, and agent handoffs.
+- `skills/` when needed: profile-scoped, portable skills used only by that role. The `causal-knowledge-mapper` profile includes the causal graph workflow and the Nyāya evidence-hierarchy rubric.
 
 ## Vaada interchange schema
 

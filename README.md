@@ -18,7 +18,7 @@ Causal Knowledge Mapper (evidence ledger)
   → Nyaya Judge (decision record and next test)
 ```
 
-The portable, non-secret role definitions are versioned in [`agents/nyaya/`](agents/nyaya/). Each profile has a `SOUL.md` role instruction and a `nyaya_reasoning.yaml` reasoning contract.
+The portable, non-secret role definitions are versioned in [`agents/nyaya/`](agents/nyaya/). Each profile has a `SOUL.md` role instruction and a `nyaya_reasoning.yaml` reasoning contract. Profile-scoped reusable skills live beside the role that uses them; the causal-mapper skills are under [`agents/nyaya/profiles/causal-knowledge-mapper/skills/`](agents/nyaya/profiles/causal-knowledge-mapper/skills/).
 
 ## Repository hygiene
 
