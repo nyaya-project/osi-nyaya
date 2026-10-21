@@ -10,7 +10,7 @@ What is in the repository so far
    - @NyayaJudgeBot / nyaya-judge: Nirnaya, calibrated provisional verdict and recommended next test.
 
 2. Documented the intended handoff:
-   Causal Knowledge Mapper -> Proponent -> Opponent -> Judge.
+   Causal Knowledge Mapper -> Proponent -> Opponent -> Judge -> proposed experiments handoff to puda_ntu_compute
 
 3. Added a shared Vaada debate-record JSON Schema for hypothesis cards, challenge dossiers, and decision records. It captures immutable record/debate IDs, debate round, source provenance, claim/response links, scope, assumptions, uncertainty, confidence, and role-specific content.
    - Sources are explicitly typed as knowledge_graph, direct_observation, or proposed_link.
