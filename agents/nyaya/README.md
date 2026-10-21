@@ -16,6 +16,10 @@ Each profile directory contains:
 - `SOUL.md`: the Hermes profile instruction actually used to define the role.
 - `nyaya_reasoning.yaml`: a machine-readable reasoning contract, including inputs, outputs, quality gates, and agent handoffs.
 
+## Vaada interchange schema
+
+[`schemas/vaada-record.schema.json`](../../schemas/vaada-record.schema.json) is the common JSON Schema for the Proponent's Hypothesis Card, the Opponent's Challenge Dossier, and the Judge's Decision Record. It requires immutable record/debate IDs, one-based debate round, explicitly typed source provenance (`knowledge_graph`, `direct_observation`, or `proposed_link`), a role-appropriate summary, and a role-specific payload. `responds_to` and `claim_ids` retain the debate chain for later graph use.
+
 ## Deliberately excluded
 
 Runtime profile configuration is intentionally not committed. In particular, `.env`, API credentials, Telegram bot tokens, user allowlists, session histories, memories, and logs remain under `~/.hermes/profiles/<profile>/` on the host.

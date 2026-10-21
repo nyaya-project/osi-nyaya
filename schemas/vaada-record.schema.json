@@ -1,0 +1,264 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://osi-nyaya.local/schemas/vaada-record.schema.json",
+  "title": "Vaada debate record",
+  "description": "A versioned interchange record for Paksha (proponent), Pratipaksha (opponent), and Nirnaya (judge) contributions in a Nyaya causal-reasoning debate.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "record_id",
+    "debate_id",
+    "round",
+    "agent",
+    "source",
+    "summary",
+    "created_at",
+    "content"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "vaada-record/v1"
+    },
+    "record_id": {
+      "description": "Immutable, globally unique identifier for this contribution. Use a UUID, ULID, or stable namespaced ID.",
+      "type": "string",
+      "minLength": 1
+    },
+    "debate_id": {
+      "description": "Stable ID shared by every contribution addressing the same debate question.",
+      "type": "string",
+      "minLength": 1
+    },
+    "round": {
+      "description": "One-based debate round. A judge may open the next round by naming unresolved issues or an update condition.",
+      "type": "integer",
+      "minimum": 1
+    },
+    "agent": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["role", "profile", "classical_function"],
+      "properties": {
+        "role": {
+          "enum": ["proponent", "opponent", "judge"]
+        },
+        "profile": {
+          "description": "Agent/profile identifier that produced the record, for example nyaya-proponent.",
+          "type": "string",
+          "minLength": 1
+        },
+        "classical_function": {
+          "enum": ["paksha", "pratipaksha", "nirnaya"]
+        }
+      }
+    },
+    "source": {
+      "description": "Atomic provenance units used by this contribution. Do not present an unsupported proposed link as an observation.",
+      "type": "array",
+      "minItems": 1,
+      "items": {"$ref": "#/$defs/source"}
+    },
+    "summary": {
+      "description": "Brief role-appropriate explanation: a falsifiable causal hypothesis (proponent), charitable constructive challenge (opponent), or calibrated provisional decision and next action (judge).",
+      "type": "string",
+      "minLength": 1
+    },
+    "claim_ids": {
+      "description": "Stable claim IDs asserted, challenged, assessed, or carried forward by this record.",
+      "type": "array",
+      "items": {"type": "string", "minLength": 1},
+      "uniqueItems": true,
+      "default": []
+    },
+    "responds_to": {
+      "description": "Earlier record IDs this record directly addresses. Forms an auditable debate chain without implying agreement.",
+      "type": "array",
+      "items": {"type": "string", "minLength": 1},
+      "uniqueItems": true,
+      "default": []
+    },
+    "scope": {
+      "description": "Population, system, context, decision setting, and background conditions to which the contribution applies.",
+      "type": "string"
+    },
+    "assumptions": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1},
+      "uniqueItems": true,
+      "default": []
+    },
+    "uncertainties": {
+      "description": "Known limitations, unavailable evidence, or unresolved ambiguity. Absence of evidence must not be encoded as evidence of absence.",
+      "type": "array",
+      "items": {"type": "string", "minLength": 1},
+      "default": []
+    },
+    "confidence": {
+      "description": "Calibrated qualitative confidence in this record's central assessment, not a vote count.",
+      "enum": ["high", "moderate", "low", "unassessed"]
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "content": {
+      "description": "Role-specific hypothesis, challenge, or verdict payload.",
+      "type": "object"
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {"agent": {"properties": {"role": {"const": "proponent"}}, "required": ["role"]}}
+      },
+      "then": {
+        "properties": {"agent": {"properties": {"classical_function": {"const": "paksha"}}}, "content": {"$ref": "#/$defs/proponent_content"}}
+      }
+    },
+    {
+      "if": {
+        "properties": {"agent": {"properties": {"role": {"const": "opponent"}}, "required": ["role"]}}
+      },
+      "then": {
+        "properties": {"agent": {"properties": {"classical_function": {"const": "pratipaksha"}}}, "content": {"$ref": "#/$defs/opponent_content"}}
+      }
+    },
+    {
+      "if": {
+        "properties": {"agent": {"properties": {"role": {"const": "judge"}}, "required": ["role"]}}
+      },
+      "then": {
+        "properties": {"agent": {"properties": {"classical_function": {"const": "nirnaya"}}}, "content": {"$ref": "#/$defs/judge_content"}}
+      }
+    }
+  ],
+  "$defs": {
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source_id", "kind", "label", "support_relation"],
+      "properties": {
+        "source_id": {
+          "description": "Immutable source-node, observation, or proposed-link identifier for later graph lookup.",
+          "type": "string",
+          "minLength": 1
+        },
+        "kind": {
+          "enum": ["knowledge_graph", "direct_observation", "proposed_link"]
+        },
+        "label": {
+          "description": "Human-readable citation, observation label, or proposed relation statement.",
+          "type": "string",
+          "minLength": 1
+        },
+        "locator": {
+          "description": "Resolvable locator when available, such as a KG URI, DOI, dataset row, notebook cell, instrument run, or URL.",
+          "type": "string"
+        },
+        "support_relation": {
+          "enum": ["supports", "challenges", "context", "proposes"]
+        },
+        "pramana_class": {
+          "description": "How this source supports the relevant claim, if assessed.",
+          "enum": ["pratyaksha", "anumana", "upamana", "shabda", "unassessed"]
+        },
+        "evidence_origin_id": {
+          "description": "Shared ID for non-independent records derived from the same underlying observation or source.",
+          "type": "string"
+        },
+        "premise_evidence_ids": {
+          "description": "Evidence IDs used by an inference or proposed link.",
+          "type": "array",
+          "items": {"type": "string", "minLength": 1},
+          "uniqueItems": true
+        },
+        "conditions_and_limits": {
+          "type": "string"
+        }
+      },
+      "allOf": [
+        {
+          "if": {"properties": {"kind": {"const": "proposed_link"}}, "required": ["kind"]},
+          "then": {"required": ["premise_evidence_ids"]}
+        }
+      ]
+    },
+    "prediction": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["statement", "outcome_if_supported", "outcome_if_weakened"],
+      "properties": {
+        "statement": {"type": "string", "minLength": 1},
+        "outcome_if_supported": {"type": "string", "minLength": 1},
+        "outcome_if_weakened": {"type": "string", "minLength": 1},
+        "test_or_observation": {"type": "string"}
+      }
+    },
+    "proponent_content": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["paksha", "sadhya", "hetu", "causal_model", "predictions", "falsifiers", "foreseeable_objection"],
+      "properties": {
+        "paksha": {"description": "Claim under evaluation.", "type": "string", "minLength": 1},
+        "sadhya": {"description": "Outcome or property to be explained.", "type": "string", "minLength": 1},
+        "hetu": {"description": "Proposed causal reason or mechanism.", "type": "string", "minLength": 1},
+        "drstanta": {"description": "Analogous well-grounded case or mechanism.", "type": "string"},
+        "causal_model": {"description": "Causal graph, mechanism, or graph reference.", "type": "string", "minLength": 1},
+        "evidence_needed": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "predictions": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/prediction"}},
+        "falsifiers": {"description": "At least one discriminating observation that would weaken the claim.", "type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "alternative_mechanisms": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "foreseeable_objection": {"type": "string", "minLength": 1}
+      }
+    },
+    "opponent_content": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["fair_restatement", "objections", "alternative_mechanisms", "decisive_tests", "residual_uncertainty", "repair_path"],
+      "properties": {
+        "fair_restatement": {"type": "string", "minLength": 1},
+        "objections": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["objection_id", "severity", "statement"],
+            "properties": {
+              "objection_id": {"type": "string", "minLength": 1},
+              "severity": {"enum": ["critical", "major", "moderate", "minor"]},
+              "statement": {"type": "string", "minLength": 1},
+              "category": {"enum": ["hetvabhasa", "confounding", "selection_bias", "measurement_error", "reverse_causation", "collider_bias", "background_condition", "counterexample", "missing_evidence", "other"]},
+              "affected_claim_ids": {"type": "array", "items": {"type": "string", "minLength": 1}},
+              "required_evidence": {"type": "array", "items": {"type": "string", "minLength": 1}}
+            }
+          }
+        },
+        "alternative_mechanisms": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "decisive_tests": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "residual_uncertainty": {"type": "string", "minLength": 1},
+        "repair_path": {"type": "string", "minLength": 1}
+      }
+    },
+    "judge_content": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["question", "evidence_ledger", "causal_finding", "verdict", "accepted_components", "rejected_components", "unresolved_components", "key_defeater", "recommended_next_test", "update_condition", "decision_rationale"],
+      "properties": {
+        "question": {"type": "string", "minLength": 1},
+        "evidence_ledger": {"description": "Record IDs or evidence IDs reviewed by the judge.", "type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "causal_finding": {"type": "string", "minLength": 1},
+        "verdict": {"enum": ["provisionally_supported", "partially_supported", "insufficiently_identified", "provisionally_rejected", "deferred"]},
+        "accepted_components": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "rejected_components": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "unresolved_components": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "material_dissent": {"description": "Opponent objections or minority views preserved in the decision.", "type": "array", "items": {"type": "string", "minLength": 1}},
+        "key_defeater": {"type": "string", "minLength": 1},
+        "recommended_next_test": {"type": "string", "minLength": 1},
+        "update_condition": {"description": "Observation or result that would revise the provisional verdict.", "type": "string", "minLength": 1},
+        "decision_rationale": {"type": "string", "minLength": 1}
+      }
+    }
+  }
+}
