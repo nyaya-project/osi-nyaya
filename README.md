@@ -1,25 +1,72 @@
-# OSI Nyaya
+# OSI Nyāya: Research Deliberation Engine
 
-Private project repository for code, artifacts, and documentation produced during the OSI hackathon.
+A provenance-first, multi-agent research deliberation system grounded in **Nyāya** reasoning. It turns a bounded corpus and a research question into an auditable sequence of causal claims, adversarial checks, and calibrated next-step decisions.
 
-## Nyaya causal-reasoning harness
+> Extracting a causal claim from a source does **not** establish that the claim is true. OSI Nyāya preserves this distinction in its records, provenance, uncertainty labels, and decision rules.
 
-The project uses four dedicated Telegram bot profiles as a structured causal-reasoning loop grounded in Nyaya Shastra:
+## What exists today
 
-- `@CausalKnowledgeBot` → `causal-knowledge-mapper` → **Pramana**: evidence provenance and causal-model audit.
-- `@NyayaProponentBot` → `nyaya-proponent` → **Paksha**: causal hypothesis formulation.
-- `@NyayaOpponentBot` → `nyaya-opponent` → **Pratipaksha**: adversarial challenge and alternative explanations.
-- `@NyayaJudgeBot` → `nyaya-judge` → **Nirnaya**: calibrated provisional decision and next-test recommendation.
+- An evidence-led **Causal Knowledge Mapper** that creates inspectable graphs of *reported* causal claims from documents and a scoped question.
+- A four-role Nyāya reasoning loop: evidence audit, hypothesis formation, adversarial challenge, and provisional decision.
+- A sequential **Vāda** protocol for an append-only debate artifact with bounded revision rounds.
+- A versioned JSON interchange schema for the Proponent, Opponent, and Judge records.
+- Portable, non-secret Hermes role definitions, reasoning contracts, skills, schemas, example data, report template, and graph validator.
+
+The repository intentionally contains the reusable research protocol and artifacts, not a claim to have implemented automated truth discovery or a complete causal-discovery system.
+
+## Reasoning loop
 
 ```text
-Causal Knowledge Mapper (evidence ledger)
-  → Nyaya Proponent (hypothesis card)
-  → Nyaya Opponent (challenge dossier)
-  → Nyaya Judge (decision record and next test)
+Causal Knowledge Mapper ── evidence ledger and causal-claim graph
+          │
+          ▼
+Nyāya Proponent ─────────── hypothesis card (Pakṣa)
+          │
+          ▼
+Nyāya Opponent ──────────── challenge dossier (Pratipakṣa)
+          │
+          ▼
+Nyāya Judge ─────────────── provisional decision and next test (Nirṇaya)
 ```
 
-The portable, non-secret role definitions are versioned in [`agents/nyaya/`](agents/nyaya/). Each profile has a `SOUL.md` role instruction and a `nyaya_reasoning.yaml` reasoning contract. Profile-scoped reusable skills live beside the role that uses them; the causal-mapper skills are under [`agents/nyaya/profiles/causal-knowledge-mapper/skills/`](agents/nyaya/profiles/causal-knowledge-mapper/skills/).
+The mapper distinguishes direct observation, inferred mechanism, association, and hypothesis. The Vāda cycle then requires each later role to preserve the provenance and uncertainty of the earlier record rather than silently upgrading a proposal into evidence.
 
-## Repository hygiene
+## Operating principles
 
-This repository is intended to retain project code and shareable artifacts. Runtime-only or sensitive profile state is deliberately excluded, including `.env` files, API credentials, Telegram bot tokens, access allowlists, session histories, memories, and logs.
+- **Evidence-linked, not assertion-led.** Every material claim carries source provenance, a locator, scope, conditions, and limitations where available.
+- **Causal precision.** An association is never silently promoted to a causal relation; a direct observation does not by itself prove a mechanism.
+- **Contradictions stay visible.** Conflicting records are reconciled by condition and provenance when possible, otherwise retained as unresolved.
+- **Sequential and append-only deliberation.** The Proponent, causal grounding check, Opponent, Proponent defense, and Judge act in order. Revisions add records; they do not rewrite history.
+- **Calibrated decisions.** The Judge may request a discriminating experiment or escalate to a human rather than force acceptance or rejection.
+- **Bounded scope.** Absence of an edge means “not established in this scoped corpus,” never proof that no relationship exists.
+
+## Repository map
+
+- [`agents/nyaya/`](agents/nyaya/) — portable bot-role documentation and shared Vāda-cycle skill.
+  - [`profiles/causal-knowledge-mapper/`](agents/nyaya/profiles/causal-knowledge-mapper/) — evidence-led causal graph workflow, Nyāya evidence rubric, graph/run schemas, validator, example graph, and report template.
+  - [`profiles/nyaya-proponent/`](agents/nyaya/profiles/nyaya-proponent/) — Pakṣa hypothesis-formulation role.
+  - [`profiles/nyaya-opponent/`](agents/nyaya/profiles/nyaya-opponent/) — Pratipakṣa adversarial-review role.
+  - [`profiles/nyaya-judge/`](agents/nyaya/profiles/nyaya-judge/) — Nirṇaya decision and next-test role.
+  - [`skills/vaada-cycle/SKILL.md`](agents/nyaya/skills/vaada-cycle/SKILL.md) — shared sequential debate protocol and Telegram coordination constraint.
+- [`schemas/vaada-record.schema.json`](schemas/vaada-record.schema.json) — common `vaada-record/v1` contract for role records.
+- [`tracker for humans.txt`](tracker%20for%20humans.txt) — human-facing project tracker.
+
+## Core artifacts
+
+### Causal knowledge graph
+
+The Causal Knowledge Mapper produces a canonical `graph.json`, a scoped `report.md`, `validation.json`, and `run.json`. The graph, not the prose report, is the source of truth. Its workflow and validation tooling are defined in the [mapper skill](agents/nyaya/profiles/causal-knowledge-mapper/skills/causal-knowledge-mapper/SKILL.md).
+
+### Vāda debate artifact
+
+A debate is one append-only `vaada-cycle/v1` JSON document per `debate_id`. Embedded role records conform to [`vaada-record/v1`](schemas/vaada-record.schema.json). The shared artifact is the authoritative state; Telegram messages are the public audit transcript.
+
+This distinction matters because Telegram bots cannot directly read one another’s messages. A human or coordinator must pass the updated shared artifact to the next role, and a role must not claim to have seen a prior bot’s Telegram output unless that record is present in the artifact it received.
+
+## Deliberately excluded
+
+No runtime or credential material is versioned here. This includes `.env` files, API keys, Telegram bot tokens, allowlists, session histories, memories, and logs. Those remain profile-local under `~/.hermes/profiles/<profile>/`.
+
+## Status and direction
+
+This is a small, inspectable foundation: readable role instructions, explicit data contracts, validation, examples, and evaluation-ready outputs. Near-term work should strengthen evaluation cases and coordinator/runtime integration without weakening provenance, contradiction handling, or the separation between extracted claims and established findings.
