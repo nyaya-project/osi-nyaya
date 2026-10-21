@@ -161,7 +161,7 @@
         },
         "pramana_class": {
           "description": "How this source supports the relevant claim, if assessed.",
-          "enum": ["pratyaksha", "anumana", "upamana", "shabda", "unassessed"]
+          "enum": ["pratyaksha/direct", "anumana/inference", "upamana/analogy", "shabda/unexplained lit. claim", "unassessed"]
         },
         "evidence_origin_id": {
           "description": "Shared ID for non-independent records derived from the same underlying observation or source.",
@@ -250,6 +250,7 @@
         "evidence_ledger": {"description": "Record IDs or evidence IDs reviewed by the judge.", "type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
         "causal_finding": {"type": "string", "minLength": 1},
         "verdict": {"enum": ["provisionally_supported", "partially_supported", "insufficiently_identified", "provisionally_rejected", "deferred"]},
+        "action item": {"enum":["end_hypothesis_accepted","end_hypothesis_rejected", "revision_requested", "experimental_data_requested"]}
         "accepted_components": {"type": "array", "items": {"type": "string", "minLength": 1}},
         "rejected_components": {"type": "array", "items": {"type": "string", "minLength": 1}},
         "unresolved_components": {"type": "array", "items": {"type": "string", "minLength": 1}},
