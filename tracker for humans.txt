@@ -1,5 +1,31 @@
-yo
-stuff that we have done so far :
+OSI Nyaya — human tracker
+==========================
 
-Added 4 bots - proponent, opponent, judge (these 3 make the debate engine) and causal knowledge graph generator
-Additionally, puda_ntu_compute is like the developer bot - go to for editing the global settings
+What is in the repository so far
+--------------------------------
+1. Defined four Nyaya reasoning bot profiles and their portable role contracts:
+   - @CausalKnowledgeBot / causal-knowledge-mapper: Pramana, evidence provenance and causal-model audit.
+   - @NyayaProponentBot / nyaya-proponent: Paksha, falsifiable causal-hypothesis formulation.
+   - @NyayaOpponentBot / nyaya-opponent: Pratipaksha, constructive challenge, alternatives, and decisive tests.
+   - @NyayaJudgeBot / nyaya-judge: Nirnaya, calibrated provisional verdict and recommended next test.
+
+2. Documented the intended handoff:
+   Causal Knowledge Mapper -> Proponent -> Opponent -> Judge.
+
+3. Added a shared Vaada debate-record JSON Schema for hypothesis cards, challenge dossiers, and decision records. It captures immutable record/debate IDs, debate round, source provenance, claim/response links, scope, assumptions, uncertainty, confidence, and role-specific content.
+   - Sources are explicitly typed as knowledge_graph, direct_observation, or proposed_link.
+   - Proponents provide a claim, mechanism, predictions, falsifiers, and foreseeable objections.
+   - Opponents provide a fair restatement, severity-ranked objections, alternatives, decisive tests, residual uncertainty, and a repair path.
+   - Judges provide an evidence ledger, causal finding, provisional verdict, accepted/rejected/unresolved components, next test, and update condition.
+
+4. Added profile-scoped causal-mapper skills:
+   - causal-knowledge-mapper: an evidence-linked causal-graph workflow with graph/run JSON schemas, method guidance, report template, minimal example, and validator.
+   - nyaya-evidence-hierarchy: a Nyaya evidence rubric covering pratyaksha, anumana, upamana, shabda, vyapti, and upadhi.
+   - The mapper keeps association, observation, inference, and causal claims distinct rather than treating correlation as causation.
+
+5. Documented repository hygiene. Portable role definitions, schemas, and skills are versioned; runtime-only or sensitive state is excluded, including credentials, bot tokens, allowlists, sessions, memories, and logs.
+
+Operational note
+----------------
+- puda_ntu_compute is the developer bot for editing global settings.
+- This repository currently records the roles, interchange contract, and reusable skills. It does not itself prove that a live multi-bot deployment has been configured or tested.
