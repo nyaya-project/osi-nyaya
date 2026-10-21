@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Evidence-linked causal knowledge graph",
+  "type": "object",
+  "required": ["schema_version", "sources", "entities", "claims", "evidence"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "sources": {"type": "array", "items": {"$ref": "#/$defs/source"}},
+    "entities": {"type": "array", "items": {"$ref": "#/$defs/entity"}},
+    "claims": {"type": "array", "items": {"$ref": "#/$defs/claim"}},
+    "evidence": {"type": "array", "items": {"$ref": "#/$defs/evidence"}},
+    "anchors": {"type": "array", "items": {"$ref": "#/$defs/anchor"}},
+    "unresolved_items": {"type": "array", "items": {"type": "object", "required": ["id", "reason"], "properties": {"id": {"type": "string"}, "reason": {"type": "string"}}}}
+  },
+  "$defs": {
+    "source": {"type": "object", "required": ["id", "title"], "properties": {"id": {"type": "string", "pattern": "^src_"}, "title": {"type": "string"}, "doi_or_url": {"type": "string"}, "fingerprint": {"type": "string"}, "year": {"type": "integer"}}},
+    "entity": {"type": "object", "required": ["id", "name", "type"], "properties": {"id": {"type": "string", "pattern": "^ent_"}, "name": {"type": "string"}, "aliases": {"type": "array", "items": {"type": "string"}}, "type": {"type": "string"}, "definition": {"type": "string"}, "units": {"type": "string"}}},
+    "claim": {"type": "object", "required": ["id", "subject_id", "relation", "object_id", "epistemic_status"], "properties": {"id": {"type": "string", "pattern": "^clm_"}, "subject_id": {"type": "string"}, "relation": {"enum": ["causes", "inhibits", "associated_with", "indicates", "precedes", "constrains", "other"]}, "object_id": {"type": "string"}, "effect_sign": {"enum": ["positive", "negative", "nonmonotonic", "context_dependent", "unknown", "not_applicable"]}, "conditions": {"type": "array", "items": {"type": "string"}}, "negated": {"type": "boolean"}, "epistemic_status": {"enum": ["source_assertion", "agent_hypothesis", "analysis_supported_candidate", "ordinary_claim", "candidate_invariant", "vyapti_anchor", "contested_anchor"]}, "concomitance_type": {"enum": ["anvaya", "vyatireka", "anvaya_vyatireka", "unassessed"]}}},
+    "evidence": {"type": "object", "required": ["id", "claim_id", "source_id", "source_locator", "stance", "pramana_class", "classification_reason", "verification_status"], "properties": {"id": {"type": "string", "pattern": "^ev_"}, "claim_id": {"type": "string"}, "source_id": {"type": "string"}, "source_locator": {"type": "string"}, "passage": {"type": "string"}, "stance": {"enum": ["supports", "contradicts", "contextualizes"]}, "study_type": {"type": "string"}, "pramana_class": {"enum": ["pratyaksha", "anumana", "upamana", "shabda", "unassessed"]}, "classification_reason": {"type": "string"}, "support_strength": {"enum": ["strong", "moderate", "weak", "unassessed"]}, "support_strength_reason": {"type": "string"}, "causal_relevance": {"enum": ["observation_only", "association", "mechanism_inference", "intervention_evidence", "unassessed"]}, "premise_evidence_ids": {"type": "array", "items": {"type": "string"}}, "assumptions": {"type": "array", "items": {"type": "string"}}, "analogy_mapping": {"type": "string"}, "evidence_origin_id": {"type": "string"}, "verification_status": {"enum": ["inspected", "partially_inspected", "unresolved"]}}},
+    "anchor": {"type": "object", "required": ["id", "proposition", "scope", "status", "upadhi_assessment"], "properties": {"id": {"type": "string", "pattern": "^anc_"}, "proposition": {"type": "string"}, "scope": {"type": "string"}, "conditions": {"type": "array", "items": {"type": "string"}}, "foundation_source_ids": {"type": "array", "items": {"type": "string"}}, "status": {"enum": ["candidate_invariant", "vyapti_anchor", "contested_anchor"]}, "upadhi_assessment": {"type": "string"}, "review_rationale": {"type": "string"}}}
+  }
+}

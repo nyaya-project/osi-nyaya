@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "sources": [{"id": "src_demo", "title": "Demonstration study"}],
+  "entities": [
+    {"id": "ent_temperature", "name": "temperature", "type": "control variable", "units": "K"},
+    {"id": "ent_signal", "name": "measured signal", "type": "observable", "units": "a.u."}
+  ],
+  "claims": [{
+    "id": "clm_demo", "subject_id": "ent_temperature", "relation": "associated_with", "object_id": "ent_signal", "effect_sign": "positive", "conditions": ["specified demonstration protocol"], "epistemic_status": "source_assertion", "concomitance_type": "unassessed"
+  }],
+  "evidence": [{
+    "id": "ev_demo", "claim_id": "clm_demo", "source_id": "src_demo", "source_locator": "Figure 1", "passage": "Signal rises over the tested temperature range.", "stance": "supports", "study_type": "controlled measurement", "pramana_class": "pratyaksha", "classification_reason": "The figure directly reports the observation.", "support_strength": "unassessed", "causal_relevance": "association", "evidence_origin_id": "origin_demo_experiment", "verification_status": "inspected"
+  }],
+  "anchors": [],
+  "unresolved_items": []
+}
