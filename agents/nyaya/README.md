@@ -14,9 +14,11 @@ This directory versions the non-secret role artifacts for four Telegram bot prof
 Each profile directory contains:
 
 - `SOUL.md`: the Hermes profile instruction that defines the role.
-- `AGENT.md`: the operational workflow and Vaada-record requirements for that role.
+- `AGENT.md`: the operational workflow and the shared record contract.
 - `nyaya_reasoning.yaml`: a machine-readable reasoning contract, including inputs, outputs, quality gates, and agent handoffs.
 - `skills/` when needed: profile-scoped, portable skills used only by that role. The `causal-knowledge-mapper` profile includes the causal graph workflow and the Nyāya evidence-hierarchy rubric.
+
+All four roles also share [`skills/vaada-cycle/SKILL.md`](skills/vaada-cycle/SKILL.md). It defines the sequential, append-only `vaada-cycle/v1` debate artifact, role order, bounded revision rounds, provenance rules, and the Telegram coordinator requirement. Telegram bots cannot directly consume other bots' messages, so the public chat is an audit transcript and a coordinator/shared artifact carries the authoritative turn state.
 
 ## Vaada interchange schema
 
