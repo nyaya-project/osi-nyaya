@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://osi-nyaya.local/schemas/materials-experiment-plan.schema.json",
+  "title": "Evidence-bound materials experimental test slate",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "campaign_id", "knowledge_graph_ref", "vaada_debate_refs", "status", "recommended_tests"],
+  "properties": {
+    "schema_version": {"const": "materials-experiment-plan/v1"},
+    "campaign_id": {"type": "string", "minLength": 1},
+    "knowledge_graph_ref": {"type": "string", "minLength": 1},
+    "vaada_debate_refs": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+    "status": {"enum": ["proposed", "approved_for_experiment", "superseded", "completed"]},
+    "recommended_tests": {"type": "array", "minItems": 5, "items": {"$ref": "#/$defs/test"}}
+  },
+  "$defs": {
+    "test": {"type": "object", "additionalProperties": false, "required": ["test_id", "hypothesis_record_ref", "measurement", "intervention_or_control", "prediction", "falsifier", "feasibility", "priority"], "properties": {
+      "test_id": {"type": "string", "minLength": 1},
+      "hypothesis_record_ref": {"type": "string", "minLength": 1},
+      "measurement": {"type": "string", "minLength": 1},
+      "intervention_or_control": {"type": "string", "minLength": 1},
+      "prediction": {"type": "string", "minLength": 1},
+      "falsifier": {"type": "string", "minLength": 1},
+      "negative_control": {"type": "string"},
+      "feasibility": {"enum": ["high", "moderate", "low", "unassessed"]},
+      "priority": {"type": "integer", "minimum": 1},
+      "notes": {"type": "string"}
+    }}
+  }
+}

@@ -49,6 +49,8 @@ The mapper distinguishes direct observation, inferred mechanism, association, an
   - [`profiles/nyaya-judge/`](agents/nyaya/profiles/nyaya-judge/) — Nirṇaya decision and next-test role.
   - [`skills/vaada-cycle/SKILL.md`](agents/nyaya/skills/vaada-cycle/SKILL.md) — shared sequential debate protocol and Telegram coordination constraint.
 - [`schemas/vaada-record.schema.json`](schemas/vaada-record.schema.json) — common `vaada-record/v1` contract for role records.
+- [`schemas/materials-experiment-plan.schema.json`](schemas/materials-experiment-plan.schema.json) — a five-or-more, falsifiable materials test-slate contract.
+- [`schemas/materials-simulation-decision-lock.schema.json`](schemas/materials-simulation-decision-lock.schema.json) — the required pre-simulation protocol lock, with no licensed CIF payload field.
 - [`tracker for humans.txt`](tracker%20for%20humans.txt) — human-facing project tracker.
 
 ## Core artifacts
