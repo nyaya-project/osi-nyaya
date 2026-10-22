@@ -3,7 +3,7 @@ llm:
   model: gpt-5.6-sol
   provider: openai-codex
   temperature: null  # Provider default; parameter omitted in every arm.
-pool_size: 50
+pool_size: 100
 batch_size: 10
 top_k: 10
 max_rounds: 2
