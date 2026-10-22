@@ -1,72 +1,7 @@
-[
-  {
-    "candidate_id": "C14",
-    "source_id": "24030159",
-    "reason": "formula_B_named_with_structure_terms"
-  },
-  {
-    "candidate_id": "C44",
-    "source_id": "29927455",
-    "reason": "formula_B_named_with_structure_terms"
-  },
-  {
-    "candidate_id": "C55",
-    "source_id": "12665377",
-    "reason": "formula_B_named_with_structure_terms"
-  },
-  {
-    "candidate_id": "C58",
-    "source_id": "17260984",
-    "reason": "formula_B_named_with_structure_terms"
-  },
-  {
-    "candidate_id": "C58",
-    "source_id": "11681891",
-    "reason": "formula_B_named_with_structure_terms"
-  },
-  {
-    "candidate_id": "C58",
-    "source_id": "40201000",
-    "reason": "formula_B_named_with_structure_terms"
-  },
-  {
-    "candidate_id": "C58",
-    "source_id": "15053570",
-    "reason": "formula_B_named_with_structure_terms"
-  },
-  {
-    "candidate_id": "C58",
-    "source_id": "27308006",
-    "reason": "formula_B_named_with_structure_terms"
-  },
-  {
-    "candidate_id": "C58",
-    "source_id": "35519712",
-    "reason": "formula_B_named_with_structure_terms"
-  },
-  {
-    "candidate_id": "C58",
-    "source_id": "17343376",
-    "reason": "formula_B_named_with_structure_terms"
-  },
-  {
-    "candidate_id": "C58",
-    "source_id": "16999439",
-    "reason": "formula_B_named_with_structure_terms"
-  },
-  {
-    "candidate_id": "C58",
-    "source_id": "40201000",
-    "reason": "formula_B_named_with_structure_terms"
-  },
-  {
-    "candidate_id": "C88",
-    "source_id": "12526494",
-    "reason": "formula_B_named_with_structure_terms"
-  },
-  {
-    "candidate_id": "C99",
-    "source_id": "23519318",
-    "reason": "formula_B_named_with_structure_terms"
-  }
-]
+{
+  "campaign_id": "icsd-substitution-mlip-20261022",
+  "pool_basis": "final_99_candidate_pool",
+  "confirmed_formula_B_structure_reports": [],
+  "count": 0,
+  "note": "The final Valency rerun found zero potential Formula-B structural hits. Historical rejected-provisional-pool evidence is retained only in the Phase 1 resolution and rejection audit records."
+}
