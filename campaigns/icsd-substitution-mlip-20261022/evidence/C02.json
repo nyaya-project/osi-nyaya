@@ -1,0 +1,33 @@
+{
+  "candidate_id": "C02",
+  "formula_B": "SrReF4",
+  "excerpts": [
+    {
+      "source_id": "29850083",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29850083/",
+      "publication_date": null,
+      "text": "Syntheses, Raman spectroscopy and crystal structures of alkali hexa-fluorido-rhenates(IV) revisited. The A2[ReF6] (A = K, Rb and Cs) salts are isotypic and crystallize in the trigonal space group type P [Formula: see text] m1, adopting the K2[GeF6] structure type.",
+      "query_kind": "family",
+      "query": "Re KBrF4 crystal structure solid state",
+      "evidence_id": "C02:L1"
+    },
+    {
+      "source_id": "25093351",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25093351/",
+      "publication_date": null,
+      "text": "Crystal chemistry of anion-excess ReO3-related phases. III.",
+      "query_kind": "family",
+      "query": "Re KBrF4 crystal structure solid state",
+      "evidence_id": "C02:L2"
+    },
+    {
+      "source_id": "19886642",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19886642/",
+      "publication_date": null,
+      "text": "Ligand-based modification of the structures and optical properties of new silver(I)-rhenate(VII) oxide/organic hybrid solids. A new series of silver(I)-rhenate(VII) hybrids was systematically prepared under hydrothermal conditions from eight different N-donor organic ligands (isonicotinate = inca, pyrazine-2-carboxylate = pzc, 1,2,4-triazole = tro, pyridazine = pda, 4,4'-bipyridine = bpy, 1,2-bis(4-pyridyl)-ethane = dpa, 2,3-bis(2-pyridyl)pyrazine = bpp, and tetra-2-pyridinylpyrazine = tpp), and their resulting structures and optical properties were investigated.",
+      "query_kind": "pair",
+      "query": "Re substituted for Ag related inorganic frameworks crystal structure",
+      "evidence_id": "C02:L3"
+    }
+  ]
+}

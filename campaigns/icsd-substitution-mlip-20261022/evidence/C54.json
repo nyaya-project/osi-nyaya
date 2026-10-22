@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C54",
+  "formula_B": "K3RbTmI6",
+  "excerpts": [
+    {
+      "source_id": "21422611",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21422611/",
+      "publication_date": null,
+      "text": "Structural phase transitions in tetra(isopropylammonium) decachlorotricadmate(II), [(CH3)2CHNH3]4Cd3Cl10, crystal with a two-dimensional cadmium(II) halide network. Single crystals of tetra(isopropylammonium) decachlorotricadmate(II) as a rare example of a two-dimensional cadmium(II) halide network of [Cd(3)Cl(10)](n)(4-) have been synthesized and characterized by means of calorimetry and X-ray diffraction.",
+      "query_kind": "family",
+      "query": "K K4CdCl6 crystal structure solid state",
+      "evidence_id": "C54:L1"
+    },
+    {
+      "source_id": "10794275",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/10794275/",
+      "publication_date": null,
+      "text": "X-ray diffraction study of the phase transitions of (CH3)4NCdCl3 between 293 and 80 K: a quantitative analysis of the ferroelastic domains distribution below 118 K X-ray diffraction patterns of [N(CH3)4][CdCl3], tetramethylammonium trichlorocadmate(II), have been investigated in the temperature range 80-293 K, which includes two phase transitions at 118 and 104 K, respectively. The main interest in this compound is to establish the mechanism of the structural phase transitions common to other members of the isostructural family [(CH3)4N][MX3].",
+      "query_kind": "family",
+      "query": "K K4CdCl6 crystal structure solid state",
+      "evidence_id": "C54:L2"
+    },
+    {
+      "source_id": "41545689",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/41545689/",
+      "publication_date": null,
+      "text": "A comprehensive study of the crystal structure and dynamics of [N(C3H7)4]2Cd2Cl6. Single crystals of the organic-inorganic hybrid compound [N(C3H7)4]2Cd2Cl6 were synthesized by an aqueous solution method, and their structural and dynamic properties were systematically investigated.",
+      "query_kind": "family",
+      "query": "K K4CdCl6 crystal structure solid state",
+      "evidence_id": "C54:L3"
+    },
+    {
+      "source_id": "29711183",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29711183/",
+      "publication_date": null,
+      "text": "K6 Pb8 Cd: A Zintl Phase with Oligomers of Pb4 Tetrahedra Interconnected by Cd Atoms. Unprecedented (Pb4 )Cd(Pb4 )Cd(Pb4 )Cd(Pb4 ) tetramers (see picture) are present in the structure of the title compound, in which they coexist with isolated Pb4 tetrahedra.",
+      "query_kind": "family",
+      "query": "K K4CdCl6 crystal structure solid state",
+      "evidence_id": "C54:L4"
+    },
+    {
+      "source_id": "37675187",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/37675187/",
+      "publication_date": null,
+      "text": "On the high-temperature phase transition of a new chlorocadmate(ii) complex incorporating symmetrical Cd2Cl6 clusters: structural, optical and electrical properties. In the present investigation, a new hybrid crystal, with the formula [(C4H9)4P]2Cd2Cl6 has been synthesized by the slow evaporation method at room temperature.",
+      "query_kind": "family",
+      "query": "K K4CdCl6 crystal structure solid state",
+      "evidence_id": "C54:L5"
+    },
+    {
+      "source_id": "12050409",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12050409/",
+      "publication_date": null,
+      "text": "K(2)SrNb(6)Cl(18), dipotassium strontium hexaniobium octadecachloride. The structure of dipotassium strontium hexaniobium octadecachloride is based on [Nb(6)Cl(i)(12)Cl(a)(6)](4-) units (i and a denote 'inner' and 'outer' ligands, respectively), which have crystallographically imposed -3 symmetry, linked together by K(+) and Sr(2+) cations.",
+      "query_kind": "family",
+      "query": "K K4CdCl6 crystal structure solid state",
+      "evidence_id": "C54:L6"
+    },
+    {
+      "source_id": "29206117",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29206117/",
+      "publication_date": null,
+      "text": "Synthesis, crystal structures and properties of the new compounds K7-xAg1+x(XO4)4 (X = Mo, W). Two new isostructural compounds, namely heptapotassium silver tetrakis(tetraoxomolybdate), K7-xAg1+x(MoO4)4 (0 \u2264 x \u2264 0.4), and heptapotassium silver tetrakis(tetraoxotungstate), K7-xAg1+x(WO4)4 (0 \u2264 x \u2264 0.4), have been synthesized and found to crystallize in the polar space group P63mc (Z = 2) with the unit-cell dimensions a = 12.4188 (2) and c = 7.4338 (2) \u00c5 for K6.68Ag1.32(MoO4)4 (single-crystal data), and a = 12.4912 (5) and c = 7.4526 (3) \u00c5 for K7Ag(WO4)4 (Rietveld analysis data).",
+      "query_kind": "family",
+      "query": "K K4CdCl6 crystal structure solid state",
+      "evidence_id": "C54:L7"
+    },
+    {
+      "source_id": "25844179",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25844179/",
+      "publication_date": null,
+      "text": "Crystal structure of langbeinite-related Rb0.743K0.845Co0.293Ti1.707(PO4)3. Potassium rubidium cobalt(II)/titanium(IV) tris-(orthophosphate), Rb0.743K0.845Co0.293Ti1.707(PO4)3, has been obtained using a high-temperature crystallization method.",
+      "query_kind": "pair",
+      "query": "K substituted for Rb related inorganic frameworks crystal structure",
+      "evidence_id": "C54:L8"
+    }
+  ]
+}

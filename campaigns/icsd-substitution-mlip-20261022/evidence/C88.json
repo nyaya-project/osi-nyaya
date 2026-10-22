@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C88",
+  "formula_B": "CsTeN2",
+  "excerpts": [
+    {
+      "source_id": "21553836",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21553836/",
+      "publication_date": null,
+      "text": "Structural studies and electrical properties of Cs/Al/Te/O phases with the pyrochlore structure. A series of polycrystalline and single crystal cesium aluminum tellurates with the pyrochlore structure have been prepared and characterized.",
+      "query_kind": "family",
+      "query": "Te CsAlO2 crystal structure solid state",
+      "evidence_id": "C88:L1"
+    },
+    {
+      "source_id": "19299873",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19299873/",
+      "publication_date": null,
+      "text": "Polymorphism of CaTeO3 and solid solutions Ca(x)Sr(1-x)TeO3. Single crystals and microcrystalline samples of the calcium tellurate(IV) phases alpha-, beta-, beta'- and gamma-CaTeO3 as well as of two solid solutions Ca(x)Sr(1-x)TeO3 (x = 0.55 and 0.77) have been synthesized and characterized by X-ray diffraction and thermal analysis.",
+      "query_kind": "family",
+      "query": "Te CsAlO2 crystal structure solid state",
+      "evidence_id": "C88:L2"
+    },
+    {
+      "source_id": "30713727",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30713727/",
+      "publication_date": null,
+      "text": "Ca2Te3O8, a new phase in the CaO-TeO2 system. Single crystals of dicalcium octa-oxidotritellurate(IV), Ca2Te3O8, were obtained from a CsCl/NaCl melt with CaO and TeO2 as educts in the molar ratio of 1:2.",
+      "query_kind": "family",
+      "query": "Te CsAlO2 crystal structure solid state",
+      "evidence_id": "C88:L3"
+    },
+    {
+      "source_id": "21793494",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21793494/",
+      "publication_date": null,
+      "text": "CsTe2O(6-x): novel mixed-valence tellurium oxides with framework-deficient pyrochlore-related structure. Structures of CsTe\u2082O(6-x) phases were investigated by single-crystal X-ray diffraction and neutron powder diffraction.",
+      "query_kind": "family",
+      "query": "Te CsAlO2 crystal structure solid state",
+      "evidence_id": "C88:L4"
+    },
+    {
+      "source_id": "27740772",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/27740772/",
+      "publication_date": null,
+      "text": "Synthesis and Characterization of Cs1-xTi2Te2O (x \u2248 0.2): Electron Doping by Te Resulting in a Layered Metal. Reacting Cs2O1.3, TiTe, TiO2, and Te under inert conditions gives powders of Cs1-xTi2Te2O (x \u2248 0.2).",
+      "query_kind": "family",
+      "query": "Te CsAlO2 crystal structure solid state",
+      "evidence_id": "C88:L5"
+    },
+    {
+      "source_id": "23125566",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23125566/",
+      "publication_date": null,
+      "text": "Caesium diuranium hexa-telluride. Single crystals of CsU(2)Te(6) were synthesized from the reaction of U, Te, and Cs(2)Te(3) at 1273 K.",
+      "query_kind": "family",
+      "query": "Te CsAlO2 crystal structure solid state",
+      "evidence_id": "C88:L6"
+    },
+    {
+      "source_id": "11196906",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11196906/",
+      "publication_date": null,
+      "text": "Synthesis and structures of new ternary aluminum chalcogenides: LiAlSe2, alpha-LiAlTe2, and beta-LiAlTe2. The synthesis and crystal structures of new ternary aluminum chalcogenides, LiAlSe2, alpha-LiAlTe2, and beta-LiAlTe2, are reported.",
+      "query_kind": "family",
+      "query": "Te CsAlO2 crystal structure solid state",
+      "evidence_id": "C88:L7"
+    },
+    {
+      "source_id": "23794967",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23794967/",
+      "publication_date": null,
+      "text": "The low-symmetry lanthanum(III) oxotellurate(IV), La10Te12O39. Single crystals of deca-lanthanum(III) dodeca-oxotellurate(IV), La10Te12O39, were obtained by reacting La2O3 and TeO2 in a CsCl flux.",
+      "query_kind": "family",
+      "query": "Te CsAlO2 crystal structure solid state",
+      "evidence_id": "C88:L8"
+    }
+  ]
+}

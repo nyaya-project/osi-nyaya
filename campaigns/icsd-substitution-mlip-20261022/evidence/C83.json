@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C83",
+  "formula_B": "MnTlF6",
+  "excerpts": [
+    {
+      "source_id": "19767680",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19767680/",
+      "publication_date": null,
+      "text": "Ternary fluorides BaMF4 (M = Zn, Mg and Mn) at low temperatures. Ternary fluorides BaMF4 (M = Zn, Mg, Mn) have been studied in the temperature range from 300 to 10 K using synchrotron and laboratory powder and single-crystal diffraction.",
+      "query_kind": "family",
+      "query": "Mn BaSiF6 crystal structure solid state",
+      "evidence_id": "C83:L1"
+    },
+    {
+      "source_id": "11373378",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11373378/",
+      "publication_date": null,
+      "text": "X-ray diffraction study of the phase transition of K2Mn2(BeF4)3: a new type of low-temperature structure for langbeinites. The potassium manganese tetrafluoroberyllate langbeinite compound has been studied in the temperature range 100-300 K.",
+      "query_kind": "family",
+      "query": "Mn BaSiF6 crystal structure solid state",
+      "evidence_id": "C83:L2"
+    },
+    {
+      "source_id": "21555837",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21555837/",
+      "publication_date": null,
+      "text": "Structural stability of BaMF4 (M = Mg, Zn and Mn) at high pressures. Piezoelectric fluorides of the composition BaMF(4) (M = Mg, Zn, Mn) have been studied in situ at high pressures in diamond anvil cells with single-crystal x-ray diffraction and Raman spectroscopy.",
+      "query_kind": "family",
+      "query": "Mn BaSiF6 crystal structure solid state",
+      "evidence_id": "C83:L3"
+    },
+    {
+      "source_id": "32114764",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/32114764/",
+      "publication_date": null,
+      "text": "Transition-Metal Monofluorophosphate Ba2M2(PO3F)F6 (M = Mn, Co, and Ni): Varied One-Dimensional Transition-Metal Chains and Antiferromagnetism. Four transition-metal monofluorophosphates, with a chemical formula of Ba2M2(PO3F)F6 (M = Mn, Co, Ni, and Cu), have been synthesized hydrothermally using phosphoric and fluorophosphoric acids.",
+      "query_kind": "family",
+      "query": "Mn BaSiF6 crystal structure solid state",
+      "evidence_id": "C83:L4"
+    },
+    {
+      "source_id": "30839202",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30839202/",
+      "publication_date": null,
+      "text": "Crystal and Magnetic Structures of Melilite-Type Ba2MnSi2O7. Melilite-type Ba2MnSi2O7 was synthesized by a standard powder solid-state reaction route, and its magnetic properties were studied at low temperature.",
+      "query_kind": "family",
+      "query": "Mn BaSiF6 crystal structure solid state",
+      "evidence_id": "C83:L5"
+    },
+    {
+      "source_id": "34431300",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/34431300/",
+      "publication_date": null,
+      "text": "Syntheses and Characterization of the Mixed-Valent Manganese(II/III) Fluorides Mn2F5 and Mn3F8. We obtained single crystals of the binary mixed-valent fluorides Mn2F5 and Mn3F8 using a high-pressure/high-temperature approach.",
+      "query_kind": "family",
+      "query": "Mn BaSiF6 crystal structure solid state",
+      "evidence_id": "C83:L6"
+    },
+    {
+      "source_id": "24253083",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24253083/",
+      "publication_date": null,
+      "text": "Sodium manganese fluorosulfate with a triplite structure. The crystal structure of the NaMnSO4F fluorosulfate phase prepared by low-temperature solid-state synthesis has been solved and refined by the Rietveld analysis of synchrotron X-ray powder diffraction data.",
+      "query_kind": "family",
+      "query": "Mn BaSiF6 crystal structure solid state",
+      "evidence_id": "C83:L7"
+    },
+    {
+      "source_id": "12909744",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12909744/",
+      "publication_date": null,
+      "text": "Manganese antimony diselenide iodide, MnSbSe2I. MnSbSe(2)I contains layers parallel to the bc plane that consist of edge- and corner-sharing MnSe(6/2) and MnSe(2/2)I(4/2) octahedra.",
+      "query_kind": "pair",
+      "query": "Mn substituted for Sb related inorganic frameworks crystal structure",
+      "evidence_id": "C83:L8"
+    }
+  ]
+}

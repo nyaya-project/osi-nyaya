@@ -1,0 +1,33 @@
+{
+  "candidate_id": "C85",
+  "formula_B": "HoMn3V4O12",
+  "excerpts": [
+    {
+      "source_id": "32515189",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/32515189/",
+      "publication_date": null,
+      "text": "High-Pressure Synthesis, Crystal Structures, and Properties of A-Site Columnar-Ordered Quadruple Perovskites NaRMn2Ti4O12 with R = Sm, Eu, Gd, Dy, Ho, Y. The formation of NaRMn2Ti4O12 compounds (R = rare earth) under high pressure (about 6 GPa) and high temperature (about 1750 K) conditions was studied.",
+      "query_kind": "family",
+      "query": "Ho NaMn7O12 crystal structure solid state",
+      "evidence_id": "C85:L1"
+    },
+    {
+      "source_id": "21583725",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21583725/",
+      "publication_date": null,
+      "text": "A synchrotron study of Na(2.27)Ho(7.73)(SiO(4))(6)O(0.72). A well crystallized powder sample of sodium holmium orthosilicate oxyapatite, Na(2.27)Ho(7.73)(SiO(4))(6)O(0.72), was obtained after mechanical milling and thermal treatment at 1123 K.",
+      "query_kind": "family",
+      "query": "Ho NaMn7O12 crystal structure solid state",
+      "evidence_id": "C85:L2"
+    },
+    {
+      "source_id": "23088383",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23088383/",
+      "publication_date": null,
+      "text": "Site-selective doping effect in AMn3V4O12 (A = Na+, Ca2+, and La3+). A-site-ordered perovskite-structure oxides with Mn and V at A' and B sites, respectively, were synthesized by using a high-pressure method.",
+      "query_kind": "source",
+      "query": "\"LaMn3V4O12\" substitution doping crystal structure",
+      "evidence_id": "C85:L3"
+    }
+  ]
+}

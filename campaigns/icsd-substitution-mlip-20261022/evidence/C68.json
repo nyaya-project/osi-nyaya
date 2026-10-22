@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C68",
+  "formula_B": "K2Li4MoN4",
+  "excerpts": [
+    {
+      "source_id": "37601396",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/37601396/",
+      "publication_date": null,
+      "text": "Crystal structure of K6[Zn(CO3)4]. The crystal structure of K6[Zn(CO3)4], hexa-potassium tetra-carbonato-zincate(II), comprises four unique potassium cations (two located on a general position, and two on the twofold rotation axis of the space group C2/c) and a [Zn(CO3)4]6- anion.",
+      "query_kind": "family",
+      "query": "K Li6ZnO4 crystal structure solid state",
+      "evidence_id": "C68:L1"
+    },
+    {
+      "source_id": "29206117",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29206117/",
+      "publication_date": null,
+      "text": "Synthesis, crystal structures and properties of the new compounds K7-xAg1+x(XO4)4 (X = Mo, W). Two new isostructural compounds, namely heptapotassium silver tetrakis(tetraoxomolybdate), K7-xAg1+x(MoO4)4 (0 \u2264 x \u2264 0.4), and heptapotassium silver tetrakis(tetraoxotungstate), K7-xAg1+x(WO4)4 (0 \u2264 x \u2264 0.4), have been synthesized and found to crystallize in the polar space group P63mc (Z = 2) with the unit-cell dimensions a = 12.4188 (2) and c = 7.4338 (2) \u00c5 for K6.68Ag1.32(MoO4)4 (single-crystal data), and a = 12.4912 (5) and c = 7.4526 (3) \u00c5 for K7Ag(WO4)4 (Rietveld analysis data).",
+      "query_kind": "family",
+      "query": "K Li6ZnO4 crystal structure solid state",
+      "evidence_id": "C68:L2"
+    },
+    {
+      "source_id": "35830741",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/35830741/",
+      "publication_date": null,
+      "text": "Shedding Light on the Structure and Characterization of K2ZnGe2O6: A Phase-Matchable Nonlinear Optical Crystal. Nonlinear optical (NLO) materials have recently aroused great interest owing to their capability of frequency conversion in solid-state lasers.",
+      "query_kind": "family",
+      "query": "K Li6ZnO4 crystal structure solid state",
+      "evidence_id": "C68:L3"
+    },
+    {
+      "source_id": "35573111",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/35573111/",
+      "publication_date": null,
+      "text": "Cation Disorder and Large Tetragonal Supercell Ordering in the Li-Rich Argyrodite Li7Zn0.5SiS6. A tetragonal argyrodite with >7 mobile cations, Li7Zn0.5SiS6, is experimentally realized for the first time through solid state synthesis and exploration of the Li-Zn-Si-S phase diagram.",
+      "query_kind": "family",
+      "query": "K Li6ZnO4 crystal structure solid state",
+      "evidence_id": "C68:L4"
+    },
+    {
+      "source_id": "12909743",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12909743/",
+      "publication_date": null,
+      "text": "(K4Li4)Al8Ge8O32.8H2O: an Li+-exchanged potassium aluminogermanate with the zeolite gismondine (GIS) topology. The title compound, lithium potassium dialuminium digermanium octaoxide dihydrate, (K,Li)-(Al,Ge)-GIS (GIS is gismondine), is the result of a 50% Li(+) exchange into the K-(Al,Ge)-GIS structure.",
+      "query_kind": "pair",
+      "query": "K substituted for Li related inorganic frameworks crystal structure",
+      "evidence_id": "C68:L5"
+    },
+    {
+      "source_id": "16434791",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16434791/",
+      "publication_date": null,
+      "text": "Structural disorder of a new zeolite-like lithosilicate, K(2.6)Li(5.4)[Li4Si16O38].4.3H2O. The framework structure of the synthetic microporous lithosilicate RUB-30 (K(2.6)Li(5.4)[Li4Si16O38].4.3H2O) is similar to that of the fibrous zeolites such as natrolite, edingtonite and thomsonite, since all their frameworks include the same secondary structural building unit, the so-called 4-1 T5O10 cluster of tetrahedra.",
+      "query_kind": "pair",
+      "query": "K substituted for Li related inorganic frameworks crystal structure",
+      "evidence_id": "C68:L6"
+    },
+    {
+      "source_id": "22494264",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22494264/",
+      "publication_date": null,
+      "text": "New P2 compound with brucite-like layers: potassium lithiostannate. A new compound with brucite-like layers, K(0.72)Li(0.24)Sn(0.76)O(2), has been obtained two ways, via solid-state reactions: with a big excess of KOH and in a controllable atmosphere without water and carbon dioxide.",
+      "query_kind": "pair",
+      "query": "K substituted for Li related inorganic frameworks crystal structure",
+      "evidence_id": "C68:L7"
+    },
+    {
+      "source_id": "10944251",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/10944251/",
+      "publication_date": null,
+      "text": "Analysis of LiKSO4 crystals in the temperature range from 573 to 943 K. The structural phases observed in LiKSO4 crystals due to thermotropic transitions have been studied for more than a century.",
+      "query_kind": "pair",
+      "query": "K substituted for Li related inorganic frameworks crystal structure",
+      "evidence_id": "C68:L8"
+    }
+  ]
+}

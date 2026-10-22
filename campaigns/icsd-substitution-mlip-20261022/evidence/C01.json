@@ -1,0 +1,69 @@
+{
+  "candidate_id": "C01",
+  "formula_B": "Ni(PtO2)2",
+  "excerpts": [
+    {
+      "source_id": "40191319",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/40191319/",
+      "publication_date": null,
+      "text": "Crystal Structure of Nd10.67Pt4O24, a New Neodymium Platinate. A new platinate was recently discovered when Nd2O3 was explored as a platinum capture material in the Ostwald process, formed by a direct reaction between gaseous PtO2 and Nd2O3.",
+      "query_kind": "family",
+      "query": "Pt Mn3O4 crystal structure solid state",
+      "evidence_id": "C01:L1"
+    },
+    {
+      "source_id": "2412.16732v1",
+      "locator": "https://arxiv.org/abs/2412.16732",
+      "publication_date": null,
+      "text": "Crystal structure of Nd10.67Pt4O24, a new neodymium platinate A new platinate was recently discovered when Nd2O3 was explored as a platinum capture material in the Ostwald process, formed by a direct reaction between PtO2(g) and Nd2O3. The crystal structure of this new platinate and its composition, Nd10.67Pt4O24 , are here reported for the first time.",
+      "query_kind": "family",
+      "query": "Pt Mn3O4 crystal structure solid state",
+      "evidence_id": "C01:L2"
+    },
+    {
+      "source_id": "16159294",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16159294/",
+      "publication_date": null,
+      "text": "Synthesis and characterization of [PtIn6](GeO4)2O and its solid solution [PtIn6](GaO4)(2-x)(GeO4)xOx/2 (0 < or = x < or = 2): gradual color change of the solid solution from black (x = 0) to yellow (x = 2) as a consequence of quantum dot effect. A new phase [PtIn6](GeO4)2O, a filled variant of [PtIn6](GaO4)2, and the solid solution [PtIn6](GaO4)(2-x)(GeO4)xOx/2 (0 < or = x < or = 2) were prepared and characterized.",
+      "query_kind": "family",
+      "query": "Pt Mn3O4 crystal structure solid state",
+      "evidence_id": "C01:L3"
+    },
+    {
+      "source_id": "20578688",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20578688/",
+      "publication_date": null,
+      "text": "CaCu3Pt4O12: the first perovskite with the B site fully occupied by Pt(4+). A novel A-site ordered perovskite CaCu(3)Pt(4)O(12) was synthesized under high pressure and high temperature of 12 GPa and 1250 degrees C.",
+      "query_kind": "family",
+      "query": "Pt Mn3O4 crystal structure solid state",
+      "evidence_id": "C01:L4"
+    },
+    {
+      "source_id": "30918926",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30918926/",
+      "publication_date": null,
+      "text": "New Ag8PtO6: synthesis, crystal structure, physical properties and theoretical analyses. We report the synthesis, crystal structure, and basic physical properties of Ag8PtO6, which represents the first silver platinum ternary oxide.",
+      "query_kind": "family",
+      "query": "Pt Mn3O4 crystal structure solid state",
+      "evidence_id": "C01:L5"
+    },
+    {
+      "source_id": "18269241",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18269241/",
+      "publication_date": null,
+      "text": "High-pressure synthesis, structure, and characterization of a post-perovskite CaPtO3 with CaIrO3-type structure. A new ternary platinum oxide, CaPtO3 was synthesized under a pressure of 7 GPa and a temperature of 1000 degrees C.",
+      "query_kind": "family",
+      "query": "Pt Mn3O4 crystal structure solid state",
+      "evidence_id": "C01:L6"
+    },
+    {
+      "source_id": "16711688",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16711688/",
+      "publication_date": null,
+      "text": "Single-crystal structure of the 2H-related perovskites (A(3-x)Nax)NaBO6 (A = La, Pr, Nd; B = Rh, Pt). Single crystals of La(2.47)Na(1.53)RhO6, Pr(2.45)Na(1.55)RhO6, Nd(2.45)Na(1.55)RhO6, La2Na2PtO6, and Nd2Na2PtO6 were grown from carbonate and \"wet\" hydroxide fluxes.",
+      "query_kind": "pair",
+      "query": "Pt substituted for Rh related inorganic frameworks crystal structure",
+      "evidence_id": "C01:L7"
+    }
+  ]
+}

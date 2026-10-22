@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C08",
+  "formula_B": "ZnPAu",
+  "excerpts": [
+    {
+      "source_id": "21753925",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21753925/",
+      "publication_date": null,
+      "text": "Cu(2)ZnSiS(4). Single crystals of Cu(2)ZnSiS(4), dicopper(I) zinc silicon tetrasulfide, have been prepared via high-temperature solid-state synthesis.",
+      "query_kind": "family",
+      "query": "Zn ZrBeSi crystal structure solid state",
+      "evidence_id": "C08:L1"
+    },
+    {
+      "source_id": "22267556",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22267556/",
+      "publication_date": null,
+      "text": "Polymorphism of Li2Zn3. Crystal structures of low- and high-temperature modifications of the binary phase Li(2)Zn(3) were determined by single-crystal X-ray diffraction techniques.",
+      "query_kind": "family",
+      "query": "Zn ZrBeSi crystal structure solid state",
+      "evidence_id": "C08:L2"
+    },
+    {
+      "source_id": "17917209",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17917209/",
+      "publication_date": null,
+      "text": "SrZn(11): a new binary compound with the BaCd(11) structure. Single crystals of strontium undecazinc, SrZn(11), were obtained when decomposing SrZn(2) under conditions of high pressure and high temperature.",
+      "query_kind": "family",
+      "query": "Zn ZrBeSi crystal structure solid state",
+      "evidence_id": "C08:L3"
+    },
+    {
+      "source_id": "17622138",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17622138/",
+      "publication_date": null,
+      "text": "Occupation waves the way you have never seen them: the orthorhombic quasicrystal approximants RE(13)Zn(58+)(delta) (RE = Ho, Er, Tm, and Lu). A series of binary quasicrystal approximants RE13Zn58+delta (RE = Ho, Er, Tm, and Lu) have been prepared, and structural studies were performed by means of single-crystal X-ray diffraction.",
+      "query_kind": "family",
+      "query": "Zn ZrBeSi crystal structure solid state",
+      "evidence_id": "C08:L4"
+    },
+    {
+      "source_id": "22219730",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22219730/",
+      "publication_date": null,
+      "text": "La(5)Zn(2)Sn. A single crystal of penta-lanthanum dizinc stannide, La(5)Zn(2)Sn, was obtained from the elements in a resistance furnace.",
+      "query_kind": "family",
+      "query": "Zn ZrBeSi crystal structure solid state",
+      "evidence_id": "C08:L5"
+    },
+    {
+      "source_id": "23007527",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23007527/",
+      "publication_date": null,
+      "text": "Ni2Sn2Zn from single-crystal X-ray diffraction. Dinickel ditin zinc, Ni(2)Sn(2)Zn, crystallizes in the cubic space group Pm3m, with a lattice parameter of a = 8.845 (1) \u00c5 and with all atoms occupying special positions.",
+      "query_kind": "family",
+      "query": "Zn ZrBeSi crystal structure solid state",
+      "evidence_id": "C08:L6"
+    },
+    {
+      "source_id": "26895373",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26895373/",
+      "publication_date": null,
+      "text": "BaAl4 derivative phases in the sections {La,Ce}Ni2Si2-{La,Ce}Zn2Si2: phase relations, crystal structures and physical properties. Phase relations and crystal structures have been evaluated within the sections LaNi2Si2-LaZn2Si2 and CeNi2Si2-CeZn2Si2 at 800 \u00b0C using electron microprobe analysis and X-ray powder and single crystal structure analyses.",
+      "query_kind": "family",
+      "query": "Zn ZrBeSi crystal structure solid state",
+      "evidence_id": "C08:L7"
+    },
+    {
+      "source_id": "25279593",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25279593/",
+      "publication_date": null,
+      "text": "Synthesis and crystal structures of RE7Zn(21+x)Si(2-x) [RE = Ce, Pr, and Nd; 0.09 (1) < x < 0.95 (1)]. The focus of this paper is on the synthesis and crystal structures of three Zn-rich compounds with the general formula RE7Zn(21+x)Si(2-x), where RE = Ce [x = 0.95 (1); heptacerium docosazinc silicon], Pr [x = 0.09 (1); heptapraseodymium henicosazinc disilicon], and Nd [x = 0.53 (1); heptaneodymium docosazinc silicon].",
+      "query_kind": "family",
+      "query": "Zn ZrBeSi crystal structure solid state",
+      "evidence_id": "C08:L8"
+    }
+  ]
+}

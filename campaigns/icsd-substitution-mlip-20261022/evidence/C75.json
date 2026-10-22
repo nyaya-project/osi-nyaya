@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C75",
+  "formula_B": "SrNiP",
+  "excerpts": [
+    {
+      "source_id": "24898970",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24898970/",
+      "publication_date": null,
+      "text": "The Ce2Li0.39Ni1.61Si2 structure as a new derivative of the AlB2 family. A new quaternary dicerium lithium/nickel disilicide, Ce2Li0.39Ni1.61Si2, crystallizes as a new structure type of intermetallic compounds closely related to the AlB2 family.",
+      "query_kind": "family",
+      "query": "Ni LiBaSi crystal structure solid state",
+      "evidence_id": "C75:L1"
+    },
+    {
+      "source_id": "16331712",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16331712/",
+      "publication_date": null,
+      "text": "Ba2[Ni3N2]: a low-valent nitridonickelate-synthesis, crystal structure, and physical properties. The ternary alkaline-earth nitridonickelate Ba2[Ni3N2] (Ba2[NiI2Ni0N2]) was prepared by the reaction of mixtures of Ba2N and Ni in nitrogen gas of ambient back-pressure at 1173 K.",
+      "query_kind": "family",
+      "query": "Ni LiBaSi crystal structure solid state",
+      "evidence_id": "C75:L2"
+    },
+    {
+      "source_id": "22455546",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22455546/",
+      "publication_date": null,
+      "text": "Synthesis, crystal structure, and physical properties of the type-I clathrate Ba(8-\u03b4)Ni(x)\u25a1(y)Si(46-x-y). Type-I clathrate phase Ba(8)Ni(x)\u25a1(y)Si(46-x-y) (\u25a1 = vacancy) was obtained from the elements at 1000 \u00b0C with the homogeneity range 2.4 \u2264 x \u2264 3.8 and 0 \u2264 y \u2264 0.9.",
+      "query_kind": "family",
+      "query": "Ni LiBaSi crystal structure solid state",
+      "evidence_id": "C75:L3"
+    },
+    {
+      "source_id": "22447292",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22447292/",
+      "publication_date": null,
+      "text": "Single crystal X-ray structure study of the Li(2-x)Na(x)Ni[PO4]F system. The new compounds Li(2-x)Na(x)Ni[PO(4)]F (x = 0.7, 1, and 2) have been synthesized by a solid state reaction route.",
+      "query_kind": "pair",
+      "query": "Ni substituted for Li related inorganic frameworks crystal structure",
+      "evidence_id": "C75:L4"
+    },
+    {
+      "source_id": "20101084",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20101084/",
+      "publication_date": null,
+      "text": "Structure solution of the new titanate Li4Ti8Ni3O21 using precession electron diffraction. A sample having stoichiometry Li[Ti(1.5)Ni(0.5)]O(4) has been synthesized to obtain a spinel structure.",
+      "query_kind": "pair",
+      "query": "Ni substituted for Li related inorganic frameworks crystal structure",
+      "evidence_id": "C75:L5"
+    },
+    {
+      "source_id": "17260984",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17260984/",
+      "publication_date": null,
+      "text": "Crystal chemistry and electronic structure of the metallic lithium ion conductor, LiNiN. The layered ternary nitride LiNiN shows an interesting combination of fast Li+ ion diffusion and metallic behavior, properties which suggest potential applications as an electrode material in lithium ion batteries.",
+      "query_kind": "pair",
+      "query": "Ni substituted for Li related inorganic frameworks crystal structure",
+      "evidence_id": "C75:L6"
+    },
+    {
+      "source_id": "27195427",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/27195427/",
+      "publication_date": null,
+      "text": "Structural Understanding of Superior Battery Properties of Partially Ni-Doped Li2MnO3 as Cathode Material. We examined the crystal structures of Li2(NixMn1-x)O3(-\u03b4) (x = 0, 1/10, 1/6, and 1/4) to elucidate the relationship between the structure and electrochemical performance of the compounds using neutron and synchrotron X-ray powder diffraction analyses in combination.",
+      "query_kind": "pair",
+      "query": "Ni substituted for Li related inorganic frameworks crystal structure",
+      "evidence_id": "C75:L7"
+    },
+    {
+      "source_id": "28263582",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/28263582/",
+      "publication_date": null,
+      "text": "Investigation of Antisite Defect Formation and Chemical Expansion in LiNiPO4 by in Situ Neutron Diffraction. In situ neutron diffraction was used to characterize the effect of temperature on the crystal structure of LiNiPO4.",
+      "query_kind": "pair",
+      "query": "Ni substituted for Li related inorganic frameworks crystal structure",
+      "evidence_id": "C75:L8"
+    }
+  ]
+}

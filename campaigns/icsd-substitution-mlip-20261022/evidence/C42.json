@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C42",
+  "formula_B": "CsEuSe2",
+  "excerpts": [
+    {
+      "source_id": "37070741",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/37070741/",
+      "publication_date": null,
+      "text": "Cs2Ln3CuS8 (Ln = La-Nd, Sm-Tb): Synthesis, Crystal Structure, and Magnetic and Optical Properties. This work reports the preparation of new quaternary sulfides Cs2Ln3CuS8 (Ln = La-Nd, Sm-Tb), their original crystal and electronic structures, and their magnetic properties.",
+      "query_kind": "family",
+      "query": "Eu CsPrS2 crystal structure solid state",
+      "evidence_id": "C42:L1"
+    },
+    {
+      "source_id": "18369288",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18369288/",
+      "publication_date": null,
+      "text": "Crystal architecture of R(2)SnS(5) (R = Pr, Nd, Gd and Tb): crystal structure relationships in chalcogenides. The crystal structure of the R(2)SnS(5) (R = Pr, Nd, Gd and Tb) compounds has been investigated using X-ray single-crystal diffraction.",
+      "query_kind": "family",
+      "query": "Eu CsPrS2 crystal structure solid state",
+      "evidence_id": "C42:L2"
+    },
+    {
+      "source_id": "40916200",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/40916200/",
+      "publication_date": null,
+      "text": "Structural Investigation of Six Quinary Sulfides Synthesized via the Flux-Assisted Boron-Chalcogen Mixture (BCM) Method: Eu2+ Containing Members of the RE3MTQ7 (M and T = Transition or Main Group Metals, Q = Chalcogens) Family. A series of six quinary rare-earth sulfides Ce1.854+Eu1.152+Na0.30SiS7, Ce1.914+Eu1.092+K0.18SiS7, Ce1.964+Eu1.042+Rb0.08SiS7, Ce1.984+Eu1.022+Cs0.05SiS7, Ce1.974+Eu1.032+Ag0.06SiS7, and Ce1.504+Eu1.502+CuSiS7 were obtained in an alkali iodide flux using the boron-chalcogen mixture (BCM) method.",
+      "query_kind": "family",
+      "query": "Eu CsPrS2 crystal structure solid state",
+      "evidence_id": "C42:L3"
+    },
+    {
+      "source_id": "36837184",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/36837184/",
+      "publication_date": null,
+      "text": "Single Crystals of EuScCuSe3: Synthesis, Experimental and DFT Investigations. EuScCuSe3 was synthesized from the elements for the first time by the method of cesium-iodide flux.",
+      "query_kind": "family",
+      "query": "Eu CsPrS2 crystal structure solid state",
+      "evidence_id": "C42:L4"
+    },
+    {
+      "source_id": "39629732",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/39629732/",
+      "publication_date": null,
+      "text": "Synthesis, Optical, and Magnetic Properties of the Mixed Chalcogenide Semiconductor Series Eu(II)2SiSexS4-x, Prepared via the Flux-Assisted Boron Chalcogen Mixture Method. We report a detailed structural study of a series of five new quaternary Eu(II)-containing mixed chalcogenide phases, Eu2SiSe0.85S3.15, Eu2SiSe2.4S1.6, Eu2SiSe2.6S1.4, Eu2SiSe3.1S0.9, and Eu2SiSe4, synthesized using the flux-assisted boron chalcogen mixture (BCM) method.",
+      "query_kind": "family",
+      "query": "Eu CsPrS2 crystal structure solid state",
+      "evidence_id": "C42:L5"
+    },
+    {
+      "source_id": "18652447",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18652447/",
+      "publication_date": null,
+      "text": "AEuAsS3 (A = Li, K, Rb, and Cs): New As3+ species from an arsenic-rich polysulfide flux. Four europium compounds, LiEuAsS 3 ( I), KEuAsS 3 ( IIa), RbEuAsS 3 ( IIb), and CsEuAsS 3 ( IIc), containing As (3+) were synthesized in molten alkali-metal polysulfide salts.",
+      "query_kind": "family",
+      "query": "Eu CsPrS2 crystal structure solid state",
+      "evidence_id": "C42:L6"
+    },
+    {
+      "source_id": "31062716",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/31062716/",
+      "publication_date": null,
+      "text": "Crystal structure variations in the series SrLnCuS3 (Ln = La, Pr, Sm, Gd, Er and Lu). The crystal structures of the complex sulfides SrLnCuS3 (Ln = Sm, Gd, Er and Lu) have been determined and refined using powder X-ray diffraction.",
+      "query_kind": "family",
+      "query": "Eu CsPrS2 crystal structure solid state",
+      "evidence_id": "C42:L7"
+    },
+    {
+      "source_id": "30821448",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30821448/",
+      "publication_date": null,
+      "text": "Transition Metal Free Monoclinic Eu8In17.33S34 and Its Anisotropic Photoelectronic Responses. Novel Eu8In17.33S34 (1) is obtained by a solid state reaction and its structure features three parallel slabs of [In9.33S18]\u221e, [Eu8]\u221e, and [In8S16]\u221e, together with defects in specific lattice sites.",
+      "query_kind": "family",
+      "query": "Eu CsPrS2 crystal structure solid state",
+      "evidence_id": "C42:L8"
+    }
+  ]
+}

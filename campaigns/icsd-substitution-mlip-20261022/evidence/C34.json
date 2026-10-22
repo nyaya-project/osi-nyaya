@@ -1,0 +1,33 @@
+{
+  "candidate_id": "C34",
+  "formula_B": "Pr2Pt2O7",
+  "excerpts": [
+    {
+      "source_id": "21202443",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21202443/",
+      "publication_date": null,
+      "text": "The pyrochlore-type molybdate Pr(1.37)Ca(0.63)Mo(2)O(7). Praseodymium calcium dimolybdenum hepta-oxide, Pr(1.37)Ca(0.63)Mo(2)O(7), crystallizes in the cubic pyrochlore-type structure.",
+      "query_kind": "family",
+      "query": "Pr Ca2Nb2O7 crystal structure solid state",
+      "evidence_id": "C34:L1"
+    },
+    {
+      "source_id": "25619609",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25619609/",
+      "publication_date": null,
+      "text": "Synthesis and characterization of the rare-earth Dion-Jacobson layered perovskites, APrNb2O7 (A = Rb, Cs and CuCl). The new double-layered perovskites, APrNb(2)O(7) (A = Rb, Cs) have been prepared by a high temperature ceramic method.",
+      "query_kind": "family",
+      "query": "Pr Ca2Nb2O7 crystal structure solid state",
+      "evidence_id": "C34:L2"
+    },
+    {
+      "source_id": "21690933",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21690933/",
+      "publication_date": null,
+      "text": "Crystal structure and relaxor-type transition in SrBi(2)Ta(2)O(9) doped with praseodymium. The effects of Pr substitution in the structure and ferroelectric response for the Sr(1-x)Pr(x)Bi(2)Ta(2)O(9) (SBT-Pr) compound have been studied.",
+      "query_kind": "family",
+      "query": "Pr Ca2Nb2O7 crystal structure solid state",
+      "evidence_id": "C34:L3"
+    }
+  ]
+}

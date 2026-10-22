@@ -1,0 +1,69 @@
+{
+  "candidate_id": "C51",
+  "formula_B": "PdI3",
+  "excerpts": [
+    {
+      "source_id": "17879245",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17879245/",
+      "publication_date": null,
+      "text": "The valence problem of Pd4Br4Te3. Pd(4)Br(4)Te(3) was prepared from Pd, Te, and PdBr(2) at 700 K.",
+      "query_kind": "family",
+      "query": "Pd RhBr3 crystal structure solid state",
+      "evidence_id": "C51:L1"
+    },
+    {
+      "source_id": "20067297",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20067297/",
+      "publication_date": null,
+      "text": "Ordering of Pd(2+) and Pd(4+) in the mixed-valent palladate KPd(2)O(3). A new potassium palladate KPd(2)O(3) was synthesized by the reaction of KO(2) and PdO at elevated oxygen pressure.",
+      "query_kind": "family",
+      "query": "Pd RhBr3 crystal structure solid state",
+      "evidence_id": "C51:L2"
+    },
+    {
+      "source_id": "30713728",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30713728/",
+      "publication_date": null,
+      "text": "Redetermination of Sr2PdO3 from single-crystal X-ray data. The crystal structure redetermination of Sr2PdO3 (distrontium palladium trioxide) was carried out using high-quality single-crystal X-ray data.",
+      "query_kind": "family",
+      "query": "Pd RhBr3 crystal structure solid state",
+      "evidence_id": "C51:L3"
+    },
+    {
+      "source_id": "2211.15972v1",
+      "locator": "https://arxiv.org/abs/2211.15972",
+      "publication_date": null,
+      "text": "Interlayer ferromagnetism and insulator-metal transition in element-doped CrI3 thin films The exploration of magnetism in two-dimensional layered materials has attracted extensive research interest. For the monoclinic phase CrI3 with interlayer antiferromagnetism, finding a static and robust way of realizing the intrinsic interlayer ferromagnetic coupling is desirable.",
+      "query_kind": "source",
+      "query": "\"CrI3\" substitution doping crystal structure",
+      "evidence_id": "C51:L4"
+    },
+    {
+      "source_id": "38157566",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/38157566/",
+      "publication_date": null,
+      "text": "Formation of Domains within a Lower-to-Higher Symmetry Structural Transition in CrI3. CrI3 represents one of the most important van der Waals systems on the route to understanding 2D magnetic phenomena.",
+      "query_kind": "source",
+      "query": "\"CrI3\" substitution doping crystal structure",
+      "evidence_id": "C51:L5"
+    },
+    {
+      "source_id": "2201.08088v1",
+      "locator": "https://arxiv.org/abs/2201.08088",
+      "publication_date": null,
+      "text": "Crystal structure evolution in the van der Waals transition metal trihalides Most transition-metal trihalides are dimorphic. The representative chromium-based triad, CrCl3, CrBr3, CrI3, is characterized by the low-temperature phase adopting the trigonal BiI3 type while the structure of the high-temperature phase is monoclinic of AlCl3 type (C2/m).",
+      "query_kind": "source",
+      "query": "\"CrI3\" substitution doping crystal structure",
+      "evidence_id": "C51:L6"
+    },
+    {
+      "source_id": "35512680",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/35512680/",
+      "publication_date": null,
+      "text": "Crystal structure evolution in the van der Waals vanadium trihalides. Most transition-metal trihalides are dimorphic.",
+      "query_kind": "source",
+      "query": "\"CrI3\" substitution doping crystal structure",
+      "evidence_id": "C51:L7"
+    }
+  ]
+}

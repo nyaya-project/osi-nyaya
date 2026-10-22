@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C37",
+  "formula_B": "Te2Se",
+  "excerpts": [
+    {
+      "source_id": "31185552",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/31185552/",
+      "publication_date": null,
+      "text": "Synthesis and Characterization of Ba2Ag2Se2(Se2). Single crystals and a polycrystalline sample of Ba2Ag2Se2(Se2) were synthesized by standard solid-state chemistry methods at 1173 and 973 K, respectively.",
+      "query_kind": "family",
+      "query": "Se BaSi2 crystal structure solid state",
+      "evidence_id": "C37:L1"
+    },
+    {
+      "source_id": "17915860",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17915860/",
+      "publication_date": null,
+      "text": "Structures and physical properties of new semiconducting polyselenides Ba2CudeltaAg4-deltaSe5 with unprecedented linear Se(3)4- units. The title compounds were prepared from the elements in evacuated silica tubes at 650 degrees C, followed by slow cooling.",
+      "query_kind": "family",
+      "query": "Se BaSi2 crystal structure solid state",
+      "evidence_id": "C37:L2"
+    },
+    {
+      "source_id": "37819244",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/37819244/",
+      "publication_date": null,
+      "text": "Crystal structure, phase width, and physical properties of the barium tetrel selenides Ba6Si2-xGexSe12 (x = 0, 0.5, 1, and 1.5) with ultralow thermal conductivity. The new compound Ba6Si2Se12 was synthesized, and the crystal structure and physical properties are reported here.",
+      "query_kind": "family",
+      "query": "Se BaSi2 crystal structure solid state",
+      "evidence_id": "C37:L3"
+    },
+    {
+      "source_id": "20560535",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20560535/",
+      "publication_date": null,
+      "text": "Structure change via partial Se/Te substitution: crystal structure and physical properties of the telluride Ba(2)Cu(4-x)Te(5) in contrast to the selenide-telluride Ba(2)Cu(4-x)Se(y)Te(5-y). The chalcogenides Ba(2)Cu(4-x)Se(y)Te(5-y) were synthesized from the elements in stoichiometric ratios at 700 degrees C, followed by annealing at 600 degrees C.",
+      "query_kind": "family",
+      "query": "Se BaSi2 crystal structure solid state",
+      "evidence_id": "C37:L4"
+    },
+    {
+      "source_id": "19726843",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19726843/",
+      "publication_date": null,
+      "text": "BaLn2Se4 (Ln = Er, Tm and Yb). The compounds BaLn(2)Se(4) (Ln = rare-earth metal = lanthanide = Er, Tm and Yb), namely barium di(erbium/thulium/ytterbium) tetraselenide, crystallize in the orthorhombic space group Pnma in the CaFe(2)O(4) structure type.",
+      "query_kind": "family",
+      "query": "Se BaSi2 crystal structure solid state",
+      "evidence_id": "C37:L5"
+    },
+    {
+      "source_id": "22199470",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22199470/",
+      "publication_date": null,
+      "text": "Barium manganese(II) selenostannate(IV), BaMnSnSe(4). The title compound, BaMnSnSe(4), was obtained by reaction of the elements at 1123 K in an evacuated silica tube.",
+      "query_kind": "family",
+      "query": "Se BaSi2 crystal structure solid state",
+      "evidence_id": "C37:L6"
+    },
+    {
+      "source_id": "34382055",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/34382055/",
+      "publication_date": null,
+      "text": "Design and synthesis of Ba3SiSe5 with suitable birefringence modulated via MIV atoms in the Ba-MIV-Q (MIV = Si, Ge; Q = S, Se) system. A new ternary Ba-based selenide, Ba3SiSe5, was synthesized by a high-temperature solid-state method.",
+      "query_kind": "family",
+      "query": "Se BaSi2 crystal structure solid state",
+      "evidence_id": "C37:L7"
+    },
+    {
+      "source_id": "22807701",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22807701/",
+      "publication_date": null,
+      "text": "The synthetic cobalt vanadium selenite, Co\u2082V\u2082Se\u2082O\u2081\u2081. The crystal structure of dicobalt(II) divanadium(V) disel-enium(IV) undeca-oxide, Co\u2082V\u2082Se\u2082O\u2081\u2081, exhibits a three-dimensional framework, the building units being distorted CoO\u2086 octa-hedra and VO\u2085 square pyramids arranged so as to form alternate chains along [010].",
+      "query_kind": "pair",
+      "query": "Se substituted for Co related inorganic frameworks crystal structure",
+      "evidence_id": "C37:L8"
+    }
+  ]
+}

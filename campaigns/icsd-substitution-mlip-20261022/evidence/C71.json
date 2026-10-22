@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C71",
+  "formula_B": "CsBaAs3",
+  "excerpts": [
+    {
+      "source_id": "24848876",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24848876/",
+      "publication_date": null,
+      "text": "mP-BaP\u2083: a new phase from an old binary system. A polyphosphide, mP-BaP3, with a unique two-dimensional phosphorus layer has been discovered and characterized.",
+      "query_kind": "family",
+      "query": "Ba K4P6 crystal structure solid state",
+      "evidence_id": "C71:L1"
+    },
+    {
+      "source_id": "26270202",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26270202/",
+      "publication_date": null,
+      "text": "Ba and Sr Binary Phosphides: Synthesis, Crystal Structures, and Bonding Analysis. Synthesis, crystal structures, and chemical bonding are reported for four binary phosphides with different degrees of phosphorus oligomerization, ranging from isolated P atoms to infinite phosphorus chains.",
+      "query_kind": "family",
+      "query": "Ba K4P6 crystal structure solid state",
+      "evidence_id": "C71:L2"
+    },
+    {
+      "source_id": "15263105",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15263105/",
+      "publication_date": null,
+      "text": "Potassium barium bismuth oxide. KBa(4)Bi(3)O crystallizes in the centrosymmetric tetragonal space group I4/mcm.",
+      "query_kind": "family",
+      "query": "Ba K4P6 crystal structure solid state",
+      "evidence_id": "C71:L3"
+    },
+    {
+      "source_id": "12794885",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12794885/",
+      "publication_date": null,
+      "text": "BaP4Te2--a ternary telluride with P-Te bonds and a structural fragment of black phosphorus. The new telluride BaP(4)Te(2) was synthesized in form of gleaming black needles by heating stochiometric mixtures of the elements to 475 degrees C for 100 h.",
+      "query_kind": "family",
+      "query": "Ba K4P6 crystal structure solid state",
+      "evidence_id": "C71:L4"
+    },
+    {
+      "source_id": "23734787",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23734787/",
+      "publication_date": null,
+      "text": "BaAu2P4: layered zintl polyphosphide with infinite \u221e(1)(P\u2013) chains. Barium gold polyphosphide BaAu2P4 was synthesized from elements and structurally characterized by single crystal X-ray diffraction.",
+      "query_kind": "family",
+      "query": "Ba K4P6 crystal structure solid state",
+      "evidence_id": "C71:L5"
+    },
+    {
+      "source_id": "21588791",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21588791/",
+      "publication_date": null,
+      "text": "\u03b1-Ba(2)P(2)O(7). Single crystals of \u03b1-Ba(2)P(2)O(7), dibarium diphosphate, were obtained by solid-state reaction.",
+      "query_kind": "family",
+      "query": "Ba K4P6 crystal structure solid state",
+      "evidence_id": "C71:L6"
+    },
+    {
+      "source_id": "38147485",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/38147485/",
+      "publication_date": null,
+      "text": "The Phosphidosilicates AE2 Li4 SiP4 (AE=Ca, Sr, Eu) Ba4 Li16 Si3 P12. The quaternary phosphidosilicates AE2 Li4 SiP4 (AE=Ca, Sr, Eu) and Ba4 Li16 Si3 P12 were synthesized by heating the elements and Li3 P under argon atmosphere.",
+      "query_kind": "family",
+      "query": "Ba K4P6 crystal structure solid state",
+      "evidence_id": "C71:L7"
+    },
+    {
+      "source_id": "12739957",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12739957/",
+      "publication_date": null,
+      "text": "NaCl/KCl flux single crystal growth and crystal structure of the new quaternary mixed-metal pnictide: BaCuZn3As3. Synthesis and crystal structure of a new compound, BaCuZn(3)As(3), are reported.",
+      "query_kind": "family",
+      "query": "Ba K4P6 crystal structure solid state",
+      "evidence_id": "C71:L8"
+    }
+  ]
+}

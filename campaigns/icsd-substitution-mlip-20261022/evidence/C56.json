@@ -1,0 +1,60 @@
+{
+  "candidate_id": "C56",
+  "formula_B": "ErTl3S4",
+  "excerpts": [
+    {
+      "source_id": "38793350",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/38793350/",
+      "publication_date": null,
+      "text": "Synthesis, Crystal Structure, and Optical and Magnetic Properties of the New Quaternary Erbium Telluride EuErCuTe3: Experiment and Calculation. This paper reports for the first time on a new layered magnetic heterometallic erbium telluride EuErCuTe3.",
+      "query_kind": "family",
+      "query": "Er Tl3VS4 crystal structure solid state",
+      "evidence_id": "C56:L1"
+    },
+    {
+      "source_id": "19006296",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19006296/",
+      "publication_date": null,
+      "text": "Ternary erbium chromium sulfides: structural relationships and magnetic properties. Single crystals of four erbium-chromium sulfides have been grown by chemical vapor transport using iodine as the transporting agent.",
+      "query_kind": "family",
+      "query": "Er Tl3VS4 crystal structure solid state",
+      "evidence_id": "C56:L2"
+    },
+    {
+      "source_id": "30191890",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30191890/",
+      "publication_date": null,
+      "text": "Tb3Pd2, Er3Pd2 and Er6Co5-x: structural variations and bonding in rare-earth-richer binary intermetallics. The three binary Tb/Er-rich transition metal compounds Tb3Pd2 (triterbium dipalladium), Er3Pd2 (trierbium dipalladium) and Er6Co5-x (hexaerbium pentacobalt) crystallize in the space groups Pbam (Pearson symbol oP20), P4/mbm (tP10) and P63/m (hP22), respectively.",
+      "query_kind": "family",
+      "query": "Er Tl3VS4 crystal structure solid state",
+      "evidence_id": "C56:L3"
+    },
+    {
+      "source_id": "1609.07161v1",
+      "locator": "https://arxiv.org/abs/1609.07161",
+      "publication_date": null,
+      "text": "Crystal structure and low-energy Einstein mode in ErV$_2$Al$_{20}$ intermetallic cage compound Single crystals of a new ternary aluminide ErV$_2$Al$_{20}$ were grown using a self-flux method. The crystal structure was determined by powder X-ray diffraction measurements and Rietveld refinement, and physical properties were studied by means of electrical resistivity, magnetic susceptibility and specific heat measurements.",
+      "query_kind": "family",
+      "query": "Er Tl3VS4 crystal structure solid state",
+      "evidence_id": "C56:L4"
+    },
+    {
+      "source_id": "22300353",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22300353/",
+      "publication_date": null,
+      "text": "Syntheses and structures of Sc2Nb(4\u2013x)Sn5, YNb6Sn6, and ErNb6Sn5: exploratory studies in ternary rare-earth niobium stannides. Three new rare-earth (RE) niobium stannides, namely, Sc(2)Nb(4-x)Sn(5) (x = 0.37, 0.52), YNb(6)Sn(6), and ErNb(6)Sn(5), have been obtained by reacting the mixture of corresponding pure elements at high temperature and structurally characterized by single-crystal X-ray diffraction studies.",
+      "query_kind": "pair",
+      "query": "Er substituted for Nb related inorganic frameworks crystal structure",
+      "evidence_id": "C56:L5"
+    },
+    {
+      "source_id": "16679569",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16679569/",
+      "publication_date": null,
+      "text": "Er5Ni3Al3Ge4: a quaternary variant of the NbCoB type. Single crystals of pentaerbium trinickel trialuminium tetragermanium were synthesized from the elements by arc-melting.",
+      "query_kind": "pair",
+      "query": "Er substituted for Nb related inorganic frameworks crystal structure",
+      "evidence_id": "C56:L6"
+    }
+  ]
+}

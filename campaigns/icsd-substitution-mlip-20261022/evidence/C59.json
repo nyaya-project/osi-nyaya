@@ -1,0 +1,51 @@
+{
+  "candidate_id": "C59",
+  "formula_B": "V2ClO7",
+  "excerpts": [
+    {
+      "source_id": "21246146",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21246146/",
+      "publication_date": null,
+      "text": "Negative thermal expansion emerging upon structural phase transition in ZrV2O7 and HfV2O7. ZrV(2)O(7) and HfV(2)O(7), which show negative thermal expansion (NTE) in the high-temperature phase, were investigated using X-ray diffraction and heat capacity calorimetry.",
+      "query_kind": "source",
+      "query": "\"HfV2O7\" substitution doping crystal structure",
+      "evidence_id": "C59:L1"
+    },
+    {
+      "source_id": "31674612",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/31674612/",
+      "publication_date": null,
+      "text": "Epitaxial stabilization versus interdiffusion: synthetic routes to metastable cubic HfO2 and HfV2O7 from the core-shell arrangement of precursors. Metastable materials that represent excursions from thermodynamic minima are characterized by distinctive structural motifs and electronic structure, which frequently underpins new function.",
+      "query_kind": "source",
+      "query": "\"HfV2O7\" substitution doping crystal structure",
+      "evidence_id": "C59:L2"
+    },
+    {
+      "source_id": "21201320",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21201320/",
+      "publication_date": null,
+      "text": "Dichlorido-1\u03baCl,3\u03baCl-hexa-kis[1,1,2,2,3,3(\u03b7)-methyl-cyclo-penta-dienyl]di-\u03bc(2)-oxido-1:2\u03baO:O;2:3\u03baO:O-trihafnium(IV). The title compound, [Hf(3)(C(6)H(7))(6)Cl(2)O(2)], is a trinuclear mol-ecule having two (MeCp)(2)HfCl units (MeCp is methyl-cyclo-penta-dien-yl) each connected to an (MeCp)(2)Hf unit by an oxide bridge.",
+      "query_kind": "pair",
+      "query": "Cl substituted for Hf related inorganic frameworks crystal structure",
+      "evidence_id": "C59:L3"
+    },
+    {
+      "source_id": "24426999",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24426999/",
+      "publication_date": null,
+      "text": "Tri-chlorido-{meth-yl[4-(methyl-imino)-pent-2-en-2-yl]aza-nido-\u03ba(2) N,N'}hafnium(IV). The title complex, [Hf(C29H41N2)Cl3], was synthesized from HfCl4 and HC[C(Me)N( (i) Pr2C6H3)]2Li(Et2O) in toluene.",
+      "query_kind": "pair",
+      "query": "Cl substituted for Hf related inorganic frameworks crystal structure",
+      "evidence_id": "C59:L4"
+    },
+    {
+      "source_id": "15997069",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15997069/",
+      "publication_date": null,
+      "text": "Bis(2-butyl-N,N'-diisopropylamidinato)dichlorohafnium(IV). The title compound, [Hf(C11H23N2)2Cl(2)], is a monomeric hafnium(IV) complex containing two bidentate amidinate ligands and two cis Cl atoms.",
+      "query_kind": "pair",
+      "query": "Cl substituted for Hf related inorganic frameworks crystal structure",
+      "evidence_id": "C59:L5"
+    }
+  ]
+}

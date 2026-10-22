@@ -1,0 +1,51 @@
+{
+  "candidate_id": "C40",
+  "formula_B": "AgTe2As",
+  "excerpts": [
+    {
+      "source_id": "26418840",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26418840/",
+      "publication_date": null,
+      "text": "Polymorphism in Thermoelectric As2Te3. Metastable \u03b2-As2Te3 (R3\u0305m, a = 4.047 \u00c5 and c = 29.492 \u00c5 at 300 K) is isostructural to layered Bi2Te3 and is known for similarly displaying good thermoelectric properties around 400 K.",
+      "query_kind": "family",
+      "query": "As ErAgTe2 crystal structure solid state",
+      "evidence_id": "C40:L1"
+    },
+    {
+      "source_id": "11196852",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11196852/",
+      "publication_date": null,
+      "text": "Syntheses, structures, and physical properties of LnAsTe (Ln = La, Pr, Sm, Gd, Dy, Er). Six rare-earth arsenic tellurides have been synthesized by the reactions of the rare-earth elements (Ln) with As and Te at 1123 K.",
+      "query_kind": "family",
+      "query": "As ErAgTe2 crystal structure solid state",
+      "evidence_id": "C40:L2"
+    },
+    {
+      "source_id": "12739959",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12739959/",
+      "publication_date": null,
+      "text": "Synthesis, structure, electrical properties, and band structure calculations of TiAsTe. The new compound TiAsTe has been synthesized by the reaction of the elements in a LiCl/KCl flux at 923 K.",
+      "query_kind": "family",
+      "query": "As ErAgTe2 crystal structure solid state",
+      "evidence_id": "C40:L3"
+    },
+    {
+      "source_id": "27722484",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/27722484/",
+      "publication_date": null,
+      "text": "New Fe-based layered telluride Fe3-\u03b4As1-yTe2: synthesis, crystal structure and physical properties. A new ternary telluride, Fe3-\u03b4As1-yTe2, was synthesized from elements at 600 \u00b0C.",
+      "query_kind": "family",
+      "query": "As ErAgTe2 crystal structure solid state",
+      "evidence_id": "C40:L4"
+    },
+    {
+      "source_id": "31185552",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/31185552/",
+      "publication_date": null,
+      "text": "Synthesis and Characterization of Ba2Ag2Se2(Se2). Single crystals and a polycrystalline sample of Ba2Ag2Se2(Se2) were synthesized by standard solid-state chemistry methods at 1173 and 973 K, respectively.",
+      "query_kind": "family",
+      "query": "As ErAgTe2 crystal structure solid state",
+      "evidence_id": "C40:L5"
+    }
+  ]
+}

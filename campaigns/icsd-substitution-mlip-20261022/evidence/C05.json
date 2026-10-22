@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C05",
+  "formula_B": "Na2MnVO6",
+  "excerpts": [
+    {
+      "source_id": "38846560",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/38846560/",
+      "publication_date": null,
+      "text": "Ilmenite-type Na2(Fe2/3Te4/3)O6. Na2(Fe2/3Te4/3)O6 (Z = 3) or Na3(FeTe2)O9 (Z = 2), tris-odium iron(III) ditellurium(VI) nona-oxide, adopts the ilmenite (FeTiO3, Z = 6) structure type with the Ti site (site symmetry 3.) replaced by Na and the Fe site (site symmetry 3.) replaced by a mixed-occupied (FeIII,TeVI) site in a Fe:Te ratio of 1:2.",
+      "query_kind": "family",
+      "query": "V Na2(GeTeO6) crystal structure solid state",
+      "evidence_id": "C05:L1"
+    },
+    {
+      "source_id": "12205362",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12205362/",
+      "publication_date": null,
+      "text": "KVTeO5 and a redetermination of the Na homologue. A single crystal of KVTeO(5), potassium vanadium tellurite, has been grown.",
+      "query_kind": "family",
+      "query": "V Na2(GeTeO6) crystal structure solid state",
+      "evidence_id": "C05:L2"
+    },
+    {
+      "source_id": "15907119",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15907119/",
+      "publication_date": null,
+      "text": "Mixed-metal tellurites: synthesis, structure, and characterization of Na1.4Nb3Te4.9O18 and NaNb3Te4O16. Two new mixed-metal tellurites, Na1.4Nb3Te4.9O18 and NaNb3Te4O16, have been synthesized by standard solid-state techniques using Na2CO3, Nb2O5, and TeO2 as reagents.",
+      "query_kind": "family",
+      "query": "V Na2(GeTeO6) crystal structure solid state",
+      "evidence_id": "C05:L3"
+    },
+    {
+      "source_id": "37057020",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/37057020/",
+      "publication_date": null,
+      "text": "Garnet-type Na3Te2(FeO4)3. Na3Te2(FeO4)3 or Na3Te2Fe3O12, tris-odium ditellurium(VI) triiron(III) dodeca-oxide, was obtained in the form of single-crystals under hydro-thermal conditions.",
+      "query_kind": "family",
+      "query": "V Na2(GeTeO6) crystal structure solid state",
+      "evidence_id": "C05:L4"
+    },
+    {
+      "source_id": "15997052",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15997052/",
+      "publication_date": null,
+      "text": "Sodium calcium orthovanadate, NaCa4(VO4)3. Single crystals of sodium tetracalcium trivanadium dodecaoxide were prepared by melting a powder sample of NaCa4(VO4)3 at 1673 K, followed by slow cooling to room temperature.",
+      "query_kind": "family",
+      "query": "V Na2(GeTeO6) crystal structure solid state",
+      "evidence_id": "C05:L5"
+    },
+    {
+      "source_id": "30995026",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30995026/",
+      "publication_date": null,
+      "text": "Preparation, Crystal Chemistry, and Hidden Magnetic Order in the Family of Trigonal Layered Tellurates A2Mn(4+)TeO6 (A = Li, Na, Ag, or Tl). We report the first four magnetic representatives of the trigonal layered A2M(4+)TeO6 (here, M = Mn) family.",
+      "query_kind": "source",
+      "query": "\"Na2MnTeO6\" substitution doping crystal structure",
+      "evidence_id": "C05:L6"
+    },
+    {
+      "source_id": "21695319",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21695319/",
+      "publication_date": null,
+      "text": "Synthesis and structure of A4V6[Te2(4+)Te6+]O24 (A = K, Rb)-two new quaternary mixed-valent tellurium oxides. Two new mixed-valent tellurium oxides with vanadium(V), A(4)V(6)[Te(2)(4+)Te(6+)]O(24) (A = K and Rb), have been synthesized by hydrothermal and conventional solid state techniques.",
+      "query_kind": "pair",
+      "query": "V substituted for Te related inorganic frameworks crystal structure",
+      "evidence_id": "C05:L7"
+    },
+    {
+      "source_id": "25161499",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25161499/",
+      "publication_date": null,
+      "text": "Crystal structure of ammonium divanadium(IV,V) tellurium(IV) hepta-oxide. The polyhedral building blocks of the layered inorganic network in the mixed-valence title compound, (NH4)(V(IV)O2)(V(V)O2)(TeO3), are vertex-sharing V(V)O4 tetra-hedra, distorted V(IV)O6 octa-hedra and TeO3 pyramids, which are linked by V-O-V and V-O-Te bonds, forming double layers lying parallel to (100).",
+      "query_kind": "pair",
+      "query": "V substituted for Te related inorganic frameworks crystal structure",
+      "evidence_id": "C05:L8"
+    }
+  ]
+}

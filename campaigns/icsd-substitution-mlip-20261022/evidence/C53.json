@@ -1,0 +1,42 @@
+{
+  "candidate_id": "C53",
+  "formula_B": "AlBiOsSe4",
+  "excerpts": [
+    {
+      "source_id": "26241801",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26241801/",
+      "publication_date": null,
+      "text": "Crystal Growth, Structures, and Properties of the Complex Borides, LaOs2Al2B and La2Os2AlB2. Single crystals of two novel quaternary metal borides, LaOs2Al2B and La2Os2AlB2, have been grown from La/Ni eutectic fluxes.",
+      "query_kind": "family",
+      "query": "Os Bi2Al4S8 crystal structure solid state",
+      "evidence_id": "C53:L1"
+    },
+    {
+      "source_id": "11229040",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11229040/",
+      "publication_date": null,
+      "text": "La48Br81Os8: isolated clusters in an unusual superstructure with significantly greater intercluster bonding. Exploration of reactions in the La-Br-Z system for Z = Fe, Ru, and Os in welded Nb containers at 900-950 degrees C resulted in only the title phase.",
+      "query_kind": "family",
+      "query": "Os Bi2Al4S8 crystal structure solid state",
+      "evidence_id": "C53:L2"
+    },
+    {
+      "source_id": "15132636",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15132636/",
+      "publication_date": null,
+      "text": "Ternary rare earth osmium aluminides R(7+)(x)Os(12)Al(61+)(y) belonging to a structural family with layered topology. The 10 intermetallic compounds R(7+)(x)Os(12)Al(61+)(y) (R = Y, Nd, Sm, Gd-Tm) were prepared by arc-melting of the elemental components.",
+      "query_kind": "family",
+      "query": "Os Bi2Al4S8 crystal structure solid state",
+      "evidence_id": "C53:L3"
+    },
+    {
+      "source_id": "39509297",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/39509297/",
+      "publication_date": null,
+      "text": "The incommensurate composite YxOs4B4 (x = 1.161). YxOs4B4 (x = 1.161) crystallizes as a tetragonal incommensurate composite of columns of Y atoms extending along [001] in an Os4B4 framework.",
+      "query_kind": "family",
+      "query": "Os Bi2Al4S8 crystal structure solid state",
+      "evidence_id": "C53:L4"
+    }
+  ]
+}

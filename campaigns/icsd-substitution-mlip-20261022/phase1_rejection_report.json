@@ -1,0 +1,21 @@
+{
+  "campaign_id": "icsd-substitution-mlip-20261022",
+  "stage": "phase_1_pool_validation",
+  "input_artifact": "pool.proposed.json",
+  "input_candidate_count": 100,
+  "accepted_candidate_count": 0,
+  "rejected_candidate_count": 100,
+  "rejection_summary": {
+    "site_label_not_wyckoff_syntax": 100,
+    "framework_label_placeholder_or_nonstandard": 100
+  },
+  "checks_that_passed_for_all_inputs": [
+    "candidate_pool_schema",
+    "formula_parse",
+    "formula_B_absent_from_read_only_icsd_reference",
+    "source_collection_code_present_in_read_only_icsd_reference",
+    "source_ordered",
+    "source_no_hydrogen"
+  ],
+  "disposition": "rejected_before_evidence_freeze; replacement_pool_required"
+}

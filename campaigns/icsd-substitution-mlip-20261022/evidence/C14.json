@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C14",
+  "formula_B": "Sr2NiSbO6",
+  "excerpts": [
+    {
+      "source_id": "36380910",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/36380910/",
+      "publication_date": null,
+      "text": "Crystal structure of the cubic double-perovskite Sr2Cr0.84Ni0.09Os1.07O6. The crystal structure of the cubic double-perovskite Sr2Cr0.84Ni0.09Os1.07O6, grown at high pressure, was solved using intensity data measured at 113 K.",
+      "query_kind": "family",
+      "query": "Ni Sr2NiWO6 crystal structure solid state",
+      "evidence_id": "C14:L1"
+    },
+    {
+      "source_id": "39322968",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/39322968/",
+      "publication_date": null,
+      "text": "Ni4Nb1.8W0.1Ti0.1O9: Stabilization of the I-Type Ni4Nb2O9 Structure and First Magnetic Study of This Corundum-like Compound. For the first time, we report on the structural and magnetic properties of a polycrystalline sample of Ni4Nb2O9 from I-type (Fdd2), obtained by the partial cosubstitution of Nb5+ by Ti4+ and W6+.",
+      "query_kind": "family",
+      "query": "Ni Sr2NiWO6 crystal structure solid state",
+      "evidence_id": "C14:L2"
+    },
+    {
+      "source_id": "2303.14370v2",
+      "locator": "https://arxiv.org/abs/2303.14370",
+      "publication_date": null,
+      "text": "Type-II antiferromagnetic ordering in double perovskite oxide Sr$_2$NiWO$_6$ Magnetic double perovskite compounds provide a fertile playground to explore interesting electronic and magnetic properties. By complementary macroscopic characterizations, neutron powder diffraction measurements and first-principles calculations, we have performed comprehensive studies on the magnetic ordering in the double perovskite compound Sr$_2$NiWO$_6$.",
+      "query_kind": "family",
+      "query": "Ni Sr2NiWO6 crystal structure solid state",
+      "evidence_id": "C14:L3"
+    },
+    {
+      "source_id": "16363836",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16363836/",
+      "publication_date": null,
+      "text": "Synthesis, structure, and magnetic properties of Sr2NiOsO6 and Ca2NiOsO6: two new osmium-containing double perovskites. Two new double perovskite oxides, Ca(2)NiOsO(6) and Sr(2)NiOsO(6), have been prepared as polycrystalline powders by solid state synthesis.",
+      "query_kind": "family",
+      "query": "Ni Sr2NiWO6 crystal structure solid state",
+      "evidence_id": "C14:L4"
+    },
+    {
+      "source_id": "26594419",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26594419/",
+      "publication_date": null,
+      "text": "Crystal structure of strontium dinickel iron orthophosphate. The title compound, SrNi2Fe(PO4)3, synthesized by solid-state reaction, crystallizes in an ordered variant of the \u03b1-CrPO4 structure.",
+      "query_kind": "family",
+      "query": "Ni Sr2NiWO6 crystal structure solid state",
+      "evidence_id": "C14:L5"
+    },
+    {
+      "source_id": "32887320",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/32887320/",
+      "publication_date": null,
+      "text": "Nanocrystalline Antiferromagnetic High-\u03ba Dielectric Sr2NiMO6 (M = Te, W) with Double Perovskite Structure Type. Double perovskites have been extensively studied in materials chemistry due to their excellent properties and novel features attributed to the coexistence of ferro/ferri/antiferro-magnetic ground state and semiconductor band gap within the same material.",
+      "query_kind": "family",
+      "query": "Ni Sr2NiWO6 crystal structure solid state",
+      "evidence_id": "C14:L6"
+    },
+    {
+      "source_id": "2111.12015v1",
+      "locator": "https://arxiv.org/abs/2111.12015",
+      "publication_date": null,
+      "text": "Magnetic-cations doped into a Double Perovskite Semiconductor We report two solid solutions based on magnetic ion doping of the double perovskite oxide Sr2GaSbO6: Sr2Ga1-xCrxSbO6 (0.1 < x < 0.4) and Sr2Ga1-xFexSbO6 (0.1 < x < 0.4). All compositions crystallize in the same space group (I4/m) as their undoped parent phase Sr2GaSbO6, with the trivalent magnetic cations Cr3+ or Fe3+ partially substituting for non-magnetic Ga3+ in one of the B-cation sites.",
+      "query_kind": "source",
+      "query": "\"Sr2GaSbO6\" substitution doping crystal structure",
+      "evidence_id": "C14:L7"
+    },
+    {
+      "source_id": "2109.10405v1",
+      "locator": "https://arxiv.org/abs/2109.10405",
+      "publication_date": null,
+      "text": "Ferromagnetic Double Perovskite Semiconductors with Tunable Properties We successfully dope the magnetically silent double perovskite semiconductor Sr2GaSbO6 to induce ferromagnetism and tune its band gap, with Ga3+ partially substituted by the magnetic trivalent cation Mn3+, in a rigid cation ordering with Sb5+. Our new ferromagnetic semiconducting Sr2Ga1-xMnxSbO6 double perovskite, which crystallizes in tetragonal symmetry (space group I4/m) and has tunable ferromagnetic ordering temperature and band gap, suggests that magnetic ion doping of double perovskites is a productive avenue towards obtaining materials for application in next-generation oxide-based spintronic devices.",
+      "query_kind": "source",
+      "query": "\"Sr2GaSbO6\" substitution doping crystal structure",
+      "evidence_id": "C14:L8"
+    }
+  ]
+}

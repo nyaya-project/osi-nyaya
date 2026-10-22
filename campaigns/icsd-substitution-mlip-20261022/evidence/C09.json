@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C09",
+  "formula_B": "Yb3Tl2PtSe6",
+  "excerpts": [
+    {
+      "source_id": "28718656",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/28718656/",
+      "publication_date": null,
+      "text": "Intermediate-Valence Ytterbium Compound Yb4Ga24Pt9: Synthesis, Crystal Structure, and Physical Properties. The title compound was synthesized by a reaction of the elemental educts in a corundum crucible at 1200 \u00b0C under an Ar atmosphere.",
+      "query_kind": "family",
+      "query": "Yb Tl2Pt4Te6 crystal structure solid state",
+      "evidence_id": "C09:L1"
+    },
+    {
+      "source_id": "22522604",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22522604/",
+      "publication_date": null,
+      "text": "Ca3Pt(4+x)Ge(13-y) and Yb3Pt4Ge13: new derivatives of the Pr3Rh4Sn13 structure type. The new phases Ca(3)Pt(4+x)Ge(13-y) (x = 0.1; y = 0.4; space group I2(1)3; a = 18.0578(1) \u00c5; R(I) = 0.063; R(P) = 0.083) and Yb(3)Pt(4)Ge(13) (space group P4(2)cm; a = 12.7479(1) \u00c5; c = 9.0009(1) \u00c5; R(I) = 0.061, R(P) = 0.117) are obtained by high-pressure, high-temperature synthesis and crystallize in new distortion variants of the Pr(3)Rh(4)Sn(13) type.",
+      "query_kind": "family",
+      "query": "Yb Tl2Pt4Te6 crystal structure solid state",
+      "evidence_id": "C09:L2"
+    },
+    {
+      "source_id": "22612384",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22612384/",
+      "publication_date": null,
+      "text": "Crystal structure of YbCu6In6 and mixed valence behavior of Yb in YbCu(6-x)In(6+x) (x = 0, 1, and 2) solid solution. High quality single crystals of YbCu(6)In(6) have been grown using the flux method and characterized by means of single crystal X-ray diffraction data.",
+      "query_kind": "family",
+      "query": "Yb Tl2Pt4Te6 crystal structure solid state",
+      "evidence_id": "C09:L3"
+    },
+    {
+      "source_id": "1109.6144v1",
+      "locator": "https://arxiv.org/abs/1109.6144",
+      "publication_date": null,
+      "text": "Yb4LiGe4 - A Yb Mixed Valent Zintl Phase with Strong Electronic Correlations Single-phase samples of Yb4LiGe4 and Yb5Ge4 were synthesized using high frequency (HF) heat treatment. Yb4LiGe4 crystallizes in orthorhombic space group Pnma with the Gd5Si4 type of crystal structure and lattice parameters a = 7.0571(1) Angs, b = 14.6239(1) Angs, and c = 7.6155(1) Angs.",
+      "query_kind": "family",
+      "query": "Yb Tl2Pt4Te6 crystal structure solid state",
+      "evidence_id": "C09:L4"
+    },
+    {
+      "source_id": "24921221",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24921221/",
+      "publication_date": null,
+      "text": "Flux growth of Yb(6.6)Ir(6)Sn(16) having mixed-valent ytterbium. The compound Yb6.6Ir6Sn16 was obtained as single crystals in high yield from the reaction of Yb with Ir and Sn run in excess indium.",
+      "query_kind": "family",
+      "query": "Yb Tl2Pt4Te6 crystal structure solid state",
+      "evidence_id": "C09:L5"
+    },
+    {
+      "source_id": "21578989",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21578989/",
+      "publication_date": null,
+      "text": "Diytterbium(II) lithium indium(III) digermanide, Yb(2)LiInGe(2). The title compound, Yb(2)LiInGe(2), a new ordered quaternary inter-metallic phase, crystallizes with the ortho-rhom-bic Ca(2)LiInGe(2) type (Pearson code oP24).",
+      "query_kind": "family",
+      "query": "Yb Tl2Pt4Te6 crystal structure solid state",
+      "evidence_id": "C09:L6"
+    },
+    {
+      "source_id": "37948347",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/37948347/",
+      "publication_date": null,
+      "text": "Electronic and Structural Properties of MPtxB6-2x (M = Y, Yb): Structural Disorder in an Octahedral Boron Framework. Two new ternary platinum borides, YPtxB6-2x and YbPtxB6-2x, were obtained by argon-arc melting of the elements followed by annealing at 780 \u00b0C (750 \u00b0C).",
+      "query_kind": "family",
+      "query": "Yb Tl2Pt4Te6 crystal structure solid state",
+      "evidence_id": "C09:L7"
+    },
+    {
+      "source_id": "25714934",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25714934/",
+      "publication_date": null,
+      "text": "Yb7Ni4InGe12: a quaternary compound having mixed valent Yb atoms grown from indium flux. The new intermetallic compound Yb7Ni4InGe12 was obtained as large silver needle shaped single crystals from reactive indium flux.",
+      "query_kind": "family",
+      "query": "Yb Tl2Pt4Te6 crystal structure solid state",
+      "evidence_id": "C09:L8"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "candidate_id": "C15",
+  "formula_B": "YCu4Se3",
+  "excerpts": [
+    {
+      "source_id": "21522813",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21522813/",
+      "publication_date": null,
+      "text": "Tetra-yttrium(III) tris-ulfide disilicate. Tetra-yttrium(III) tris-ulfide disilicate, Y(4)S(3)(Si(2)O(7)), crystallizes in the Sm(4)S(3)(Si(2)O(7)) structure type.",
+      "query_kind": "family",
+      "query": "Y KCu4S3 crystal structure solid state",
+      "evidence_id": "C15:L1"
+    },
+    {
+      "source_id": "14632507",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/14632507/",
+      "publication_date": null,
+      "text": "The cation-deficient Ruddlesden-Popper oxysulfide Y2Ti2O5S2 as a layered sulfide: topotactic potassium intercalation to form KY2Ti2O5S2. Potassium intercalation into the cation-deficient n = 2 Ruddlesden-Popper oxysulfide Y(2)Ti(2)O(5)S(2) to form KY(2)Ti(2)O(5)S(2) has been carried out by reaction of the oxysulfide with potassium vapor in sealed metal tubes at 400 degrees C, potassium naphthalide in THF at 50 degrees C, or potassium in liquid ammonia at temperatures as low as -78 degrees C.",
+      "query_kind": "family",
+      "query": "Y KCu4S3 crystal structure solid state",
+      "evidence_id": "C15:L2"
+    },
+    {
+      "source_id": "34705460",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/34705460/",
+      "publication_date": null,
+      "text": "Mixed-Valence CsCu4Se3: Large Phonon Anharmonicity Driven by the Hierarchy of the Rigid [(Cu+)4(Se2-)2](Se-) Double Anti-CaF2 Layer and the Soft Cs+ Sublattice. Crystalline solids that exhibit inherently low lattice thermal conductivity (\u03balat) have attracted a great deal of attention because they offer the only independent control for pursuing a high thermoelectric figure of merit (ZT).",
+      "query_kind": "source",
+      "query": "\"CsCu4Se3\" substitution doping crystal structure",
+      "evidence_id": "C15:L3"
+    },
+    {
+      "source_id": "29216415",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29216415/",
+      "publication_date": null,
+      "text": "A Cesium Rare-Earth Silicate Cs3 RESi6 O15 (RE=Dy-Lu, Y, In): The Parent of an Unusual Structural Class Featuring a Remarkable 57 \u00c5 Unit Cell Axis. The structure of Cs3 RESi6 O15 , where RE=Dy-Lu, Y, In, is unusual in that it contains octahedrally coordinated rare-earth ions; their relative orientation dictates the structure, as they rotate about the c-axis supported by the cyclic Si6 O15 framework.",
+      "query_kind": "pair",
+      "query": "Y substituted for Cs related inorganic frameworks crystal structure",
+      "evidence_id": "C15:L4"
+    },
+    {
+      "source_id": "22259312",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22259312/",
+      "publication_date": null,
+      "text": "Cs(3)Sm(7)Se(12). The title compound, tricaesium hepta-samarium(III) dodeca-selenide, is setting a new starting point for realization of the channel structure of the Cs(3)M(7)Se(12) series, now with M = Sm, Gd-Er.",
+      "query_kind": "pair",
+      "query": "Y substituted for Cs related inorganic frameworks crystal structure",
+      "evidence_id": "C15:L5"
+    }
+  ]
+}

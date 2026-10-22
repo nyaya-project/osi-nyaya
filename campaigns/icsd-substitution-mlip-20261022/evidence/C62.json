@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C62",
+  "formula_B": "InSnSe2",
+  "excerpts": [
+    {
+      "source_id": "11670996",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11670996/",
+      "publication_date": null,
+      "text": "X-ray Diffraction and (119)Sn M\u00f6ssbauer Spectroscopy Study of a New Phase in the Bi(2)Se(3)-SnSe System: SnBi(4)Se(7). First studies of the ternary system SnSe-Bi(2)Se(3) developed in 1960s and 1970s have revealed the existence of a nonstoichiometric trigonal phase with a wide range of compositions.",
+      "query_kind": "family",
+      "query": "Sn TlSe crystal structure solid state",
+      "evidence_id": "C62:L1"
+    },
+    {
+      "source_id": "36341046",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/36341046/",
+      "publication_date": null,
+      "text": "Rerefinement of the crystal structure of SnTe0.73(2)Se0.27(2) from single-crystal X-ray diffraction data. Compounds of the solid solution series SnTe1-x Se x , derived from pristine SnSe and SnTe, are considered as thermoelectric lead-free materials.",
+      "query_kind": "family",
+      "query": "Sn TlSe crystal structure solid state",
+      "evidence_id": "C62:L2"
+    },
+    {
+      "source_id": "14577789",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/14577789/",
+      "publication_date": null,
+      "text": "Tropochemical cell-twinning in the new quaternary bismuth selenides KxSn(6-2x)Bi(2+x)Se9 and KSn5Bi5Se13. The quaternary K(x)Sn(6-2x)Bi(2+x)Se(9) and KSn(5)Bi(5)Se(13) were discovered from reactions involving K(2)Se, Bi(2)Se(3), Sn, and Se.",
+      "query_kind": "family",
+      "query": "Sn TlSe crystal structure solid state",
+      "evidence_id": "C62:L3"
+    },
+    {
+      "source_id": "20442500",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20442500/",
+      "publication_date": null,
+      "text": "Monoclinic Cu2Se3Sn. A previously unknown modification of dicopper(I) triselenostannate(IV), Cu(2)Se(3)Sn, has been obtained from the Cu(2)Se-SnSe(2) quasi-binary system and investigated using X-ray single-crystal diffraction.",
+      "query_kind": "family",
+      "query": "Sn TlSe crystal structure solid state",
+      "evidence_id": "C62:L4"
+    },
+    {
+      "source_id": "25629387",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25629387/",
+      "publication_date": null,
+      "text": "Structural changes in thermoelectric SnSe at high pressures. The crystal structure of the thermoelectric material tin selenide has been investigated with angle-dispersive synchrotron x-ray powder diffraction under hydrostatic pressure up to 27 GPa.",
+      "query_kind": "family",
+      "query": "Sn TlSe crystal structure solid state",
+      "evidence_id": "C62:L5"
+    },
+    {
+      "source_id": "29608046",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29608046/",
+      "publication_date": null,
+      "text": "Cornucopia of Structures in the Pseudobinary System (SnSe) xBi2Se3: A Crystal-Chemical Copycat. Pseudobinary phases (SnSe) xBi2Se3 exhibit a very diverse structural chemistry characterized by different building blocks, all of which are cutouts of the NaCl type.",
+      "query_kind": "family",
+      "query": "Sn TlSe crystal structure solid state",
+      "evidence_id": "C62:L6"
+    },
+    {
+      "source_id": "14671335",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/14671335/",
+      "publication_date": null,
+      "text": "Partial Sn-atom ordering in Sm3Ga0.80-2.48Sn4.20-2.52. Trisamarium digallide tristannide crystallizes with a partially ordered Pu(3)Pd(5)-type structure in space group Cmcm.",
+      "query_kind": "pair",
+      "query": "Sn substituted for Ga related inorganic frameworks crystal structure",
+      "evidence_id": "C62:L7"
+    },
+    {
+      "source_id": "25801715",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25801715/",
+      "publication_date": null,
+      "text": "SnGa2GeS6: synthesis, structure, linear and nonlinear optical properties. A new sulfide, SnGa2GeS6, has been synthesized, which represents the first member in the quaternary Sn/M/M'/Q (M = Ga, In; M' = Si, Ge; Q = S, Se, Te) system.",
+      "query_kind": "pair",
+      "query": "Sn substituted for Ga related inorganic frameworks crystal structure",
+      "evidence_id": "C62:L8"
+    }
+  ]
+}

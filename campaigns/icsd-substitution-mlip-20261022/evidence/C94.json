@@ -1,0 +1,42 @@
+{
+  "candidate_id": "C94",
+  "formula_B": "NaRhF3",
+  "excerpts": [
+    {
+      "source_id": "35423077",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/35423077/",
+      "publication_date": null,
+      "text": "Engineering defect clusters in distorted NaMgF3 perovskite and their important roles in tuning the emission characteristics of Eu3+ dopant ion. An attempt has been made to explore various new defect clusters in distorted NaMgF3 perovskite and their important role in tuning optical properties.",
+      "query_kind": "source",
+      "query": "\"NaMgF3\" substitution doping crystal structure",
+      "evidence_id": "C94:L1"
+    },
+    {
+      "source_id": "26941175",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26941175/",
+      "publication_date": null,
+      "text": "The determination of dopant ion valence distributions in insulating crystals using XANES measurements. Ytterbium-doped wide-bandgap fluoride crystals CaF2, SrF2 and NaMgF3 have been measured using x-ray absorption near edge structure (XANES) on the L3 edge to determine the ratio of trivalent to divalent Yb ions present in the crystals.",
+      "query_kind": "source",
+      "query": "\"NaMgF3\" substitution doping crystal structure",
+      "evidence_id": "C94:L2"
+    },
+    {
+      "source_id": "17685606",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17685606/",
+      "publication_date": null,
+      "text": "Ternary magnesium rhodium boride Mg2Rh1-xB6+2x with a modified Y2ReB6-type crystal structure. The new ternary magnesium rhodium boride Mg2Rh1-xB6+2x has been prepared by the reaction of the mixture of Mg powder, RhB, and crystalline boron in a Ta container sealed under argon.",
+      "query_kind": "pair",
+      "query": "Rh substituted for Mg related inorganic frameworks crystal structure",
+      "evidence_id": "C94:L3"
+    },
+    {
+      "source_id": "24302442",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24302442/",
+      "publication_date": null,
+      "text": "Spatial separation of covalent, ionic, and metallic interactions in Mg11Rh18B8 and Mg3Rh5B3. The crystal structures of Mg11Rh18B8 and Mg3Rh5B3 have been investigated by using single-crystal X-ray diffraction.",
+      "query_kind": "pair",
+      "query": "Rh substituted for Mg related inorganic frameworks crystal structure",
+      "evidence_id": "C94:L4"
+    }
+  ]
+}

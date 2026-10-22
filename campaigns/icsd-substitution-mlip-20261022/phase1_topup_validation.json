@@ -1,0 +1,112 @@
+{
+  "audit": "topup_hard_validation",
+  "candidate_count": 6,
+  "passed": 5,
+  "failed": 1,
+  "records": [
+    {
+      "candidate_id": "C14",
+      "pass": true,
+      "checks": {
+        "source_found": true,
+        "ordered": true,
+        "source_formula_matches": true,
+        "formula_B_absent_ICSD": true,
+        "unique_full_outgoing_site": true,
+        "sitewide_substitution_formula_matches": true,
+        "site_detail": {
+          "matching_groups": 1,
+          "substituted_positions_conventional": 2
+        }
+      },
+      "failures": []
+    },
+    {
+      "candidate_id": "C44",
+      "pass": true,
+      "checks": {
+        "source_found": true,
+        "ordered": true,
+        "source_formula_matches": true,
+        "formula_B_absent_ICSD": true,
+        "unique_full_outgoing_site": true,
+        "sitewide_substitution_formula_matches": true,
+        "site_detail": {
+          "matching_groups": 1,
+          "substituted_positions_conventional": 1
+        }
+      },
+      "failures": []
+    },
+    {
+      "candidate_id": "C55",
+      "pass": true,
+      "checks": {
+        "source_found": true,
+        "ordered": true,
+        "source_formula_matches": true,
+        "formula_B_absent_ICSD": true,
+        "unique_full_outgoing_site": true,
+        "sitewide_substitution_formula_matches": true,
+        "site_detail": {
+          "matching_groups": 1,
+          "substituted_positions_conventional": 4
+        }
+      },
+      "failures": []
+    },
+    {
+      "candidate_id": "C58",
+      "pass": false,
+      "checks": {
+        "source_found": true,
+        "ordered": true,
+        "source_formula_matches": true,
+        "formula_B_absent_ICSD": true,
+        "unique_full_outgoing_site": true,
+        "sitewide_substitution_formula_matches": false,
+        "site_detail": {
+          "matching_groups": 1,
+          "substituted_positions_conventional": 2
+        }
+      },
+      "failures": [
+        "sitewide_substitution_formula_matches"
+      ]
+    },
+    {
+      "candidate_id": "C88",
+      "pass": true,
+      "checks": {
+        "source_found": true,
+        "ordered": true,
+        "source_formula_matches": true,
+        "formula_B_absent_ICSD": true,
+        "unique_full_outgoing_site": true,
+        "sitewide_substitution_formula_matches": true,
+        "site_detail": {
+          "matching_groups": 1,
+          "substituted_positions_conventional": 8
+        }
+      },
+      "failures": []
+    },
+    {
+      "candidate_id": "C99",
+      "pass": true,
+      "checks": {
+        "source_found": true,
+        "ordered": true,
+        "source_formula_matches": true,
+        "formula_B_absent_ICSD": true,
+        "unique_full_outgoing_site": true,
+        "sitewide_substitution_formula_matches": true,
+        "site_detail": {
+          "matching_groups": 1,
+          "substituted_positions_conventional": 8
+        }
+      },
+      "failures": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "candidate_id": "C90",
+  "formula_B": "Ta2CrCoS6",
+  "excerpts": [
+    {
+      "source_id": "2501.00591v1",
+      "locator": "https://arxiv.org/abs/2501.00591",
+      "publication_date": null,
+      "text": "Coexistence of Commensurate and Incommensurate Antiferromagnetic Groundstates in Co$_x$NbSe$_2$ Single Crystal In Co$_x$NbSe$_2$, crystal symmetry, and cobalt site occupation drive the formation of two distinct magnetic phases. At $x = 1/4$, the centrosymmetric structure ($P$6$_3$/$mmc$) promotes Co-Co interactions leading to the formation of an $A$-type antiferromagnetic structure phase with a transition temperature of $T_N^A$ = 169 K.",
+      "query_kind": "family",
+      "query": "Co FeNb3S6 crystal structure solid state",
+      "evidence_id": "C90:L1"
+    },
+    {
+      "source_id": "2602.13785v1",
+      "locator": "https://arxiv.org/abs/2602.13785",
+      "publication_date": null,
+      "text": "Tuning magnetic, lattice, and transport properties in CoNb3S6 via Fe doping We present a comprehensive investigation of the effects of Fe doping on the lattice dynamics, magnetic ordering, and magneto-transport properties of the intercalated van der Waals antiferromagnets Co1-xFexNb3S6 (x = 0.1 and 0.3). Temperature- and polarization-dependent Raman scattering measurements reveal a pronounced blue shift of the 180 cm-1 phonon mode with increasing Fe concentration, indicating enhanced sensitivity of lattice vibrations to Fe-induced structural and mass effects.",
+      "query_kind": "family",
+      "query": "Co FeNb3S6 crystal structure solid state",
+      "evidence_id": "C90:L2"
+    },
+    {
+      "source_id": "41962344",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/41962344/",
+      "publication_date": null,
+      "text": "Nontrivial electrical transport properties and phase transitions of Co1/3NbS2 at high pressures. Single -crystal Co1/3NbS2 was successfully synthesized under high-pressure and high-temperature conditions and was systematically characterized via structural, component, and magnetic measurements.",
+      "query_kind": "family",
+      "query": "Co FeNb3S6 crystal structure solid state",
+      "evidence_id": "C90:L3"
+    },
+    {
+      "source_id": "19432466",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19432466/",
+      "publication_date": null,
+      "text": "High-temperature order-disorder transition in CoCr2Se4 and trapping co disorder in monoclinic CoCr2Se4: structural features of Cu(1-x)Co(x)Cr2Se4 phases. X-ray diffraction studies on the Cu(1-x)Co(x)Cr(2)Se(4) system (x = 0, 0.2, 0.4, 0.6, 0.8, 1) proved the existence of the cubic spinel-type structure for x < or = 0.2 and the monoclinic Cr(3)S(4)-type one for x > or = 0.8.",
+      "query_kind": "family",
+      "query": "Co FeNb3S6 crystal structure solid state",
+      "evidence_id": "C90:L4"
+    }
+  ]
+}

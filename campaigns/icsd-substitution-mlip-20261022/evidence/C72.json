@@ -1,0 +1,69 @@
+{
+  "candidate_id": "C72",
+  "formula_B": "TbTi2FeS6",
+  "excerpts": [
+    {
+      "source_id": "24253076",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24253076/",
+      "publication_date": null,
+      "text": "Tb3Sn7: polymorphism and crystal structure of high-temperature modification. During the systematic investigation of the tin-rich side of the Tb-Sn binary system temperatures of non-variant transformations were established.",
+      "query_kind": "family",
+      "query": "Tb Cr2S3(hP20) crystal structure solid state",
+      "evidence_id": "C72:L1"
+    },
+    {
+      "source_id": "22136291",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22136291/",
+      "publication_date": null,
+      "text": "Structural frustration and occupational disorder: the rare earth metal polysulfides Tb8S(14.8), Dy8S(14.9), Ho8S(14.9), and Y8S(14.8). Dark red crystals of Y\u2088S(14.8), Tb\u2088S(14.8), Dy\u2088S(14.9), and Ho\u2088S(14.9) have been obtained following different reaction routes.",
+      "query_kind": "family",
+      "query": "Tb Cr2S3(hP20) crystal structure solid state",
+      "evidence_id": "C72:L2"
+    },
+    {
+      "source_id": "12526570",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12526570/",
+      "publication_date": null,
+      "text": "Ternary rare-earth selenides with the U3ScS6 structure type: synthesis, characterization, and some magnetic properties of Ln3TSe6 (Ln = Sm, Gd; T = In, Cr) and Tb3CrSe6. The new compounds Ln3TSe6 (Ln = Sm, Gd; T = In, Cr) and Tb3CrSe6 have been synthesized by the solid-state reactions of the elements at 850 degrees C.",
+      "query_kind": "family",
+      "query": "Tb Cr2S3(hP20) crystal structure solid state",
+      "evidence_id": "C72:L3"
+    },
+    {
+      "source_id": "22219726",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22219726/",
+      "publication_date": null,
+      "text": "Penta-terbium lithium tris-tannide, Tb(5)LiSn(3). The new ternary phase penta-terbium lithium tris-tannide, Tb(5)LiSn(3), crystallizes in the hexa-gonal Hf(5)CuSn(3) structure type, which is a 'filled' version of the binary RE(5)Sn(3) phases (Mn(5)Si(3)-type) (RE is rare earth).",
+      "query_kind": "family",
+      "query": "Tb Cr2S3(hP20) crystal structure solid state",
+      "evidence_id": "C72:L4"
+    },
+    {
+      "source_id": "22346792",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22346792/",
+      "publication_date": null,
+      "text": "Terbium (lithium zinc) distannide, TbLi(1-x)Zn(x)Sn(2) (x = 0.2). The new terbium (lithium zinc) distannide, TbLi(1-x)Zn(x)Sn(2) (x = 0.2) crystallizes in the ortho-rhom-bic CeNiSi(2) structure type with space group Cmcm and Pearson symbol oS16.",
+      "query_kind": "family",
+      "query": "Tb Cr2S3(hP20) crystal structure solid state",
+      "evidence_id": "C72:L5"
+    },
+    {
+      "source_id": "18616241",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18616241/",
+      "publication_date": null,
+      "text": "Ternary rare-earth titanium antimonides RE2Ti(11-x)Sb(14+x) (RE = Sm, Gd, Tb, Yb). The isostructural rare-earth titanium antimonides RE 2Ti 11 - x Sb 14 + x ( RE = Sm, Gd, Tb, Yb) have been synthesized by arc-melting reactions of the elements.",
+      "query_kind": "pair",
+      "query": "Tb substituted for Ti related inorganic frameworks crystal structure",
+      "evidence_id": "C72:L6"
+    },
+    {
+      "source_id": "cond-mat/0603735v1",
+      "locator": "https://arxiv.org/abs/cond-mat/0603735",
+      "publication_date": null,
+      "text": "Stuffed Rare Earth Pyrochlore Solid Solutions Synthesis and crystal structures are described for the compounds Ln2(Ti2-xLnx)O7-x/2, where Ln = Tb, Dy, Ho, Er, Tm, Yb, Lu, and x ranges from 0 to 0.67. Rietveld refinements on X-ray powder diffraction data indicate that in Tb and Dy titanate pyrochlores, extra Ln3+ cations mix mainly on the Ti4+ site with little disorder on the original Ln3+ site.",
+      "query_kind": "pair",
+      "query": "Tb substituted for Ti related inorganic frameworks crystal structure",
+      "evidence_id": "C72:L7"
+    }
+  ]
+}

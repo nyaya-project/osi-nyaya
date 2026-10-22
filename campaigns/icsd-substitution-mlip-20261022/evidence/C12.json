@@ -1,0 +1,24 @@
+{
+  "candidate_id": "C12",
+  "formula_B": "DyOsO4",
+  "excerpts": [
+    {
+      "source_id": "25706816",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25706816/",
+      "publication_date": null,
+      "text": "Nature of transport gap and magnetic order in zircon and scheelite type DyCrO4 from first principles. Our first principles density functional theory calculations within GGA + U approximation reveal that the nature of transport gaps in the zircon and scheelite phases of DyCrO(4) are quite different.",
+      "query_kind": "source",
+      "query": "\"DyCrO4\" substitution doping crystal structure",
+      "evidence_id": "C12:L1"
+    },
+    {
+      "source_id": "36380910",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/36380910/",
+      "publication_date": null,
+      "text": "Crystal structure of the cubic double-perovskite Sr2Cr0.84Ni0.09Os1.07O6. The crystal structure of the cubic double-perovskite Sr2Cr0.84Ni0.09Os1.07O6, grown at high pressure, was solved using intensity data measured at 113 K.",
+      "query_kind": "pair",
+      "query": "Os substituted for Cr related inorganic frameworks crystal structure",
+      "evidence_id": "C12:L2"
+    }
+  ]
+}

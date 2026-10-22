@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="60">
+  <title>ICSD substitution MLIP campaign status</title>
+  <style>
+    :root { color-scheme: dark; --bg:#0b1020; --card:#141c31; --ink:#edf2ff; --muted:#aebbd8; --accent:#79b8ff; --warn:#ffc857; --line:#2a385a; }
+    body { margin:0; font:15px/1.5 system-ui,-apple-system,Segoe UI,sans-serif; background:var(--bg); color:var(--ink); }
+    main { max-width:1120px; margin:auto; padding:32px 20px 56px; }
+    h1 { margin:0 0 4px; font-size:28px; } .sub { color:var(--muted); margin:0 0 24px; }
+    .card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:18px; margin:14px 0; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(170px,1fr)); gap:12px; }
+    .metric { padding:14px; background:#10182a; border-radius:9px; border:1px solid var(--line); }
+    .metric strong { display:block; font-size:27px; color:var(--accent); } .metric span { color:var(--muted); font-size:13px; }
+    .status { color:var(--warn); font-weight:650; } .notice { color:var(--muted); }
+    table { width:100%; border-collapse:collapse; font-size:13px; } th,td { text-align:left; padding:9px 7px; border-bottom:1px solid var(--line); } th { color:var(--muted); position:sticky; top:0; background:var(--card); }
+    #candidate-wrap { max-height:520px; overflow:auto; } code { color:#c9d8ff; } .error { color:#ff9b9b; }
+  </style>
+</head>
+<body><main>
+  <h1>ICSD substitution MLIP campaign</h1>
+  <p class="sub"><code>icsd-substitution-mlip-20261022</code> · auto-refreshes every minute when served over HTTP</p>
+  <section class="card"><div id="summary">Loading status…</div></section>
+  <section class="grid" id="metrics"></section>
+  <section class="card"><h2>Candidate register</h2><p class="notice">Candidate detail appears only after independent validation. This view intentionally excludes ICSD CollectionCodes and all CIF/coordinate/cell data.</p><div id="candidate-wrap"></div></section>
+  <section class="card"><h2>Validation record</h2><pre id="validation" class="notice">Loading…</pre></section>
+</main>
+<script>
+async function render() {
+  try {
+    const r = await fetch('status.json', {cache:'no-store'}); if (!r.ok) throw new Error('status.json unavailable');
+    const d = await r.json();
+    document.querySelector('#summary').innerHTML = `<b>${d.phase}</b><br><span class="status">${d.status.replaceAll('_',' ')}</span><br><span class="notice">Updated: ${d.updated_at_utc} · ${d.safe_notice}</span>`;
+    document.querySelector('#metrics').innerHTML = Object.entries(d.counts).map(([k,v]) => `<div class="metric"><strong>${v}</strong><span>${k.replaceAll('_',' ')}</span></div>`).join('');
+    const cols=['candidate_id','source_formula','site_label','substitution','formula_B','charge_preserving','delta_r_over_r','anion','framework_family'];
+    document.querySelector('#candidate-wrap').innerHTML = d.candidates.length ? `<table><thead><tr>${cols.map(c=>`<th>${c.replaceAll('_',' ')}</th>`).join('')}</tr></thead><tbody>${d.candidates.map(x=>`<tr>${cols.map(c=>`<td>${String(x[c])}</td>`).join('')}</tr>`).join('')}</tbody></table>` : '<p class="notice">No accepted candidates yet. The prior provisional pool was rejected before evidence freeze.</p>';
+    document.querySelector('#validation').textContent = JSON.stringify(d.last_validation, null, 2);
+  } catch(e) { document.querySelector('#summary').innerHTML = `<span class="error">${e.message}</span><br>Serve this directory over HTTP (not directly as file://) to load the live status payload.`; }
+}
+render();
+</script></body></html>

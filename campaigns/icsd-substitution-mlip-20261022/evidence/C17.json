@@ -1,0 +1,33 @@
+{
+  "candidate_id": "C17",
+  "formula_B": "CsCrF6",
+  "excerpts": [
+    {
+      "source_id": "28316805",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/28316805/",
+      "publication_date": null,
+      "text": "New mixed aluminium-chromium diarsenate. Potassium chromium aluminium diarsenate, KCr1/4Al3/4As2O7, was prepared by solid-state reaction.",
+      "query_kind": "family",
+      "query": "Cr KAsF6 crystal structure solid state",
+      "evidence_id": "C17:L1"
+    },
+    {
+      "source_id": "21578982",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21578982/",
+      "publication_date": null,
+      "text": "Dilead(II) chromium(III) hepta-fluoride. Single crystals of the title compound, Pb(2)CrF(7), were obtained by solid-state reaction.",
+      "query_kind": "family",
+      "query": "Cr KAsF6 crystal structure solid state",
+      "evidence_id": "C17:L2"
+    },
+    {
+      "source_id": "15534376",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15534376/",
+      "publication_date": null,
+      "text": "The compression mechanism of CrF3. The structure of CrF3 has been studied in the pressure range from ambient to 9.12 GPa by time-of-flight neutron powder diffraction.",
+      "query_kind": "family",
+      "query": "Cr KAsF6 crystal structure solid state",
+      "evidence_id": "C17:L3"
+    }
+  ]
+}

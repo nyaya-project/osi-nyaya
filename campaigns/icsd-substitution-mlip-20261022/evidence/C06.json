@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C06",
+  "formula_B": "LiTl2CdTe4",
+  "excerpts": [
+    {
+      "source_id": "22946560",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22946560/",
+      "publication_date": null,
+      "text": "Lithium-stuffed diamond polytype Zn-Tt structures (Tt = Sn, Ge): the two lithium-zinc-tetrelides Li3Zn2Sn4 and Li2ZnGe3. In view of the search for alternative structures for Li ion battery materials and electron-poor framework semiconductors for thermoelectric applications, the systems Li-Zn-Tt with Tt = Ge or Sn were investigated.",
+      "query_kind": "family",
+      "query": "Li Tl2CdGeTe4 crystal structure solid state",
+      "evidence_id": "C06:L1"
+    },
+    {
+      "source_id": "36063374",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/36063374/",
+      "publication_date": null,
+      "text": "Crystal structure, electronic structure, and optical properties of the novel Li4CdGe2S7, a wide-bandgap quaternary sulfide with a polar structure derived from lonsdaleite. The novel quaternary thiogermanate Li4CdGe2S7 (tetralithium cadmium digermanium heptasulfide) was discovered from a solid-state reaction at 750 \u00b0C.",
+      "query_kind": "family",
+      "query": "Li Tl2CdGeTe4 crystal structure solid state",
+      "evidence_id": "C06:L2"
+    },
+    {
+      "source_id": "33397819",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/33397819/",
+      "publication_date": null,
+      "text": "Synthesis, crystal structure, and electronic structure of Li2PbSiS4: a quaternary thiosilicate with a compressed chalcopyrite-like structure. The new quaternary thiosilicate, Li2PbSiS4 (dilithium lead silicon tetrasulfide), was prepared in an evacuated fused-silica tube via high-temperature, solid-state synthesis at 800 \u00b0C, followed by slow cooling.",
+      "query_kind": "family",
+      "query": "Li Tl2CdGeTe4 crystal structure solid state",
+      "evidence_id": "C06:L3"
+    },
+    {
+      "source_id": "24901027",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24901027/",
+      "publication_date": null,
+      "text": "Structural and thermodynamic similarities of phases in the Li-Tt (Tt = Si, Ge) systems: redetermination of the lithium-rich side of the Li-Ge phase diagram and crystal structures of Li17Si4.0-xGex for x = 2.3, 3.1, 3.5, and 4 as well as Li4.1Ge. A reinvestigation of the lithium-rich section of the Li-Ge phase diagram reveals the existence of two new phases, Li17Ge4 and Li4.10Ge (Li16.38Ge4).",
+      "query_kind": "family",
+      "query": "Li Tl2CdGeTe4 crystal structure solid state",
+      "evidence_id": "C06:L4"
+    },
+    {
+      "source_id": "11196906",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11196906/",
+      "publication_date": null,
+      "text": "Synthesis and structures of new ternary aluminum chalcogenides: LiAlSe2, alpha-LiAlTe2, and beta-LiAlTe2. The synthesis and crystal structures of new ternary aluminum chalcogenides, LiAlSe2, alpha-LiAlTe2, and beta-LiAlTe2, are reported.",
+      "query_kind": "family",
+      "query": "Li Tl2CdGeTe4 crystal structure solid state",
+      "evidence_id": "C06:L5"
+    },
+    {
+      "source_id": "27377278",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/27377278/",
+      "publication_date": null,
+      "text": "Li4Ge2B as a new derivative of the Mo2B5 and Li5Sn2 structure types. Binary and multicomponent intermetallic compounds based on lithium and p-elements of Groups III-V of the Periodic Table are useful as modern electrode materials in lithium-ion batteries.",
+      "query_kind": "family",
+      "query": "Li Tl2CdGeTe4 crystal structure solid state",
+      "evidence_id": "C06:L6"
+    },
+    {
+      "source_id": "24093486",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24093486/",
+      "publication_date": null,
+      "text": "The solid solution series (GeTe)x(LiSbTe2)2 (1 \u2264 x \u2264 11) and the thermoelectric properties of (GeTe)11(LiSbTe2)2. Exchanging one Ge(2+) with two Li(+) per formula unit in (GeTe)n(Sb2Te3) (n = 1, 2, 3, ...) eliminates cation vacancies, because it leads to an equal number of cations and anions.",
+      "query_kind": "family",
+      "query": "Li Tl2CdGeTe4 crystal structure solid state",
+      "evidence_id": "C06:L7"
+    },
+    {
+      "source_id": "25521213",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25521213/",
+      "publication_date": null,
+      "text": "Fully and partially Li-stuffed diamond polytypes with Ag-Ge structures: Li2AgGe and Li2.53AgGe2. In view of the search for and understanding of new materials for energy storage, the Li-Ag-Ge phase diagram has been investigated.",
+      "query_kind": "family",
+      "query": "Li Tl2CdGeTe4 crystal structure solid state",
+      "evidence_id": "C06:L8"
+    }
+  ]
+}

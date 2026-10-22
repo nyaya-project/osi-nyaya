@@ -1,0 +1,60 @@
+{
+  "candidate_id": "C11",
+  "formula_B": "K2ZrU(PdS3)2",
+  "excerpts": [
+    {
+      "source_id": "7834313",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/7834313/",
+      "publication_date": null,
+      "text": "Structural characterisation of Na2ZrO3. A combination of X-ray and electron diffraction, electron microscopy and solid-state nuclear magnetic resonance (NMR) has been used to elucidate the structure and the ordering of Na2ZrO3.",
+      "query_kind": "family",
+      "query": "Zr NaBa2Cu3O6 crystal structure solid state",
+      "evidence_id": "C11:L1"
+    },
+    {
+      "source_id": "24109256",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24109256/",
+      "publication_date": null,
+      "text": "Penta-zirconium copper tribismuth. Penta-zirconium copper tribismuth, Zr5CuBi3, crystallizes in the hexa-gonal Hf5CuSn3 structure type.",
+      "query_kind": "family",
+      "query": "Zr NaBa2Cu3O6 crystal structure solid state",
+      "evidence_id": "C11:L2"
+    },
+    {
+      "source_id": "31686659",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/31686659/",
+      "publication_date": null,
+      "text": "Ba4YZr3F23 and Ba4LnZr3F23: a new noncentrosymmetric potential host structure type for optical devices. The first ternary BaF2-Ln(Y)F3-ZrF4 phases crystallizing near the composition range of fluoride glasses, namely Ba4YZr3F23 (barium yttrium fluoridozirconate) and isotypic Ba4LnZr3F23 (Ln = Yb, Er and Nd), have been synthesized.",
+      "query_kind": "family",
+      "query": "Zr NaBa2Cu3O6 crystal structure solid state",
+      "evidence_id": "C11:L3"
+    },
+    {
+      "source_id": "10927372",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/10927372/",
+      "publication_date": null,
+      "text": "The crystal structure of Ca7Zr7Ta6O36 refined using synchrotron-radiation data. Single-crystal X-ray diffraction data [synchrotron radiation; lambda = 1.2682 (4) \u00c5] are used to solve and refine the crystal structure of heptacalcium hexatantalum heptazirconium hexatriacontaoxide, Ca(7)Zr(7)Ta(6)O(36).",
+      "query_kind": "family",
+      "query": "Zr NaBa2Cu3O6 crystal structure solid state",
+      "evidence_id": "C11:L4"
+    },
+    {
+      "source_id": "18521448",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18521448/",
+      "publication_date": null,
+      "text": "Double NASICON-type cell: ordered Nd3+ distribution in Li0.2Nd0.8/3Zr2(PO4)3. The NASICON compound Li(0.2)Nd(0.8/3)Zr(2)(PO(4))(3), synthesized by a sol-gel process, has been structurally characterized by TEM and powder diffraction (neutron and X-ray).",
+      "query_kind": "family",
+      "query": "Zr NaBa2Cu3O6 crystal structure solid state",
+      "evidence_id": "C11:L5"
+    },
+    {
+      "source_id": "22183686",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22183686/",
+      "publication_date": null,
+      "text": "Crystal structure of novel compounds in the systems Zr-Cu-Al, Mo-Pd-Al and partial phase equilibria in the Mo-Pd-Al system. The crystal structures of three Al-rich compounds have been solved from X-ray single crystal diffractometry: \u03c4(1)-MoPd(2-x)Al(8+x) (x = 0.067); \u03c4(7)-Zr(Cu(1-x)Al(x))(12) (x = 0.514) and \u03c4(9)-ZrCu(1-x)Al(4) (x = 0.144).",
+      "query_kind": "pair",
+      "query": "Zr substituted for Pd related inorganic frameworks crystal structure",
+      "evidence_id": "C11:L6"
+    }
+  ]
+}

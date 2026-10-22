@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C93",
+  "formula_B": "RbLi2P",
+  "excerpts": [
+    {
+      "source_id": "30516156",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30516156/",
+      "publication_date": null,
+      "text": "Crystal structure of the layered arsenide Rb3Cu3As2. The crystal structure of a new arsenide, Rb3Cu3As2 (trirubidium tricopper diarsenide), has been established from single-crystal X-ray diffraction data.",
+      "query_kind": "family",
+      "query": "Rb Na3As crystal structure solid state",
+      "evidence_id": "C93:L1"
+    },
+    {
+      "source_id": "11353227",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11353227/",
+      "publication_date": null,
+      "text": "beta-Rubidium antimonide, Rb4Sb4. beta-RbSb crystallizes with the LiAs structure type.",
+      "query_kind": "family",
+      "query": "Rb Na3As crystal structure solid state",
+      "evidence_id": "C93:L2"
+    },
+    {
+      "source_id": "23629889",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23629889/",
+      "publication_date": null,
+      "text": "Ternary K2Zn5As4-type pnictides Rb2Cd5As4 and Rb2Zn5Sb4, and the solid solution Rb2Cd5(As,Sb)4. Dirubidium pentacadmium tetraarsenide, Rb2Cd5As4, dirubidium pentazinc tetraantimonide, Rb2Zn5Sb4, and the solid-solution phase dirubidium pentacadmium tetra(arsenide/antimonide), Rb2Cd5(As,Sb)4 [or Rb2Cd5As3.00(1)Sb1.00(1)], have been prepared by direct reaction of the component elements at high temperature.",
+      "query_kind": "family",
+      "query": "Rb Na3As crystal structure solid state",
+      "evidence_id": "C93:L3"
+    },
+    {
+      "source_id": "21812395",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21812395/",
+      "publication_date": null,
+      "text": "Eight-coordinated arsenic in the Zintl phases RbCd4As3 and RbZn4As3: synthesis and structural characterization. Reported are two new series of Zintl phases, ACd(4)Pn(3) and AZn(4)Pn(3) (A = Na, K, Rb, Cs; Pn = As, P), whose structures feature complex atomic arrangements based on four- and eight-coordinated arsenic and phosphorus.",
+      "query_kind": "family",
+      "query": "Rb Na3As crystal structure solid state",
+      "evidence_id": "C93:L4"
+    },
+    {
+      "source_id": "21754258",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21754258/",
+      "publication_date": null,
+      "text": "RbSn(2)(PO(4))(3), a NASICON-type phosphate. The title compound, rubidium ditin(IV) tris-(phosphate), RbSn(2)(PO(4))(3), belongs to the NASICON-type family of phosphates and crystallizes in the space group R[Formula: see text].",
+      "query_kind": "family",
+      "query": "Rb Na3As crystal structure solid state",
+      "evidence_id": "C93:L5"
+    },
+    {
+      "source_id": "32286067",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/32286067/",
+      "publication_date": null,
+      "text": "X-ray Diffraction, NMR Studies, and DFT Calculations of the Room and High Temperature Structures of Rubidium Cryolite, Rb3AlF6. A crystallographic approach incorporating multinuclear high field solid state NMR (SSNMR), X-ray structure determinations, TEM observation, and density functional theory (DFT) was used to characterize two polymorphs of rubidium cryolite, Rb3AlF6.",
+      "query_kind": "family",
+      "query": "Rb Na3As crystal structure solid state",
+      "evidence_id": "C93:L6"
+    },
+    {
+      "source_id": "11670516",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11670516/",
+      "publication_date": null,
+      "text": "A(5)TaAs(4)Tl(2) (A = Rb, K). Transition-Metal Zintl Phases with a Novel Complex Ion: Synthesis, Structure, and Bonding.",
+      "query_kind": "family",
+      "query": "Rb Na3As crystal structure solid state",
+      "evidence_id": "C93:L7"
+    },
+    {
+      "source_id": "24454010",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24454010/",
+      "publication_date": null,
+      "text": "RbH2AsO4. RbH2AsO4, rubidium di-hydrogenarsenate (RDA), was synthesized by partial neutralization of an aqueous H3AsO4 solution with aqueous Rb2CO3.",
+      "query_kind": "family",
+      "query": "Rb Na3As crystal structure solid state",
+      "evidence_id": "C93:L8"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C77",
+  "formula_B": "La(Te2I)3",
+  "excerpts": [
+    {
+      "source_id": "17173429",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17173429/",
+      "publication_date": null,
+      "text": "La2TeI2: a new layered telluride iodide with unusual electrical properties. A new layered metal-rich telluride halide, La2TeI2, has been synthesized by heating stoichiometric mixtures of LaI3, La, and Te under argon at 900 degrees C, and its structure has been refined from X-ray powder diffraction data.",
+      "query_kind": "family",
+      "query": "La RhTe6Cl3 crystal structure solid state",
+      "evidence_id": "C77:L1"
+    },
+    {
+      "source_id": "39327889",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/39327889/",
+      "publication_date": null,
+      "text": "Characterization and Solid-State UV-Vis Investigations of Photoelectrocatalytically Active La5Cl7[TeO3]4, a Mixed Anion Compound with Alternating 2D Layers of Oxygen and Chlorine. An oxide chloride, La5Cl7[TeO3]4, was synthesized using the conventional high-temperature solid-state synthesis technique in an inert atmosphere.",
+      "query_kind": "family",
+      "query": "La RhTe6Cl3 crystal structure solid state",
+      "evidence_id": "C77:L2"
+    },
+    {
+      "source_id": "36072144",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/36072144/",
+      "publication_date": null,
+      "text": "LaTe1.9: a tenfold superstructure of the ZrSSi type. Single crystals of LaTe1.9 (lanthanum telluride) have been obtained by chemical transport reactions with iodine as transport agent.",
+      "query_kind": "family",
+      "query": "La RhTe6Cl3 crystal structure solid state",
+      "evidence_id": "C77:L3"
+    },
+    {
+      "source_id": "26242776",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26242776/",
+      "publication_date": null,
+      "text": "K3LaTe2O9: a new alkali-rare earth tellurate with face-sharing TeO6 octahedra. A new quaternary alkali-lanthanide metal tellurate K3LaTe2O9 has been synthesized by a conventional high-temperature solid state method, and single crystals have been grown by spontaneous crystallization.",
+      "query_kind": "family",
+      "query": "La RhTe6Cl3 crystal structure solid state",
+      "evidence_id": "C77:L4"
+    },
+    {
+      "source_id": "18318484",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18318484/",
+      "publication_date": null,
+      "text": "La6Br10Fe: a La6Fe octahedron with a mixed M6X12/M6X8 type environment. The title compound was synthesized from La, LaBr3, and Fe under Ar atmosphere at 800 degrees C.",
+      "query_kind": "family",
+      "query": "La RhTe6Cl3 crystal structure solid state",
+      "evidence_id": "C77:L5"
+    },
+    {
+      "source_id": "23794967",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23794967/",
+      "publication_date": null,
+      "text": "The low-symmetry lanthanum(III) oxotellurate(IV), La10Te12O39. Single crystals of deca-lanthanum(III) dodeca-oxotellurate(IV), La10Te12O39, were obtained by reacting La2O3 and TeO2 in a CsCl flux.",
+      "query_kind": "family",
+      "query": "La RhTe6Cl3 crystal structure solid state",
+      "evidence_id": "C77:L6"
+    },
+    {
+      "source_id": "18947177",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18947177/",
+      "publication_date": null,
+      "text": "La8Br7Ni4: ribbons of Ni hexagons in condensed La6 trigonal prisms. A ternary lanthanum bromide La 8Br 7Ni 4 was synthesized from La, LaBr 3, and Ni under an Ar atmosphere at 830 degrees C.",
+      "query_kind": "family",
+      "query": "La RhTe6Cl3 crystal structure solid state",
+      "evidence_id": "C77:L7"
+    },
+    {
+      "source_id": "12444760",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12444760/",
+      "publication_date": null,
+      "text": "Cation substitutional chemistry in the r(7)x(12)z-type structure for four lanthanum iodide examples. A series of quaternary lanthanide halide cluster compounds ALa(6)I(12)Z with transition metal interstitials (principally Os) and alkali or alkaline-earth metal cations (A = Na, Mg, Ca, Sr) have been synthesized by high temperature solid state techniques.",
+      "query_kind": "family",
+      "query": "La RhTe6Cl3 crystal structure solid state",
+      "evidence_id": "C77:L8"
+    }
+  ]
+}

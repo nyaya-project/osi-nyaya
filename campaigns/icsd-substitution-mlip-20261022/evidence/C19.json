@@ -1,0 +1,60 @@
+{
+  "candidate_id": "C19",
+  "formula_B": "As2IO6",
+  "excerpts": [
+    {
+      "source_id": "16143757",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16143757/",
+      "publication_date": null,
+      "text": "Silver(I) trimercury(II) antimonate(V), AgHg3SbO6. Single crystals of AgHg3SbO6 were obtained from solid-state synthesis at elevated oxygen pressures.",
+      "query_kind": "family",
+      "query": "I PbSb2O6 crystal structure solid state",
+      "evidence_id": "C19:L1"
+    },
+    {
+      "source_id": "23863868",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23863868/",
+      "publication_date": null,
+      "text": "Preparation, structural diversity and characterization of a family of Cd(II)-organic frameworks. Two Cd(II)-organic frameworks based on 5-iodoisophthalate (IIP(2-)), {[Cd(IIP)(bte)(H2O)]\u00b7H2O}n (1) and [Cd(IIP)(bpp)(H2O)]n (2), were obtained either at an ambient temperature or under solvothermal conditions at 120 \u00b0C in the presence of 1,4-bis(1,2,4-triazol-1-yl)ethane (bte) and 1,3-bis(4-pyridyl)propane (bpp) as auxiliary ligands, respectively.",
+      "query_kind": "pair",
+      "query": "I substituted for Cd related inorganic frameworks crystal structure",
+      "evidence_id": "C19:L2"
+    },
+    {
+      "source_id": "31062715",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/31062715/",
+      "publication_date": null,
+      "text": "Cadmium(II) three-dimensional coordination polymers constructed from 1,3,5-tris(4-carboxyphenoxy)benzene: synthesis, crystal structure, fluorescence and I2 sorption characterization. Two three-dimensional (3D) CdII coordination polymers, namely poly[[di-\u03bc-aqua-diaquabis{\u03bc5-4,4',4''-[benzene-1,3,5-triyltris(oxy)]tribenzoato}tricadmium(II)] dihydrate], {[Cd3(C27H15O9)2(H2O)4]\u00b72H2O}n, (I), and poly[[aqua{\u03bc6-4,4',4''-[benzene-1,3,5-triyltris(oxy)]tribenzoato}(\u03bc-formato)[\u03bc-1,1'-(1,4-phenylene)bis(1H-imidazole)]dicadmium(II)] dihydrate], {[Cd2(C27H15O9)(C12H10N4)(HCOO)(H2O)]\u00b72H2O}n, (II), have been hydrothermally synthesized from the reaction system containing Cd(NO3)2\u00b74H2O and the flexible tripodal ligand 1,3,5-tris(4-carboxyphenoxy)benzene (H3tcpb) via tuning of the auxiliary ligand.",
+      "query_kind": "pair",
+      "query": "I substituted for Cd related inorganic frameworks crystal structure",
+      "evidence_id": "C19:L3"
+    },
+    {
+      "source_id": "16823193",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16823193/",
+      "publication_date": null,
+      "text": "A three-dimensional framework of bis[tris(ethylenediamine)zinc] tetraiodocadmate diiodide assisted by N-H...I hydrogen bonds. The title salt, [Zn(C(2)N(2)H(8))(3)](2)[CdI(4)]I(2), conventionally abbreviated [Zn(en)(3)](2)[CdI(4)]I(2), where en is ethylenediamine, contains discrete [Zn(en)(3)](2+) cations and [CdI(4)](2-) anions with distorted octahedral and nearly tetrahedral geometries, respectively, as well as uncoordinated I(-) ions.",
+      "query_kind": "pair",
+      "query": "I substituted for Cd related inorganic frameworks crystal structure",
+      "evidence_id": "C19:L4"
+    },
+    {
+      "source_id": "22223276",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22223276/",
+      "publication_date": null,
+      "text": "Poly[di-\u03bc-aqua-\u03bc-1,2-bis(pyridin-4-yl)ethene-\u03ba2N:N'-tetrakis(4-iodobenzoato-\u03ba2O,O')dicadmium]. Colourless crystals of the title compound, [Cd(2)(C(7)H(4)IO(2))(4)(C(12)H(10)N(2))(H(2)O)(2)](n), were obtained by the self-assembly of Cd(NO(3))(2)\u00b74H(2)O, 1,2-bis(pyridin-4-yl)ethene (bpe) and 4-iodobenzoic acid (4-IBA).",
+      "query_kind": "pair",
+      "query": "I substituted for Cd related inorganic frameworks crystal structure",
+      "evidence_id": "C19:L5"
+    },
+    {
+      "source_id": "24641354",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24641354/",
+      "publication_date": null,
+      "text": "Two tetra-Cd(II)-substituted vanadogermanate frameworks. Two new tetra-Cd(II)-substituted vanadogermanate frameworks {(CdX)4Ge8V(IV)10O46(H2O)[V(III)(H2O)2]4(GeO2)4}\u00b78H2O (X = ethylenediamine (en, 1) and 1,2-diaminopropane (dap, 2)) were hydrothermally prepared and characterized by IR spectra, elemental analysis, powder X-ray diffraction (PXRD), energy-dispersive X-ray spectroscopy (EDX), X-ray photoelectron spectroscopy (XPS), thermogravimetric analysis (TGA), and X-ray single-crystal diffraction.",
+      "query_kind": "pair",
+      "query": "I substituted for Cd related inorganic frameworks crystal structure",
+      "evidence_id": "C19:L6"
+    }
+  ]
+}

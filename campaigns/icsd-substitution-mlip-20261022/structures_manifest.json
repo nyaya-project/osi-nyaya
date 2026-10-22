@@ -1,0 +1,1096 @@
+{
+  "campaign_id": "icsd-substitution-mlip-20261022",
+  "purpose": "phase1_s0_unrelaxed_structures",
+  "count": 99,
+  "structures": [
+    {
+      "candidate_id": "C01",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "23487",
+        "substitution": "Rh->Pt",
+        "site_label": "8d"
+      },
+      "sha256": "868830818da7058591b678178bea12d5eae6e651e86121fb6d955c944b39f6bf",
+      "relative_external_path": "structures/C01.cif"
+    },
+    {
+      "candidate_id": "C02",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "138652",
+        "substitution": "Ag->Re",
+        "site_label": "4d"
+      },
+      "sha256": "491ec34018a7ad5ee90aa91820fb65e692f7a36d2807ff1ddad966aaab86f16e",
+      "relative_external_path": "structures/C02.cif"
+    },
+    {
+      "candidate_id": "C03",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "645332",
+        "substitution": "Nb->Hf",
+        "site_label": "2b"
+      },
+      "sha256": "bc49d26edb16ff691ff53f7ece0b7f130d5136bd9409651ba8f2575eb0cafd18",
+      "relative_external_path": "structures/C03.cif"
+    },
+    {
+      "candidate_id": "C04",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "423829",
+        "substitution": "Ni->Sr",
+        "site_label": "2a"
+      },
+      "sha256": "e6415e8b9cfd114346214d82ae6746601752d77a5556485e220ba16f8b3d5a0d",
+      "relative_external_path": "structures/C04.cif"
+    },
+    {
+      "candidate_id": "C05",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "140315",
+        "substitution": "Te->V",
+        "site_label": "2a"
+      },
+      "sha256": "ba001c38be00cb53ba4468ef8142dcaf041211fa8b17d1abbeddaa72dc65fa13",
+      "relative_external_path": "structures/C05.cif"
+    },
+    {
+      "candidate_id": "C06",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "172503",
+        "substitution": "Sn->Li",
+        "site_label": "2a"
+      },
+      "sha256": "93fba9eaa958922d9e418cab3a190dda88242a1ad8809ffd77dfb482b58e71d1",
+      "relative_external_path": "structures/C06.cif"
+    },
+    {
+      "candidate_id": "C07",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "416717",
+        "substitution": "Eu->Lu",
+        "site_label": "1c"
+      },
+      "sha256": "7dc2f0325916d81a6f87f42c22b1744494ea938f0448fac4036ad5d4a6080a33",
+      "relative_external_path": "structures/C07.cif"
+    },
+    {
+      "candidate_id": "C08",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "420340",
+        "substitution": "Ba->Zn",
+        "site_label": "2a"
+      },
+      "sha256": "090bdcc833718ac860c8c736b94719b81a45a5c6c0119394c56ef15b17a460fe",
+      "relative_external_path": "structures/C08.cif"
+    },
+    {
+      "candidate_id": "C09",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "78785",
+        "substitution": "Pt->Yb",
+        "site_label": "3e"
+      },
+      "sha256": "755d4576ec355573efb70a2841496e4c023a32f43bc70df47649f9d1b520285f",
+      "relative_external_path": "structures/C09.cif"
+    },
+    {
+      "candidate_id": "C10",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "84918",
+        "substitution": "Zn->Sb",
+        "site_label": "48e"
+      },
+      "sha256": "d1699a0083f2ffee725591169bc4eece62151eadbe02aba822528a700c7dc841",
+      "relative_external_path": "structures/C10.cif"
+    },
+    {
+      "candidate_id": "C11",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "262563",
+        "substitution": "Pd->Zr",
+        "site_label": "8g"
+      },
+      "sha256": "bf4fb402fd1d6fbfae95c775dddda8d6174f05490d72d9d3f94fde329c61391a",
+      "relative_external_path": "structures/C11.cif"
+    },
+    {
+      "candidate_id": "C12",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "93788",
+        "substitution": "Cr->Os",
+        "site_label": "4b"
+      },
+      "sha256": "1fb62932a155406117ed38be00337aa3645a7a4d9f0a37efcb6ad497778d83e7",
+      "relative_external_path": "structures/C12.cif"
+    },
+    {
+      "candidate_id": "C13",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "52684",
+        "substitution": "Cu->Sc",
+        "site_label": "2d"
+      },
+      "sha256": "f7b75562ea273afdbc2f62acc872f952fa2fc98c546cf39926861b53c2e5a5f0",
+      "relative_external_path": "structures/C13.cif"
+    },
+    {
+      "candidate_id": "C14",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "157008",
+        "substitution": "Ga->Ni",
+        "site_label": "2a"
+      },
+      "sha256": "a050f1270609eb9d91a238a50f96c373bdeeec34197698d5c18f3c61664e7f5b",
+      "relative_external_path": "structures/C14.cif"
+    },
+    {
+      "candidate_id": "C15",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "626977",
+        "substitution": "Cs->Y",
+        "site_label": "1b"
+      },
+      "sha256": "7984db7a65041e82cb889ac7ff750e10267ce38dda2b1206ccfae04b85b31072",
+      "relative_external_path": "structures/C15.cif"
+    },
+    {
+      "candidate_id": "C16",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "641302",
+        "substitution": "K->Ba",
+        "site_label": "4f"
+      },
+      "sha256": "0009f4b28ac18331b64f4897edbf829b29be521f679a832e22b3b88541b69428",
+      "relative_external_path": "structures/C16.cif"
+    },
+    {
+      "candidate_id": "C17",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "178705",
+        "substitution": "Ru->Cr",
+        "site_label": "3a"
+      },
+      "sha256": "53202692423193ab2111acf0df1d40cc6cab76ffa178f0bafe0dfbc1600b5240",
+      "relative_external_path": "structures/C17.cif"
+    },
+    {
+      "candidate_id": "C18",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "35716",
+        "substitution": "Zr->Po",
+        "site_label": "4b"
+      },
+      "sha256": "8758b73e7fe7561c121f223a4574a2ea2461b7dcf59146cd8e82691c1e87bf46",
+      "relative_external_path": "structures/C18.cif"
+    },
+    {
+      "candidate_id": "C19",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "54735",
+        "substitution": "Cd->I",
+        "site_label": "1a"
+      },
+      "sha256": "61e10dbb9034277091ce79251b0752aecb163a25297adae6a1cdc98c23bd68ff",
+      "relative_external_path": "structures/C19.cif"
+    },
+    {
+      "candidate_id": "C20",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "420348",
+        "substitution": "Pr->In",
+        "site_label": "4f"
+      },
+      "sha256": "0724951eddffbb78383c216526195f93a6731ced1d5d3ec3d00c7275d8dde810",
+      "relative_external_path": "structures/C20.cif"
+    },
+    {
+      "candidate_id": "C21",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "45310",
+        "substitution": "Ba->Sr",
+        "site_label": "1a"
+      },
+      "sha256": "43293a97fb0c177a22d7c08a412afa56479490a522aa94e8a263a7eb51b7b545",
+      "relative_external_path": "structures/C21.cif"
+    },
+    {
+      "candidate_id": "C22",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "242164",
+        "substitution": "Rb->Pt",
+        "site_label": "2a"
+      },
+      "sha256": "8d6987eca67d1eede0e7be13b479df27b89557d2af303f268503da9c5f9e13a6",
+      "relative_external_path": "structures/C22.cif"
+    },
+    {
+      "candidate_id": "C23",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "80184",
+        "substitution": "Ca->Be",
+        "site_label": "12k"
+      },
+      "sha256": "9ea9d09d25e0be8ba4c879aaa3557554577d7e879b63201c3f9295568a98d83a",
+      "relative_external_path": "structures/C23.cif"
+    },
+    {
+      "candidate_id": "C24",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "633075",
+        "substitution": "Fe->Ti",
+        "site_label": "8c"
+      },
+      "sha256": "bd126b3c10385dd64bdd7601a884dd1f23f2d717619c50e2d5de68b2760dbd54",
+      "relative_external_path": "structures/C24.cif"
+    },
+    {
+      "candidate_id": "C25",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "40475",
+        "substitution": "Sm->Nd",
+        "site_label": "24d"
+      },
+      "sha256": "1ec2ce0bf0f748d04e89dc590605516a2b7bf5614eccb058cadb9a20d5401748",
+      "relative_external_path": "structures/C25.cif"
+    },
+    {
+      "candidate_id": "C26",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "92408",
+        "substitution": "Tm->Hg",
+        "site_label": "1a"
+      },
+      "sha256": "4cd239a720a22dba5e04044034b4f79d7f37b234d0fbb5d997671fac48a0c066",
+      "relative_external_path": "structures/C26.cif"
+    },
+    {
+      "candidate_id": "C27",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "642322",
+        "substitution": "Li->Cu",
+        "site_label": "1b"
+      },
+      "sha256": "c00d4e43e4d5c5b1da0f1f67885a3dae61bde5f68c6640ff89fb9bb3870ba97b",
+      "relative_external_path": "structures/C27.cif"
+    },
+    {
+      "candidate_id": "C28",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "16795",
+        "substitution": "Pb->Bi",
+        "site_label": "2a"
+      },
+      "sha256": "35960d315ff272b53ff12a860b54685af6cc12aed31aaf34463c9e6ca95f513c",
+      "relative_external_path": "structures/C28.cif"
+    },
+    {
+      "candidate_id": "C29",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "136327",
+        "substitution": "Ge->Ir",
+        "site_label": "2b"
+      },
+      "sha256": "65811c372449a6bcf810e3e4683d71c351786f0cb022f1727b0e06773863c9ce",
+      "relative_external_path": "structures/C29.cif"
+    },
+    {
+      "candidate_id": "C30",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "159250",
+        "substitution": "Ga->Ru",
+        "site_label": "2b"
+      },
+      "sha256": "9c60605ba0fd50770b3e3e38c3fbc13048a8a976fb5804d16e6857f22714ec5d",
+      "relative_external_path": "structures/C30.cif"
+    },
+    {
+      "candidate_id": "C31",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "412792",
+        "substitution": "Nd->Au",
+        "site_label": "2b"
+      },
+      "sha256": "9304aaee87c393c90e0afd2101b311b6e3d239f16bf50c99fb00b65f46b30f05",
+      "relative_external_path": "structures/C31.cif"
+    },
+    {
+      "candidate_id": "C32",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "262030",
+        "substitution": "Zn->Mg",
+        "site_label": "4i"
+      },
+      "sha256": "fc5e13267211c0da147a88a7c02e98ae9e4d5152faf74886dbbf04191d0b62fd",
+      "relative_external_path": "structures/C32.cif"
+    },
+    {
+      "candidate_id": "C33",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "24526",
+        "substitution": "B->Mn",
+        "site_label": "2c"
+      },
+      "sha256": "9c705a14daab7c31e58d05375c691ec918881e7ad01eef3d746b2d6798ed63e1",
+      "relative_external_path": "structures/C33.cif"
+    },
+    {
+      "candidate_id": "C34",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "22215",
+        "substitution": "Tl->Pr",
+        "site_label": "16c"
+      },
+      "sha256": "d5b3b06e66e3d348855644a4c7ffff83e4a79a140c9ac25357c3e4b1a6aad03a",
+      "relative_external_path": "structures/C34.cif"
+    },
+    {
+      "candidate_id": "C35",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "50464",
+        "substitution": "Nb->As",
+        "site_label": "8b"
+      },
+      "sha256": "63d9ac3c0df1eb6f9b665768c7b4f2f900b9ae4f13f148ebbeaf1b8b618f4035",
+      "relative_external_path": "structures/C35.cif"
+    },
+    {
+      "candidate_id": "C36",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "41886",
+        "substitution": "Pd->Cr",
+        "site_label": "2d"
+      },
+      "sha256": "6abe768e69b4f79b8bdbe34f5769a38a74d12aacae423256ac2135ca05dbe150",
+      "relative_external_path": "structures/C36.cif"
+    },
+    {
+      "candidate_id": "C37",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "625401",
+        "substitution": "Co->Se",
+        "site_label": "1a"
+      },
+      "sha256": "3960b89e0f4960a54b2879724f103b117f16c822bca47274891e1769396fdf29",
+      "relative_external_path": "structures/C37.cif"
+    },
+    {
+      "candidate_id": "C38",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "636599",
+        "substitution": "Hg->Cd",
+        "site_label": "2b"
+      },
+      "sha256": "82eb9f2d4de44a506110bf38e4d2126808a66264a5fcafb5cefe41088128335e",
+      "relative_external_path": "structures/C38.cif"
+    },
+    {
+      "candidate_id": "C39",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "63166",
+        "substitution": "Bi->W",
+        "site_label": "16d"
+      },
+      "sha256": "ca67bd894b546dc97839d794f2f859a21d860ad570dd55be7c41a3b2f25bf7de",
+      "relative_external_path": "structures/C39.cif"
+    },
+    {
+      "candidate_id": "C40",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "154792",
+        "substitution": "Y->As",
+        "site_label": "2c"
+      },
+      "sha256": "5b0dc7305625f1e795d28885712d7dd0db85a5b0109516e31bc81e18c39c283f",
+      "relative_external_path": "structures/C40.cif"
+    },
+    {
+      "candidate_id": "C41",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "412835",
+        "substitution": "Pd->Ce",
+        "site_label": "2a"
+      },
+      "sha256": "e90a7067a4d7c865744cd726711554f3ca5330f4ac37888ae7acb4458f082a6a",
+      "relative_external_path": "structures/C41.cif"
+    },
+    {
+      "candidate_id": "C42",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "8793",
+        "substitution": "Tb->Eu",
+        "site_label": "2a"
+      },
+      "sha256": "75be9dfacd142a294c96c9e1aa25f9d104b5d87a7b16c78a657fa84a503e3ce5",
+      "relative_external_path": "structures/C42.cif"
+    },
+    {
+      "candidate_id": "C43",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "49007",
+        "substitution": "Na->Po",
+        "site_label": "8c"
+      },
+      "sha256": "6fe2a58ac48561a57eb87f2d08345be623b6e78f78e4af3a1964e2071660f27b",
+      "relative_external_path": "structures/C43.cif"
+    },
+    {
+      "candidate_id": "C44",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "24755",
+        "substitution": "Nb->Cr",
+        "site_label": "1a"
+      },
+      "sha256": "b5f459bfb0855c3041718cda1be220904a09b3dbaa50ec983f0b1e6bfd08250a",
+      "relative_external_path": "structures/C44.cif"
+    },
+    {
+      "candidate_id": "C45",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "14018",
+        "substitution": "Hg->Sm",
+        "site_label": "2a"
+      },
+      "sha256": "e6dd7c9f3332433e8b85e22c2e8902437583fe1b21b18b7b4b67b72f49c15786",
+      "relative_external_path": "structures/C45.cif"
+    },
+    {
+      "candidate_id": "C46",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "87983",
+        "substitution": "K->Cs",
+        "site_label": "2a"
+      },
+      "sha256": "18cf385443cff3fe14b59df23196f70ef443d8f754eb7894e911a0edd1f207a6",
+      "relative_external_path": "structures/C46.cif"
+    },
+    {
+      "candidate_id": "C47",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "628144",
+        "substitution": "In->Au",
+        "site_label": "4b"
+      },
+      "sha256": "75c737a73cfe47420caf8e8b47aa588df5ccb8c47102c70c78bfcdaaa4f79b8b",
+      "relative_external_path": "structures/C47.cif"
+    },
+    {
+      "candidate_id": "C48",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "154716",
+        "substitution": "Se->Gd",
+        "site_label": "8c"
+      },
+      "sha256": "0144b016f6ce9a5d3fa32ebfaf48bc76bd27676f0c51e20b280ff10edd8e1e4c",
+      "relative_external_path": "structures/C48.cif"
+    },
+    {
+      "candidate_id": "C49",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "420033",
+        "substitution": "P->Ti",
+        "site_label": "2a"
+      },
+      "sha256": "003ca982c91b0929733a7297f12ad901c8bd5ba8503375d674034e2d5eb911a1",
+      "relative_external_path": "structures/C49.cif"
+    },
+    {
+      "candidate_id": "C50",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "609325",
+        "substitution": "Al->Sc",
+        "site_label": "16c"
+      },
+      "sha256": "c0559407e62312b93d4c3f56fc3aea57e3e7c807a77c404437603339acd08f80",
+      "relative_external_path": "structures/C50.cif"
+    },
+    {
+      "candidate_id": "C51",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "251654",
+        "substitution": "Cr->Pd",
+        "site_label": "4g"
+      },
+      "sha256": "f2556f4b733ce252425921c60800ad8c06461d0366efd62d842f801e23520a96",
+      "relative_external_path": "structures/C51.cif"
+    },
+    {
+      "candidate_id": "C52",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "38326",
+        "substitution": "Gd->Tm",
+        "site_label": "4b"
+      },
+      "sha256": "5a29fb832fc87079579bd48dc75f19d438d8a18c5b93a392209c2972c69efa59",
+      "relative_external_path": "structures/C52.cif"
+    },
+    {
+      "candidate_id": "C53",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "408440",
+        "substitution": "Al->Os",
+        "site_label": "4c"
+      },
+      "sha256": "a32fa2187f1fa3c706696dd3cb8da4f3d881edf08eb93b271a7ba4279740a991",
+      "relative_external_path": "structures/C53.cif"
+    },
+    {
+      "candidate_id": "C54",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "85846",
+        "substitution": "Rb->K",
+        "site_label": "18e"
+      },
+      "sha256": "091228b13bbbf33aa08b0782b7b537ff33fc4cb519727c56efa32c5bf4fae2fb",
+      "relative_external_path": "structures/C54.cif"
+    },
+    {
+      "candidate_id": "C55",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "90369",
+        "substitution": "Cd->Ge",
+        "site_label": "4a"
+      },
+      "sha256": "7b482634736d1d220a9e9237a28cc904a9554975cadf9df9d4fc40676e90eec4",
+      "relative_external_path": "structures/C55.cif"
+    },
+    {
+      "candidate_id": "C56",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "600246",
+        "substitution": "Nb->Er",
+        "site_label": "2a"
+      },
+      "sha256": "b1e40627fabb1ca2de00d0cebcddbf29a265aa582d7e44f27422b54d458c3289",
+      "relative_external_path": "structures/C56.cif"
+    },
+    {
+      "candidate_id": "C57",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "244108",
+        "substitution": "Sm->Ge",
+        "site_label": "24e"
+      },
+      "sha256": "4ee0c825fbe8cf9c57d2ae3b8129a9d9c6bfd4633623677850b8cd93f07250cb",
+      "relative_external_path": "structures/C57.cif"
+    },
+    {
+      "candidate_id": "C59",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "90134",
+        "substitution": "Hf->Cl",
+        "site_label": "4a"
+      },
+      "sha256": "cdb46488ffb26be3688eb6a57fe5af885e929876408c5b9ceb131991a78d306b",
+      "relative_external_path": "structures/C59.cif"
+    },
+    {
+      "candidate_id": "C60",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "4036",
+        "substitution": "Mg->Tm",
+        "site_label": "4f"
+      },
+      "sha256": "110ad4f0679e850631cc479b3a08f9936d2611066f8459bf6303869b4bb0ae14",
+      "relative_external_path": "structures/C60.cif"
+    },
+    {
+      "candidate_id": "C61",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "81488",
+        "substitution": "W->Ru",
+        "site_label": "2b"
+      },
+      "sha256": "9a73c8b4184ca36ea3fa5663c0481ed176460e55da81b72181b884bde065e78b",
+      "relative_external_path": "structures/C61.cif"
+    },
+    {
+      "candidate_id": "C62",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "601131",
+        "substitution": "Ga->Sn",
+        "site_label": "4b"
+      },
+      "sha256": "4293aa89b2f1608319f47fba9c4995e1e7c1d091a6c9616b758892579f8bff82",
+      "relative_external_path": "structures/C62.cif"
+    },
+    {
+      "candidate_id": "C63",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "246905",
+        "substitution": "V->Pm",
+        "site_label": "1a"
+      },
+      "sha256": "ca15f66005843cf0a50da5000e1e3193523fc27414f0354ca50ae84931fc4765",
+      "relative_external_path": "structures/C63.cif"
+    },
+    {
+      "candidate_id": "C64",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "59276",
+        "substitution": "Mn->Na",
+        "site_label": "4b"
+      },
+      "sha256": "a1bcd02a2d037feeb9bbcabd376fa38b423f933925813f9d961a94c3161b367a",
+      "relative_external_path": "structures/C64.cif"
+    },
+    {
+      "candidate_id": "C65",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "10463",
+        "substitution": "Ca->Hg",
+        "site_label": "2a"
+      },
+      "sha256": "0b5be4151881d037979a16ffb1ac0e7d487ca87218092134254f6797ba7d9626",
+      "relative_external_path": "structures/C65.cif"
+    },
+    {
+      "candidate_id": "C66",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "259144",
+        "substitution": "Lu->Ta",
+        "site_label": "24c"
+      },
+      "sha256": "c4735decbcbae998209d5450f9d81efea7d2729c434ef13718186b1dd1290537",
+      "relative_external_path": "structures/C66.cif"
+    },
+    {
+      "candidate_id": "C67",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "85811",
+        "substitution": "K->Br",
+        "site_label": "2a"
+      },
+      "sha256": "08eb2c7ee26e2406638e3f7f7ba1286457c7470337269f6b7a5ac9e4c78f67a8",
+      "relative_external_path": "structures/C67.cif"
+    },
+    {
+      "candidate_id": "C68",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "66095",
+        "substitution": "Li->K",
+        "site_label": "4d"
+      },
+      "sha256": "1f9f27a4144ec4388d9f782e2df40c4eaaf5bbdff88634b40f76f6559e4883e7",
+      "relative_external_path": "structures/C68.cif"
+    },
+    {
+      "candidate_id": "C69",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "281176",
+        "substitution": "Cd->Al",
+        "site_label": "2a"
+      },
+      "sha256": "202512a01ce5ce933dd2d53b70d6f5ba4a8e83062d9cdebae7514f6c66148f1e",
+      "relative_external_path": "structures/C69.cif"
+    },
+    {
+      "candidate_id": "C70",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "1845",
+        "substitution": "Mn->Dy",
+        "site_label": "4a"
+      },
+      "sha256": "f55beb72a7e07d828846b2fdc61034f855af66b5fa3077997e4d5a9e00ea97db",
+      "relative_external_path": "structures/C70.cif"
+    },
+    {
+      "candidate_id": "C71",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "409382",
+        "substitution": "Cs->Ba",
+        "site_label": "8f"
+      },
+      "sha256": "078ebf42f73b878cf4e79dc8dc5792afffdfdf40b09cd96e91ab1007b90ea4bb",
+      "relative_external_path": "structures/C71.cif"
+    },
+    {
+      "candidate_id": "C72",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "53533",
+        "substitution": "Ti->Tb",
+        "site_label": "2c"
+      },
+      "sha256": "f71cd43c3153ffe136ea034da262d7d0729126a9457d55570f1de523a4797ae1",
+      "relative_external_path": "structures/C72.cif"
+    },
+    {
+      "candidate_id": "C73",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "91036",
+        "substitution": "Cs->Tl",
+        "site_label": "4d"
+      },
+      "sha256": "8c602db85b4c980baba190d2015118ffb94eacb10e854203745ba51ed0be8797",
+      "relative_external_path": "structures/C73.cif"
+    },
+    {
+      "candidate_id": "C74",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "16413",
+        "substitution": "Al->Te",
+        "site_label": "2a"
+      },
+      "sha256": "8e8babe5a63ec1d9b99bfbb462b161fa89faf98ab8d5a2dc4fcb81b505f72719",
+      "relative_external_path": "structures/C74.cif"
+    },
+    {
+      "candidate_id": "C75",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "56443",
+        "substitution": "Li->Ni",
+        "site_label": "1d"
+      },
+      "sha256": "18da153dc1ea2fa553d109dfb200c238c24cbc6457827042598661cbb62ed108",
+      "relative_external_path": "structures/C75.cif"
+    },
+    {
+      "candidate_id": "C76",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "53634",
+        "substitution": "Bi->Lu",
+        "site_label": "6c"
+      },
+      "sha256": "fbaa0b723f75f6b9eacb964525268058c728f0fcd8a69c83c9f2e6b6d9aa1fab",
+      "relative_external_path": "structures/C76.cif"
+    },
+    {
+      "candidate_id": "C77",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "423670",
+        "substitution": "Ir->La",
+        "site_label": "6a"
+      },
+      "sha256": "69d5fd875dc6076121bfdceaac124756f95030cebfacf327d944889c24925f18",
+      "relative_external_path": "structures/C77.cif"
+    },
+    {
+      "candidate_id": "C78",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "83476",
+        "substitution": "Ba->Ta",
+        "site_label": "6f"
+      },
+      "sha256": "548a8a21180ea6e9bf99783415ce733f0d0fabb4ebc4deb47b9765288ee3aa19",
+      "relative_external_path": "structures/C78.cif"
+    },
+    {
+      "candidate_id": "C79",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "281420",
+        "substitution": "Ti->Yb",
+        "site_label": "4j"
+      },
+      "sha256": "d21eac6c265b69c65c091c801154498964489156574ee79950ad231dc8fa3ea8",
+      "relative_external_path": "structures/C79.cif"
+    },
+    {
+      "candidate_id": "C80",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "93792",
+        "substitution": "Cs->Re",
+        "site_label": "4a"
+      },
+      "sha256": "e13b512fa2ebd184e4e3c647ed7a1c3f8a8c5b7d1f5181c3be7ee237b279203b",
+      "relative_external_path": "structures/C80.cif"
+    },
+    {
+      "candidate_id": "C81",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "649539",
+        "substitution": "Pt->Li",
+        "site_label": "4j"
+      },
+      "sha256": "1af6d10fcbc9c1ce46999fc7ccaa3c920f37b78999e84c2211cb582a125191e5",
+      "relative_external_path": "structures/C81.cif"
+    },
+    {
+      "candidate_id": "C82",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "93712",
+        "substitution": "Ce->Ga",
+        "site_label": "8h"
+      },
+      "sha256": "f0527009ac9324e40de2ddb1481667ca22ea8bf254fd1817e66b42da9450986b",
+      "relative_external_path": "structures/C82.cif"
+    },
+    {
+      "candidate_id": "C83",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "36264",
+        "substitution": "Sb->Mn",
+        "site_label": "1b"
+      },
+      "sha256": "864f2f823717d527f8b6bc6f55e146d8b0cc4c0ea9dc5dd3b468199de7f6bc6e",
+      "relative_external_path": "structures/C83.cif"
+    },
+    {
+      "candidate_id": "C84",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "414117",
+        "substitution": "Ag->Au",
+        "site_label": "4g"
+      },
+      "sha256": "1fc754f43ec17471ef72ac8ae9e1ec505ae5a2dcef62e9fb13629b12e73e6dd5",
+      "relative_external_path": "structures/C84.cif"
+    },
+    {
+      "candidate_id": "C85",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "194137",
+        "substitution": "La->Ho",
+        "site_label": "2a"
+      },
+      "sha256": "deea41fe40ddfe297af13e60e26b76c8edbaf2cc597ee8bf3ddd73bc8acd63b6",
+      "relative_external_path": "structures/C85.cif"
+    },
+    {
+      "candidate_id": "C86",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "139061",
+        "substitution": "Os->Mo",
+        "site_label": "4b"
+      },
+      "sha256": "eb1d0b7c4f9542ff4008895dfd1e9ab21ba2476d7a82d0b4eaacebf047e8c851",
+      "relative_external_path": "structures/C86.cif"
+    },
+    {
+      "candidate_id": "C87",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "629347",
+        "substitution": "Tl->N",
+        "site_label": "16l"
+      },
+      "sha256": "e097ab97eb88395304812e0d5da882f678ee6938d200754b09ff5f7b7f022144",
+      "relative_external_path": "structures/C87.cif"
+    },
+    {
+      "candidate_id": "C88",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "204229",
+        "substitution": "Ta->Te",
+        "site_label": "8a"
+      },
+      "sha256": "d5405dbed23e1d691e0ec87cd36573bc3b85d2e538c1c21ffeb8abf84d26b1fa",
+      "relative_external_path": "structures/C88.cif"
+    },
+    {
+      "candidate_id": "C89",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "35722",
+        "substitution": "Sn->Fe",
+        "site_label": "3b"
+      },
+      "sha256": "db53cfc645ee2471b274441c22f13d7c33e515b19507c484aeab6002a7924911",
+      "relative_external_path": "structures/C89.cif"
+    },
+    {
+      "candidate_id": "C90",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "147919",
+        "substitution": "Ta->Co",
+        "site_label": "2a"
+      },
+      "sha256": "1aa97f445a2fa2c7c6094af5285bfa0ac2cd4de58a2c814aabeba730d0a44395",
+      "relative_external_path": "structures/C90.cif"
+    },
+    {
+      "candidate_id": "C91",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "20314",
+        "substitution": "W->Pd",
+        "site_label": "2a"
+      },
+      "sha256": "8f9a601df23b834c90f482179c1469415c1ba4a6015b897408445a439e1c0950",
+      "relative_external_path": "structures/C91.cif"
+    },
+    {
+      "candidate_id": "C92",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "43937",
+        "substitution": "Cu->Bi",
+        "site_label": "4b"
+      },
+      "sha256": "e96b84062ac37a17342cd3b57fbb10f14634956829166bce83cfe20e324272e0",
+      "relative_external_path": "structures/C92.cif"
+    },
+    {
+      "candidate_id": "C93",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "240250",
+        "substitution": "Cu->Rb",
+        "site_label": "2b"
+      },
+      "sha256": "27fdb74ae494584ccb0c81176d95dca0a814de59bf7373576f5a58d632807fba",
+      "relative_external_path": "structures/C93.cif"
+    },
+    {
+      "candidate_id": "C94",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "193088",
+        "substitution": "Mg->Rh",
+        "site_label": "2a"
+      },
+      "sha256": "f6832a43222aaf292b320a938ba489a0ff07e06a92d2a4db453e210757764e5f",
+      "relative_external_path": "structures/C94.cif"
+    },
+    {
+      "candidate_id": "C95",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "44397",
+        "substitution": "Fe->Ag",
+        "site_label": "3a"
+      },
+      "sha256": "b12f33733c34216b3b66274d3a74d9ce0d46058c77564a4e40c1b0c3bee75b00",
+      "relative_external_path": "structures/C95.cif"
+    },
+    {
+      "candidate_id": "C96",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "138830",
+        "substitution": "Na->Tl",
+        "site_label": "2a"
+      },
+      "sha256": "1f364a1ecbdb73da33796098ee5b5f795c96435dbba5e2dd5f96224ad241b94a",
+      "relative_external_path": "structures/C96.cif"
+    },
+    {
+      "candidate_id": "C97",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "9595",
+        "substitution": "Ti->Co",
+        "site_label": "2d"
+      },
+      "sha256": "bb3fb300315577272f52d39ee694e518a930c99ce523264076fe4dd238d94e33",
+      "relative_external_path": "structures/C97.cif"
+    },
+    {
+      "candidate_id": "C98",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "144473",
+        "substitution": "V->Pb",
+        "site_label": "4a"
+      },
+      "sha256": "21781d0f0c37911bc665a0d0f472e4edee2605b10233656768d4c2938d043727",
+      "relative_external_path": "structures/C98.cif"
+    },
+    {
+      "candidate_id": "C99",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "113086",
+        "substitution": "Cs->Tl",
+        "site_label": "8h"
+      },
+      "sha256": "0a6ca721ac61e417478bb1692e679825cbd4b0ea1f96a12b8524e90216b461b6",
+      "relative_external_path": "structures/C99.cif"
+    },
+    {
+      "candidate_id": "C100",
+      "representation": "allowed_identifier",
+      "provenance": {
+        "source_collection_code": "205255",
+        "substitution": "Sb->Nb",
+        "site_label": "4b"
+      },
+      "sha256": "f46d420d037d52e16d4845204082c7d9a4f17914215e2d7b88ff6742603ddf6c",
+      "relative_external_path": "structures/C100.cif"
+    }
+  ]
+}

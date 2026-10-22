@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C89",
+  "formula_B": "CaFeF6",
+  "excerpts": [
+    {
+      "source_id": "28906516",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/28906516/",
+      "publication_date": null,
+      "text": "A highly fluorinated lithium iron phosphate with interpenetrating lattices: electrochemistry and ionic conductivity. Li5Fe2PO4F8, a new member of the family of alkali transition metal fluorophosphates, has been synthesized and characterized using single-crystal X-ray diffraction, 57Fe M\u00f6ssbauer spectroscopy and magnetic susceptibility measurements.",
+      "query_kind": "family",
+      "query": "Fe LiSbF6 crystal structure solid state",
+      "evidence_id": "C89:L1"
+    },
+    {
+      "source_id": "28776991",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/28776991/",
+      "publication_date": null,
+      "text": "Topotactic Fluorine Insertion into the Channels of FeSb2O4-Related Materials. This paper discusses the fluorination characteristics of phases related to FeSb2O4, by reporting the results of a detailed study of Mg0.50Fe0.50Sb2O4 and Co0.50Fe0.50Sb2O4.",
+      "query_kind": "family",
+      "query": "Fe LiSbF6 crystal structure solid state",
+      "evidence_id": "C89:L2"
+    },
+    {
+      "source_id": "28338322",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/28338322/",
+      "publication_date": null,
+      "text": "Hydrothermal Synthesis of the Oxofluoride FeSbO2F2-An Anti-ferromagnetic Spin S = 5/2 Compound. The new oxofluoride compound FeSbO2F2 was synthesized by hydrothermal techniques at 230 \u00b0C.",
+      "query_kind": "family",
+      "query": "Fe LiSbF6 crystal structure solid state",
+      "evidence_id": "C89:L3"
+    },
+    {
+      "source_id": "22895345",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22895345/",
+      "publication_date": null,
+      "text": "Synthesis and characterization of the crystal structure, the magnetic and the electrochemical properties of the new fluorophosphate LiNaFe[PO4]F. The new compound LiNaFe[PO(4)]F was synthesized by a solid state reaction route, and its crystal structure was determined using neutron powder diffraction data.",
+      "query_kind": "family",
+      "query": "Fe LiSbF6 crystal structure solid state",
+      "evidence_id": "C89:L4"
+    },
+    {
+      "source_id": "24061360",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24061360/",
+      "publication_date": null,
+      "text": "Synthesis, Crystal Structure and Magnetic Properties of a new Hydroxylammonium Fluoroferrate. This paper reports on the synthesis of a new hydroxylammonium fluoroferrate, with the formula (NH3OH)3FeF6, obtained after dissolving iron powder in hydrofluoric acid and adding solid NH3OHF.",
+      "query_kind": "family",
+      "query": "Fe LiSbF6 crystal structure solid state",
+      "evidence_id": "C89:L5"
+    },
+    {
+      "source_id": "26090130",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26090130/",
+      "publication_date": null,
+      "text": "Synth\u00e8se et \u00e9tude structrale de lyonsite-type (Na0,4,Li0,6)(Fe,Li2)(MoO4)3. The new compound (Na0.4,Li0.6)(Fe,Li2)(MoO4)3 was synthesized by cooling from the melt.",
+      "query_kind": "family",
+      "query": "Fe LiSbF6 crystal structure solid state",
+      "evidence_id": "C89:L6"
+    },
+    {
+      "source_id": "21828445",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21828445/",
+      "publication_date": null,
+      "text": "Fluorination of perovskite-related phases of composition SrFe(1-x)Sn(x)O(3-\u03b4). Perovskite-related compounds of composition SrFe(1-x)Sn(x)O(3-\u03b4) (x = 0.31, 0.54) have been prepared.",
+      "query_kind": "pair",
+      "query": "Fe substituted for Sn related inorganic frameworks crystal structure",
+      "evidence_id": "C89:L7"
+    },
+    {
+      "source_id": "27225937",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/27225937/",
+      "publication_date": null,
+      "text": "Synthesis, structure and geometrically frustrated magnetism of the layered oxide-stannide compounds Fe(Fe3-xMnx)Si2Sn7O16. Fe4Si2Sn7O16 has a unique crystal structure that contains alternating layers of Fe(2+) ions octahedrally coordinated by O (oxide layer) and Sn (stannide layer), bridged by SiO4 tetrahedra.",
+      "query_kind": "pair",
+      "query": "Fe substituted for Sn related inorganic frameworks crystal structure",
+      "evidence_id": "C89:L8"
+    }
+  ]
+}

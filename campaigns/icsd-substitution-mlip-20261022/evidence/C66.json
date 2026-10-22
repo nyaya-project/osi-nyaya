@@ -1,0 +1,60 @@
+{
+  "candidate_id": "C66",
+  "formula_B": "Ta3Al5O12",
+  "excerpts": [
+    {
+      "source_id": "21578033",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21578033/",
+      "publication_date": null,
+      "text": "Synchrotron study of the garnet-type oxide Li(6)CaSm(2)Ta(2)O(12). Hexalithium calcium disamarium(III) ditantalum(V) dodeca-oxide, Li(6)CaSm(2)Ta(2)O(12), crystallizes in a cubic garnet-type structure.",
+      "query_kind": "family",
+      "query": "Ta Y3Al5O12 crystal structure solid state",
+      "evidence_id": "C66:L1"
+    },
+    {
+      "source_id": "38470350",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/38470350/",
+      "publication_date": null,
+      "text": "Refined structural studies on the fluorite-related polymorphs of sol-gel undoped and Eu3+-doped yttrium tantalates. Compounds with the general formula RE3MO7 (RE = rare earth ions; M = Ta, Nb, Sb, Ru, Ir, Os, Re, etc.), crystallize as a fluorite-related structure, forming polymorphs with different space groups.",
+      "query_kind": "family",
+      "query": "Ta Y3Al5O12 crystal structure solid state",
+      "evidence_id": "C66:L2"
+    },
+    {
+      "source_id": "14658890",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/14658890/",
+      "publication_date": null,
+      "text": "A new look at bonding in trialuminides: reinvestigation of TaAl3. Single crystals of TaAl3 were grown at high temperatures from an Al-rich, binary solution.",
+      "query_kind": "family",
+      "query": "Ta Y3Al5O12 crystal structure solid state",
+      "evidence_id": "C66:L3"
+    },
+    {
+      "source_id": "17256850",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17256850/",
+      "publication_date": null,
+      "text": "Ta3AlC2 and Ta4AlC3--single-crystal investigations of two new ternary carbides of tantalum synthesized by the molten metal technique. Single crystals of the new ternary carbides Ta4AlC3 and Ta3AlC2 were synthesized from molten aluminum and characterized XRD, EDX, and WDX measurements.",
+      "query_kind": "family",
+      "query": "Ta Y3Al5O12 crystal structure solid state",
+      "evidence_id": "C66:L4"
+    },
+    {
+      "source_id": "11025285",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11025285/",
+      "publication_date": null,
+      "text": "Na3Ca2TaO6, a rock-salt superstructure phase with a fully ordered cation arrangement The title quaternary oxide, trisodium dicalcium tantalum hexaoxide, is isostructural with Li(3)Ni(2)TaO(6), a partially ordered rock-salt phase. The Na, Ca and Ta atoms occupy octahedral sites in an orderly manner and form a cation-ordered superstructure.",
+      "query_kind": "family",
+      "query": "Ta Y3Al5O12 crystal structure solid state",
+      "evidence_id": "C66:L5"
+    },
+    {
+      "source_id": "35423753",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/35423753/",
+      "publication_date": null,
+      "text": "Optical and structural properties of the Fe3+-doped Lu3Al5O12:Ce3+ garnet phosphor. A novel series of Lu3Al5-x Fe x O12:Ce3+ (0.00 \u2264 x \u2264 0.45) garnets were obtained by the solid-state reaction method at 1200 \u00b0C.",
+      "query_kind": "source",
+      "query": "\"Lu3Al5O12\" substitution doping crystal structure",
+      "evidence_id": "C66:L6"
+    }
+  ]
+}

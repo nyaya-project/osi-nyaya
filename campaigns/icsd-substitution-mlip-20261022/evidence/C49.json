@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C49",
+  "formula_B": "KTi(AgS2)2",
+  "excerpts": [
+    {
+      "source_id": "28875542",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/28875542/",
+      "publication_date": null,
+      "text": "Analysis on the local structures for 3d1 impurities (Ti3+ and V4+ ) in KTiPO4. Making use of the perturbation formulae for 3d1 ions (Ti3+ and V4+ ) under orthorhombically compressed octahedra, the spin Hamiltonian parameters (g factors: gx , gy , gz and hyperfine structure constants: Ax , Ay , Az ) and local structures of the 3d1 impurity centres C1 , C2 , and C3 in KTiOPO4 crystals are theoretically analyzed in a consistent way.",
+      "query_kind": "family",
+      "query": "Ti K3VO4 crystal structure solid state",
+      "evidence_id": "C49:L1"
+    },
+    {
+      "source_id": "21753923",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21753923/",
+      "publication_date": null,
+      "text": "Rietveld refinement of KLaTiO(4) from X-ray powder data. Potassium lanthanum titanate(IV), KLaTiO(4), has been synthesized by conventional solid-state reaction.",
+      "query_kind": "family",
+      "query": "Ti K3VO4 crystal structure solid state",
+      "evidence_id": "C49:L2"
+    },
+    {
+      "source_id": "30003004",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30003004/",
+      "publication_date": null,
+      "text": "Partial Substitution of Potassium with Sodium in the K2Ti2(PO4)3 Langbeinite-Type Framework: Synthesis and Crystalline Structure of K1.75Na0.25Ti2(PO4)3. The interaction of TiN with Na2O-K2O-P2O5 melts was investigated at (Na+K)/P molar ratios of 0.9, 1.0, and 1.2 and at Na/K molar ratios of 1.0 and 2.0.",
+      "query_kind": "family",
+      "query": "Ti K3VO4 crystal structure solid state",
+      "evidence_id": "C49:L3"
+    },
+    {
+      "source_id": "10927242",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/10927242/",
+      "publication_date": null,
+      "text": "A study of Li2TiOSiO4 and Li2TiOGeO4 by X-ray powder and electron single-crystal diffraction, 17O MAS NMR andO K-edge and Ti L2,3-edge EELS. X-ray powder and electron single-crystal diffraction of crystals of Li(2)TiOSiO(4) and Li(2)TiOGeO(4) showed them to be tetragonal, space group P4/nmm unit-cell parameters a = 6.4379(2), c = 4.40032(2) \u00c5 for Li(2)TiOSiO(4) and a = 6.6110(8), c = 4.4372(6) \u00c5 for Li(2)TiGeO(4).",
+      "query_kind": "family",
+      "query": "Ti K3VO4 crystal structure solid state",
+      "evidence_id": "C49:L4"
+    },
+    {
+      "source_id": "12761405",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12761405/",
+      "publication_date": null,
+      "text": "Cation movement and phase transitions in KTP isostructures; X-ray study of sodium-doped KTP at 10.5 K. An accurate structure model of sodium-doped potassium titanyl phosphate, (Na(0.114)K(0.886))K(TiO)(2)(PO(4))(2), has been determined at 10.5 K by single-crystal X-ray diffraction.",
+      "query_kind": "family",
+      "query": "Ti K3VO4 crystal structure solid state",
+      "evidence_id": "C49:L5"
+    },
+    {
+      "source_id": "11250555",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11250555/",
+      "publication_date": null,
+      "text": "A TiP(2)O(7) superstructure. A room-temperature structural model of titanium pyrophosphate, TiP(2)O(7), has been determined from synchrotron X-ray data.",
+      "query_kind": "pair",
+      "query": "Ti substituted for P related inorganic frameworks crystal structure",
+      "evidence_id": "C49:L6"
+    },
+    {
+      "source_id": "18047327",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18047327/",
+      "publication_date": null,
+      "text": "Syntheses and structural characterization of a series of one-dimensional fluorotitanophosphates (NH4)(x)K(4-x)[Ti(2)PO(4)F(9)] (x = 0, 0.70, 1.00, 1.25). A series of novel fluorotitanophosphates with a general formula (NH4)xK4 - x[Ti2PO4F9] (x = 0, 0.70, 1.00, 1.25, named as 1, 2, 3, and 4 respectively) have been synthesized under hydrothermal conditions.",
+      "query_kind": "pair",
+      "query": "Ti substituted for P related inorganic frameworks crystal structure",
+      "evidence_id": "C49:L7"
+    },
+    {
+      "source_id": "29711645",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29711645/",
+      "publication_date": null,
+      "text": "Organically Templated Mixed-Valent TiIII /TiIV Phosphate with an Octahedral- Tetrahedral Open Framework. The first large-pore, mixed-valent titanium phosphate was hydrothermally synthesized by using elemental titanium as a starting material, and 1,3-diaminopropane as a template.",
+      "query_kind": "pair",
+      "query": "Ti substituted for P related inorganic frameworks crystal structure",
+      "evidence_id": "C49:L8"
+    }
+  ]
+}

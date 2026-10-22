@@ -1,0 +1,33 @@
+{
+  "candidate_id": "C60",
+  "formula_B": "RbTmCl3",
+  "excerpts": [
+    {
+      "source_id": "1901.06874v1",
+      "locator": "https://arxiv.org/abs/1901.06874",
+      "publication_date": null,
+      "text": "The magnetic structure and spin-flop transition in the A-site columnar-ordered quadruple perovskite $\\mathrm{TmMn_3O_6}$ We present the magnetic structure of $\\mathrm{TmMn_3O_6}$, solved via neutron powder diffraction - the first such study of any $R\\mathrm{Mn_3O_6}$ A-site columnar-ordered quadruple perovskite to be reported. We demonstrate that long range magnetic order develops below 74 K, and at 28 K a spin-flop transition occurs driven by $f$-$d$ exchange and rare earth single ion anisotropy.",
+      "query_kind": "family",
+      "query": "Tm BaMnO3 crystal structure solid state",
+      "evidence_id": "C60:L1"
+    },
+    {
+      "source_id": "1507.02830v1",
+      "locator": "https://arxiv.org/abs/1507.02830",
+      "publication_date": null,
+      "text": "New synthesis route and magnetic structure of Tm2Mn2O7 - pyrochlore In this work we present a new chemical route to synthesize Tm2Mn2O7 pyrochlore, a compound which is thermodynamically unstable at ambient pressure. Differently from the reported in the past high pressure synthesis of the same compound applying oxides as starting materials, we have obtained a pure phase Tm2Mn2O7 by a converting TmMnO3 at 1100 C and 1300 bar oxygen pressure.",
+      "query_kind": "family",
+      "query": "Tm BaMnO3 crystal structure solid state",
+      "evidence_id": "C60:L2"
+    },
+    {
+      "source_id": "33209339",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/33209339/",
+      "publication_date": null,
+      "text": "The crystal structure of TlMgCl3 from 290 K to 725 K. The title compound, thallium magnesium trichloride, has been identified as a scintillator with both moderate gamma-stopping power and moderate light yield.",
+      "query_kind": "source",
+      "query": "\"RbMgCl3\" substitution doping crystal structure",
+      "evidence_id": "C60:L3"
+    }
+  ]
+}

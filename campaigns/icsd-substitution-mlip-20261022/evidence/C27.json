@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C27",
+  "formula_B": "TiCuS2",
+  "excerpts": [
+    {
+      "source_id": "36603150",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/36603150/",
+      "publication_date": null,
+      "text": "Cu4TiTe4: Synthesis, Crystal Structure, and Chemical Bonding. A new compound Cu4TiTe4 in the Cu-Ti-Te ternary system is prepared using high-temperature solid-state synthesis and characterized by single-crystal X-ray diffraction and energy-dispersive X-ray spectroscopy.",
+      "query_kind": "family",
+      "query": "Cu TlCdS2 crystal structure solid state",
+      "evidence_id": "C27:L1"
+    },
+    {
+      "source_id": "22807695",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22807695/",
+      "publication_date": null,
+      "text": "Thallium(I) copper(I) thorium(IV) tris-elenide, TlCuThSe(3). Thallium(I) copper(I) thorium(IV) tris-elenide, TlCuThSe\u2083, crystallizes with four formula units in the space group Cmcm in the KCuZrS\u2083 structure type.",
+      "query_kind": "family",
+      "query": "Cu TlCdS2 crystal structure solid state",
+      "evidence_id": "C27:L2"
+    },
+    {
+      "source_id": "21753925",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21753925/",
+      "publication_date": null,
+      "text": "Cu(2)ZnSiS(4). Single crystals of Cu(2)ZnSiS(4), dicopper(I) zinc silicon tetrasulfide, have been prepared via high-temperature solid-state synthesis.",
+      "query_kind": "family",
+      "query": "Cu TlCdS2 crystal structure solid state",
+      "evidence_id": "C27:L3"
+    },
+    {
+      "source_id": "39413410",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/39413410/",
+      "publication_date": null,
+      "text": "Synthesis and Characterization of Low-Dimensional Quaternary Sulfides of Thallium, Tl2Cu2GeS4, Tl2Ag2GeS4, and Tl2Ag2SnS4. Three new low-dimensional quaternary sulfides, namely, Tl2Cu2GeS4(1), Tl2Ag2GeS4(2), and Tl2Ag2SnS4(3) were synthesized by solid-state reactions and characterized by single-crystal X-ray diffraction, spectroscopic, thermal, and photocatalytic studies.",
+      "query_kind": "family",
+      "query": "Cu TlCdS2 crystal structure solid state",
+      "evidence_id": "C27:L4"
+    },
+    {
+      "source_id": "23370225",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23370225/",
+      "publication_date": null,
+      "text": "A copper-deficient tetragonal phase derived from chalcopyrite CuGaS2. Direct synthesis of CuGaS(2) from elemental ingredients in a two-zone furnace resulted in a macroseparation of Cu-rich and Ga-rich regions over the crystallization volume.",
+      "query_kind": "family",
+      "query": "Cu TlCdS2 crystal structure solid state",
+      "evidence_id": "C27:L5"
+    },
+    {
+      "source_id": "15446899",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15446899/",
+      "publication_date": null,
+      "text": "Crystal structure and physical properties of a new CuTi2S4 modification in comparison to the thiospinel. A new modification of CuTi(2)S(4) was prepared from the elements at 425 degrees C.",
+      "query_kind": "family",
+      "query": "Cu TlCdS2 crystal structure solid state",
+      "evidence_id": "C27:L6"
+    },
+    {
+      "source_id": "32799499",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/32799499/",
+      "publication_date": null,
+      "text": "Metastable (CuAu-type) CuInS2 Phase: High-Pressure Synthesis and Structure Determination. We report on the high-pressure solid-state synthesis and the detailed structural characterization of the metastable, CuAu-type CuInS2 (CA-CIS) phase.",
+      "query_kind": "family",
+      "query": "Cu TlCdS2 crystal structure solid state",
+      "evidence_id": "C27:L7"
+    },
+    {
+      "source_id": "21754255",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21754255/",
+      "publication_date": null,
+      "text": "A novel lithium copper iron phosphate with idealized formula Li(5)Cu(2)Fe(PO(4))(4): crystal structure and distribution of defects. Gray-green single crystals were obtained under high-pressure, high-temperature hydro-thermal conditions.",
+      "query_kind": "pair",
+      "query": "Cu substituted for Li related inorganic frameworks crystal structure",
+      "evidence_id": "C27:L8"
+    }
+  ]
+}

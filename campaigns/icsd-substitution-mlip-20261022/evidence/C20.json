@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C20",
+  "formula_B": "In2CBr",
+  "excerpts": [
+    {
+      "source_id": "11703127",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11703127/",
+      "publication_date": null,
+      "text": "Synthesis and characterization of Cs(5)In(3)As(4) with a structure of two coexisting \"polymorphic\" forms of different dimensionality. The title compound was made by fusion of a stoichiometric mixture of the pure elements at 500 degrees C.",
+      "query_kind": "family",
+      "query": "In AsTi crystal structure solid state",
+      "evidence_id": "C20:L1"
+    },
+    {
+      "source_id": "11952387",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11952387/",
+      "publication_date": null,
+      "text": "KBa(2)InAs(3) with coexisting monomers of [In(2)As(7)](13-) and their one-dimensional polymers. The title compound was made by fusion of a stoichiometric mixture of the pure elements.",
+      "query_kind": "family",
+      "query": "In AsTi crystal structure solid state",
+      "evidence_id": "C20:L2"
+    },
+    {
+      "source_id": "26418840",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26418840/",
+      "publication_date": null,
+      "text": "Polymorphism in Thermoelectric As2Te3. Metastable \u03b2-As2Te3 (R3\u0305m, a = 4.047 \u00c5 and c = 29.492 \u00c5 at 300 K) is isostructural to layered Bi2Te3 and is known for similarly displaying good thermoelectric properties around 400 K.",
+      "query_kind": "family",
+      "query": "In AsTi crystal structure solid state",
+      "evidence_id": "C20:L3"
+    },
+    {
+      "source_id": "31274295",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/31274295/",
+      "publication_date": null,
+      "text": "Supertetrahedral Layers Based on GaAs or InAs. The solid-state compounds M15Tr22As32 and M3Ga6As8 (M = Sr, Eu; Tr = Ga, In) were synthesized by heating the elements, and their crystal structures were determined by single-crystal and powder X-ray diffraction (space group C2/c).",
+      "query_kind": "family",
+      "query": "In AsTi crystal structure solid state",
+      "evidence_id": "C20:L4"
+    },
+    {
+      "source_id": "18641442",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18641442/",
+      "publication_date": null,
+      "text": "Incommensurate structure of InAl1 - xTixO3 + x/2[x = 0.701 (1)]: comparison between modulated and composite models. The structure of the monoclinic phase of the compound InAl(1 - x)Ti(x)O(3 + x/2) with x = 0.701 (1) has been analyzed within the (3 + 1)-dimensional superspace formalism.",
+      "query_kind": "family",
+      "query": "In AsTi crystal structure solid state",
+      "evidence_id": "C20:L5"
+    },
+    {
+      "source_id": "11196852",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11196852/",
+      "publication_date": null,
+      "text": "Syntheses, structures, and physical properties of LnAsTe (Ln = La, Pr, Sm, Gd, Dy, Er). Six rare-earth arsenic tellurides have been synthesized by the reactions of the rare-earth elements (Ln) with As and Te at 1123 K.",
+      "query_kind": "family",
+      "query": "In AsTi crystal structure solid state",
+      "evidence_id": "C20:L6"
+    },
+    {
+      "source_id": "11468371",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11468371/",
+      "publication_date": null,
+      "text": "Modulated structure of the pseudohexagonal InFe(1--x--4 delta)Ti(x+3 delta)O(3+x/2) (x = 0.61) composite crystal. The structure of pseudohexagonal-type InFe(1--x--4 delta)Ti(x+3 delta)O(3+x/2) (x = 0.61, delta = 0.04), indium iron titanium oxide, was refined on the basis of a four-dimensional superspace group.",
+      "query_kind": "family",
+      "query": "In AsTi crystal structure solid state",
+      "evidence_id": "C20:L7"
+    },
+    {
+      "source_id": "25760430",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25760430/",
+      "publication_date": null,
+      "text": "High temperature neutron diffraction studies of PrInO3 and the measures of perovskite structure distortion. The crystal structure of PrInO(3) was investigated in the temperature range 303-1123 K by high-resolution neutron-powder diffraction.",
+      "query_kind": "pair",
+      "query": "In substituted for Pr related inorganic frameworks crystal structure",
+      "evidence_id": "C20:L8"
+    }
+  ]
+}

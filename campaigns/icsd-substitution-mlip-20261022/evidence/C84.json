@@ -1,0 +1,51 @@
+{
+  "candidate_id": "C84",
+  "formula_B": "Te3AuI",
+  "excerpts": [
+    {
+      "source_id": "11681904",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11681904/",
+      "publication_date": null,
+      "text": "AuCuSe(4): a mixed polychalcogenide with Se(3)(2-) and Se(2-) anions. The polychalcogenide compound AuCuSe(4) crystallizes in the monoclinic space group P2(1)/m with a = 4.318(2) A, b = 7.447(1) A, c = 8.099(1) A, beta = 93.33(2)(o), and Z = 2.",
+      "query_kind": "family",
+      "query": "Au AgISe3 crystal structure solid state",
+      "evidence_id": "C84:L1"
+    },
+    {
+      "source_id": "15360234",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15360234/",
+      "publication_date": null,
+      "text": "Au2(SeO3)2(SeO4): synthesis and characterization of a new noncentrosymmetric selenite-selenate. The reaction of elemental gold and selenic acid in Teflon-lined steel autoclaves leads to orange-yellow single crystals of Au2(SeO3)2(SeO4) (orthorhombic, Z = 4, Cmc2(1) (No.",
+      "query_kind": "family",
+      "query": "Au AgISe3 crystal structure solid state",
+      "evidence_id": "C84:L2"
+    },
+    {
+      "source_id": "29292998",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29292998/",
+      "publication_date": null,
+      "text": "AuPb2I7: A Narrow Bandgap Au3+ Iodide Semiconductor. The unusual Au3+ ternary halide AuPb2I7 has been isolated from reactions of AuI, PbI2, and I2.",
+      "query_kind": "family",
+      "query": "Au AgISe3 crystal structure solid state",
+      "evidence_id": "C84:L3"
+    },
+    {
+      "source_id": "2201.05699v1",
+      "locator": "https://arxiv.org/abs/2201.05699",
+      "publication_date": null,
+      "text": "Transport and optical properties of the chiral semiconductor Ag3AuSe2 Previous band structure calculations predicted Ag3AuSe2 to be a semiconductor with a band gap of approximately 1 eV. Here, we report single crystal growth of Ag3AuSe2 and its transport and optical properties.",
+      "query_kind": "family",
+      "query": "Au AgISe3 crystal structure solid state",
+      "evidence_id": "C84:L4"
+    },
+    {
+      "source_id": "12526462",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12526462/",
+      "publication_date": null,
+      "text": "Structural features of Ag[AuF4] and Ag[AuF6] and the stuctural relationship of Ag[AgF4]2 and Au[AuF4]2 to Ag[AuF4]2. Synchrotron radiation X-ray powder diffraction data (SPDD) have been obtained for Ag[AgF4]2, Au[AuF4]2, Ag[AuF4], and Ag[AuF6].",
+      "query_kind": "pair",
+      "query": "Au substituted for Ag related inorganic frameworks crystal structure",
+      "evidence_id": "C84:L5"
+    }
+  ]
+}

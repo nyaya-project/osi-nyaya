@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C98",
+  "formula_B": "PbN2",
+  "excerpts": [
+    {
+      "source_id": "34925908",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/34925908/",
+      "publication_date": null,
+      "text": "Redetermination of the crystal structure of RhPb2 from single-crystal X-ray diffraction data, revealing a rhodium deficiency. RhPb2 (rhodium dilead) is a superconductor crystallizing in the CuAl2 structure type (space group I4/mcm).",
+      "query_kind": "family",
+      "query": "Pb CuAl2 crystal structure solid state",
+      "evidence_id": "C98:L1"
+    },
+    {
+      "source_id": "25309169",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25309169/",
+      "publication_date": null,
+      "text": "Crystal structure of the solid solution (Sr1.65Pb0.35)Al6O11. The title compound, di(strontium/lead) hexa-aluminate, is a member of the solid solution series (Sr2-x Pb x )Al6O11.",
+      "query_kind": "family",
+      "query": "Pb CuAl2 crystal structure solid state",
+      "evidence_id": "C98:L2"
+    },
+    {
+      "source_id": "16212368",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16212368/",
+      "publication_date": null,
+      "text": "KBi(2-x)Pbx (0 < x <or= 1): a Zintl phase evolving from a distortion of the cubic Laves-phase structure. The quasibinary system KBi(2-x)Pbx has been investigated, both experimentally and theoretically.",
+      "query_kind": "family",
+      "query": "Pb CuAl2 crystal structure solid state",
+      "evidence_id": "C98:L3"
+    },
+    {
+      "source_id": "17609541",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17609541/",
+      "publication_date": null,
+      "text": "Pb(2.63)Cd(2)V(3)O(12), a cation-deficient garnet-type vanadate. In the crystal structure of the cation-deficient garnet Pb(2.63)Cd(2)V(3)O(12) (lead cadmium vanadium oxide), the Cd and V atoms fully occupy octahedral and tetrahedral sites, respectively, whereas the Pb atoms partially occupy a dodecahedral site.",
+      "query_kind": "pair",
+      "query": "Pb substituted for V related inorganic frameworks crystal structure",
+      "evidence_id": "C98:L4"
+    },
+    {
+      "source_id": "17008726",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17008726/",
+      "publication_date": null,
+      "text": "The new lead vanadylphosphate Pb2VO(PO4)2. The structure of dilead vanadium oxide bis(phosphate) contains corrugated layers formed by VO5 square pyramids oriented in opposite directions in a chessboard fashion.",
+      "query_kind": "pair",
+      "query": "Pb substituted for V related inorganic frameworks crystal structure",
+      "evidence_id": "C98:L5"
+    },
+    {
+      "source_id": "19617676",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19617676/",
+      "publication_date": null,
+      "text": "The incommensurately modulated crystal structure of beta-Pb2BiVO6: interpretation of the phase transition alpha --> beta --> delta and conduction properties of related materials. A new polymorph of Pb(2)BiVO(6) was prepared under ambient conditions and its crystal structure was determined by single-crystal X-ray diffraction.",
+      "query_kind": "pair",
+      "query": "Pb substituted for V related inorganic frameworks crystal structure",
+      "evidence_id": "C98:L6"
+    },
+    {
+      "source_id": "20540567",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20540567/",
+      "publication_date": null,
+      "text": "Synthesis, characterization, and crystallographic study of the PbO-Bi2O3-V2O5 system: Pb(3-x)Bi(2x/3)V2O8 (0.20 < or = x < or = 0.50). A new solid solution Pb(3-x)Bi(2x/3)V(2)O(8) (0.20 < or = x < or = 0.50), stabilizing the high-temperature gamma form of Pb(3)V(2)O(8), has been isolated in the system Pb(3)V(2)O(8)-BiVO(4).",
+      "query_kind": "pair",
+      "query": "Pb substituted for V related inorganic frameworks crystal structure",
+      "evidence_id": "C98:L7"
+    },
+    {
+      "source_id": "16633671",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16633671/",
+      "publication_date": null,
+      "text": "A structural analysis of lead hydroxyvanadinite. Hydroxyvanadinite, Pb(10)(VO(4))(6)(OH)(2), was prepared by the co-precipitation method and analyzed by X-ray absorption spectroscopy (XANES, EXAFS), infrared spectroscopy, Raman scattering and X-ray diffraction (XRD).",
+      "query_kind": "pair",
+      "query": "Pb substituted for V related inorganic frameworks crystal structure",
+      "evidence_id": "C98:L8"
+    }
+  ]
+}

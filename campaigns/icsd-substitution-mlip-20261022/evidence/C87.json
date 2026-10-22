@@ -1,0 +1,33 @@
+{
+  "candidate_id": "C87",
+  "formula_B": "CuTe3N4",
+  "excerpts": [
+    {
+      "source_id": "21588121",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21588121/",
+      "publication_date": null,
+      "text": "Poly[{\u03bc(10)-[(phosphono-meth-yl)imino-dimethyl-ene]diphospho-nato}dithallium(I)]. The title compound, [Tl(2)(C(3)H(10)NO(9)P(3))](n), a Tl(I) organic-inorganic hybrid complex, was synthesized by the reaction of nitrilo-tris(methyl-enephospho-nic acid) with thallium(I) nitrate.",
+      "query_kind": "pair",
+      "query": "N substituted for Tl related inorganic frameworks crystal structure",
+      "evidence_id": "C87:L1"
+    },
+    {
+      "source_id": "16323918",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16323918/",
+      "publication_date": null,
+      "text": "Inorganic supramolecular host architectures: [(M@18c6)2][TlI4].2H2O, M=0.5 Tl, (NH4,NH3), (H3O,H2O). The compounds [(M@18c6)2][TlI4].2H2O, M=Tl, (NH4,NH3), (H3O,H2O) (cubic, Fd; a=1481.00 pm, for M=0.5 Tl, a=1304.65 pm for M=(NH4,NH3), a=1313.67 pm for M=(H3O,H2O)) can be obtained from solution in the presence of traces of transition metal halides (like copper and mercury halides).",
+      "query_kind": "pair",
+      "query": "N substituted for Tl related inorganic frameworks crystal structure",
+      "evidence_id": "C87:L2"
+    },
+    {
+      "source_id": "15236540",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15236540/",
+      "publication_date": null,
+      "text": "Lead and thallium tetrakis(imidazolyl)borates: modifying structure by varying metal and anion. We are using the coordinating anions tetrakis(imidazolyl)borate and tetrakis(4-methylimidazolyl)borate to construct new metal-organic framework structures.",
+      "query_kind": "pair",
+      "query": "N substituted for Tl related inorganic frameworks crystal structure",
+      "evidence_id": "C87:L3"
+    }
+  ]
+}

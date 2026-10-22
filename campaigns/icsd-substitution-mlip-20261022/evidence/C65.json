@@ -1,0 +1,51 @@
+{
+  "candidate_id": "C65",
+  "formula_B": "Fe2HgP2",
+  "excerpts": [
+    {
+      "source_id": "19459627",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19459627/",
+      "publication_date": null,
+      "text": "BaHg2Tl2. An unusual polar intermetallic phase with strong differentiation between the neighboring elements mercury and thallium.",
+      "query_kind": "family",
+      "query": "Hg ThCr2Si2 crystal structure solid state",
+      "evidence_id": "C65:L1"
+    },
+    {
+      "source_id": "18205301",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18205301/",
+      "publication_date": null,
+      "text": "Alkaline-earth metal mercury intermetallics A11-xHg54+x (A = Ca, Sr). Re-examination of the mercury-rich regions of the Ca-Hg and Sr-Hg phase diagrams has shown that the phases previously identified as \"AHg 3.6\" should be reformulated as A(11-x) Hg(54+x) (A = Ca, Sr).",
+      "query_kind": "family",
+      "query": "Hg ThCr2Si2 crystal structure solid state",
+      "evidence_id": "C65:L2"
+    },
+    {
+      "source_id": "16499373",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16499373/",
+      "publication_date": null,
+      "text": "Substitution of Au or Hg into BaTl2 and BaIn2. New ternary examples of smaller CeCu2-type intermetallic phases.",
+      "query_kind": "family",
+      "query": "Hg ThCr2Si2 crystal structure solid state",
+      "evidence_id": "C65:L3"
+    },
+    {
+      "source_id": "20544111",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20544111/",
+      "publication_date": null,
+      "text": "In search of the elusive amalgam SrHg8: a mercury-rich intermetallic compound with augmented pentagonal prisms. In confirmation of its predicted existence in the Sr-Hg phase diagram, the mercury-rich intermetallic compound SrHg(8) has been prepared by reaction of the elements at 200 degrees C.",
+      "query_kind": "family",
+      "query": "Hg ThCr2Si2 crystal structure solid state",
+      "evidence_id": "C65:L4"
+    },
+    {
+      "source_id": "12205367",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12205367/",
+      "publication_date": null,
+      "text": "The superconductor (Tl,Hg,Ca)2(Ba,Sr)2(Ca,Sr,Tl)Cu2O7.6. In the title 2212-type superconductor (thallium mercury calcium barium strontium copper oxide), which contains both Tl and Hg in the charge reservoir (CR), Sr is located at both alkali-earth (AE) metal sites.",
+      "query_kind": "family",
+      "query": "Hg ThCr2Si2 crystal structure solid state",
+      "evidence_id": "C65:L5"
+    }
+  ]
+}

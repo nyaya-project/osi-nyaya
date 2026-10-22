@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C78",
+  "formula_B": "Ta6Ni25S27",
+  "excerpts": [
+    {
+      "source_id": "12817977",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12817977/",
+      "publication_date": null,
+      "text": "Synthesis and structure of Ta4SI11: disorder and mixed valency in the first tantalum sulfide iodide. The new compound Ta(4)SI(11) has been prepared by direct reaction of the elements at 430 degrees C for 2 weeks in evacuated Pyrex ampules and characterized by single-crystal X-ray diffraction, X-ray photoelectron spectroscopy, magnetic susceptibility measurements, and semiempirical electronic structure calculations.",
+      "query_kind": "family",
+      "query": "Ta K6LiFe24S26Cl crystal structure solid state",
+      "evidence_id": "C78:L1"
+    },
+    {
+      "source_id": "20124670",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20124670/",
+      "publication_date": null,
+      "text": "K(3)TaF(8) from laboratory X-ray powder data. The crystal structure of tripotassium octafluoridotantalate, K(3)TaF(8), determined from laboratory powder diffraction data by the simulated annealing method and refined by total energy minimization in the solid state, is built from discrete potassium cations, fluoride anions and monocapped trigonal-prismatic [TaF(7)](2-) ions.",
+      "query_kind": "family",
+      "query": "Ta K6LiFe24S26Cl crystal structure solid state",
+      "evidence_id": "C78:L2"
+    },
+    {
+      "source_id": "22734887",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22734887/",
+      "publication_date": null,
+      "text": "Phase relationships in the BaO-Ga2O3-Ta2O5 system and the structure of Ba6Ga21TaO40. Phase relationships in the BaO-Ga(2)O(3)-Ta(2)O(5) ternary system at 1200 \u00b0C were determined.",
+      "query_kind": "pair",
+      "query": "Ta substituted for Ba related inorganic frameworks crystal structure",
+      "evidence_id": "C78:L3"
+    },
+    {
+      "source_id": "42592541",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/42592541/",
+      "publication_date": null,
+      "text": "Structural and optical properties of Ba3(Nb6-x Ta x )Si4O26 (x = 0.6, 1.8, 3.0, 4.2, 5.4). Structure and optical properties have been successfully determined for a series of niobium- and tantalum-containing layered alkaline-earth silicate compounds, Ba3(Nb6-x Ta x )Si4O26 (x = 0.6, 1.8, 3.0, 4.2, 5.4).",
+      "query_kind": "pair",
+      "query": "Ta substituted for Ba related inorganic frameworks crystal structure",
+      "evidence_id": "C78:L4"
+    },
+    {
+      "source_id": "26347025",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26347025/",
+      "publication_date": null,
+      "text": "Nonstoichiometric control of tunnel-filling order, thermal expansion, and dielectric relaxation in tetragonal tungsten Bronzes Ba0.5-xTaO3-x. Ordering of interpolated Ba(2+) chains and alternate Ta-O rows (TaO)(3+) in the pentagonal tunnels of tetragonal tungsten bronzes (TTB) is controlled by the nonstoichiometry in the highly nonstoichiometric Ba0.5-xTaO3-x system.",
+      "query_kind": "pair",
+      "query": "Ta substituted for Ba related inorganic frameworks crystal structure",
+      "evidence_id": "C78:L5"
+    },
+    {
+      "source_id": "28572549",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/28572549/",
+      "publication_date": null,
+      "text": "The impact of anion ordering on octahedra distortion and phase transitions in SrTaO2N and BaTaO2N. In this work we synthesized BaTaO2N and SrTaO2N using a two-step high-temperature solid-state reaction method and analysed the structural distortions, relative to the ideal cubic perovskite structure, according to group theory.",
+      "query_kind": "pair",
+      "query": "Ta substituted for Ba related inorganic frameworks crystal structure",
+      "evidence_id": "C78:L6"
+    },
+    {
+      "source_id": "24168475",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24168475/",
+      "publication_date": null,
+      "text": "Defect structure, phase separation, and electrical properties of nonstoichiometric tetragonal tungsten bronze Ba(0.5-x)TaO(3-x). New insight into the defect chemistry of the tetragonal tungsten bronze (TTB) Ba(0.5-x)TaO(3-x) is established here, which is shown to adapt to a continuous and extensive range of both cationic and anionic defect stoichiometries.",
+      "query_kind": "pair",
+      "query": "Ta substituted for Ba related inorganic frameworks crystal structure",
+      "evidence_id": "C78:L7"
+    },
+    {
+      "source_id": "28529782",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/28529782/",
+      "publication_date": null,
+      "text": "Crystal structure of the mixed-metal tris-ulfide BaCu1/3Ta2/3S3. The mixed-metal title compound, BaCu1/3Ta2/3S3 [barium copper(II) tantalum(V) tris-ulfide], was prepared through solid-state reactions.",
+      "query_kind": "pair",
+      "query": "Ta substituted for Ba related inorganic frameworks crystal structure",
+      "evidence_id": "C78:L8"
+    }
+  ]
+}

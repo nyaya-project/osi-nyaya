@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C96",
+  "formula_B": "Na2TlVCl6",
+  "excerpts": [
+    {
+      "source_id": "33209339",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/33209339/",
+      "publication_date": null,
+      "text": "The crystal structure of TlMgCl3 from 290 K to 725 K. The title compound, thallium magnesium trichloride, has been identified as a scintillator with both moderate gamma-stopping power and moderate light yield.",
+      "query_kind": "family",
+      "query": "Tl Na3InCl6 crystal structure solid state",
+      "evidence_id": "C96:L1"
+    },
+    {
+      "source_id": "12716198",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12716198/",
+      "publication_date": null,
+      "text": "Na6 TlSb4: synthesis, structure, and bonding. An electron-rich salt with a chain conformation and a Tl-Tl bond length determined by the cation.",
+      "query_kind": "family",
+      "query": "Tl Na3InCl6 crystal structure solid state",
+      "evidence_id": "C96:L2"
+    },
+    {
+      "source_id": "40641378",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/40641378/",
+      "publication_date": null,
+      "text": "Layered anion ordering in oxide chloride Ca2TlO3Cl. Single crystals and polycrystals of the novel compound Ca2TlO3Cl can be obtained by gas-phase and solid-state reactions, respectively.",
+      "query_kind": "family",
+      "query": "Tl Na3InCl6 crystal structure solid state",
+      "evidence_id": "C96:L3"
+    },
+    {
+      "source_id": "16330826",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16330826/",
+      "publication_date": null,
+      "text": "Powder neutron diffraction of Tl2BeF4 at six temperatures from room temperature to 1.5 K. The structure of thallium fluoroberyllate, Tl2BeF4, has been analysed by the Rietveld method on neutron diffraction patterns collected at 1.5, 50, 100, 150, 200 and 300 K, with the aim of detecting low-temperature instabilities.",
+      "query_kind": "family",
+      "query": "Tl Na3InCl6 crystal structure solid state",
+      "evidence_id": "C96:L4"
+    },
+    {
+      "source_id": "38416695",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/38416695/",
+      "publication_date": null,
+      "text": "[Tl7]7- Clusters in Mixed Alkali Metal Thallides Cs7.29K5.71Tl13 and Cs3.45K3.55Tl7. Investigations in the ternary system Cs-K-Tl resulted in the unexpected formation of new ternary thallides Cs7.29K5.71Tl13 and Cs3.45K3.55Tl7.",
+      "query_kind": "family",
+      "query": "Tl Na3InCl6 crystal structure solid state",
+      "evidence_id": "C96:L5"
+    },
+    {
+      "source_id": "33117579",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/33117579/",
+      "publication_date": null,
+      "text": "Hydro-flux synthesis and crystal structure of Tl3IO. Single-crystals of thallium(I) iodide oxide Tl3IO were obtained as by-product in a hydro-flux synthesis at 473 K for 10 h.",
+      "query_kind": "family",
+      "query": "Tl Na3InCl6 crystal structure solid state",
+      "evidence_id": "C96:L6"
+    },
+    {
+      "source_id": "28435706",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/28435706/",
+      "publication_date": null,
+      "text": "Substitution of indium for chromium in TlIn5-x Cr x Se8: crystal structure of TlIn4.811(5)Cr0.189(5)Se8. The new thallium penta-(indium/chromium) octa-selenide, TlIn4.811(5)Cr0.189(5)Se8, has been synthesized by solid-state reaction.",
+      "query_kind": "family",
+      "query": "Tl Na3InCl6 crystal structure solid state",
+      "evidence_id": "C96:L7"
+    },
+    {
+      "source_id": "37817955",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/37817955/",
+      "publication_date": null,
+      "text": "Growth and characterization of a new inorganic metal-halide crystal structure, InPb2Cl5. A new solid-state inorganic compound, indium dilead penta-chloride, InPb2Cl5, was synthesized by melting InCl and PbCl2 in a vacuum-sealed quartz ampoule.",
+      "query_kind": "family",
+      "query": "Tl Na3InCl6 crystal structure solid state",
+      "evidence_id": "C96:L8"
+    }
+  ]
+}

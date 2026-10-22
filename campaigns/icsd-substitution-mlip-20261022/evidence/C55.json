@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C55",
+  "formula_B": "Cs2Cd2GeTe4",
+  "excerpts": [
+    {
+      "source_id": "39508071",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/39508071/",
+      "publication_date": null,
+      "text": "Cs3LiGe4, One Compound with Two Complementary Structural Descriptions: Isolated [Ge4]4- Tetrahedral Clusters Coordinated by Li+ and Cs+ Cations or One-Dimensional [LiGe4]3- Polyanions Packed within a Matrix of Cs+ Cations? Reported are the synthesis and structural characterization of Cs3LiGe4, the first structurally characterized lithium-containing cesium germanide.",
+      "query_kind": "family",
+      "query": "Ge Cs2Zn3S4 crystal structure solid state",
+      "evidence_id": "C55:L1"
+    },
+    {
+      "source_id": "22702657",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22702657/",
+      "publication_date": null,
+      "text": "Quaternary tellurides with different valent Ge centers: Cs2Ge3M6Te14 (M = Ga, In). New quaternary tellurides, Cs(2)Ge(3)M(6)Te(14) (M = Ga, In), were discovered by solid-state reactions.",
+      "query_kind": "family",
+      "query": "Ge Cs2Zn3S4 crystal structure solid state",
+      "evidence_id": "C55:L2"
+    },
+    {
+      "source_id": "17843189",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17843189/",
+      "publication_date": null,
+      "text": "Germanium and Silicon Disulfides: Structure and Synthesis. Crystal structures of the tetragonal forms of germanium and silicon disulfide are similar and consist of (SiS(4))(4-) and (GeS(4))(4-) tetrahedra which share vertices to form three-dimensional networks.",
+      "query_kind": "family",
+      "query": "Ge Cs2Zn3S4 crystal structure solid state",
+      "evidence_id": "C55:L3"
+    },
+    {
+      "source_id": "29601192",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29601192/",
+      "publication_date": null,
+      "text": "Cs2Ge3In6Se14: A Structure Transformation Driven by the Size Preference and Its Properties. The new selenide Cs2Ge3In6Se14, featuring its own structure type with germanium in mixed-valence states, is discovered via a solid-state reaction at 1173 K.",
+      "query_kind": "family",
+      "query": "Ge Cs2Zn3S4 crystal structure solid state",
+      "evidence_id": "C55:L4"
+    },
+    {
+      "source_id": "32695463",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/32695463/",
+      "publication_date": null,
+      "text": "Syntheses and crystal structures of the quaternary thio-germanates Cu4FeGe2S7 and Cu4CoGe2S7. The quaternary thio-germanates Cu4FeGe2S7 (tetra-copper iron digermanium hepta-sulfide) and Cu4CoGe2S7 (tetra-copper cobalt digermanium hepta-sulfide) were prepared in evacuated fused-silica ampoules via high-temperature, solid-state synthesis using stoichiometric amounts of the elements at 1273 K.",
+      "query_kind": "family",
+      "query": "Ge Cs2Zn3S4 crystal structure solid state",
+      "evidence_id": "C55:L5"
+    },
+    {
+      "source_id": "14606829",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/14606829/",
+      "publication_date": null,
+      "text": "Crystal structure of thiogermanic acid H(4)Ge(4)S(10). X-ray diffraction analysis reveals the thiogermanic acid H(4)Ge(4)S(10) possesses discrete adamantane-like Ge(4)S(10)(4)(-) complex anions.",
+      "query_kind": "family",
+      "query": "Ge Cs2Zn3S4 crystal structure solid state",
+      "evidence_id": "C55:L6"
+    },
+    {
+      "source_id": "34192454",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/34192454/",
+      "publication_date": null,
+      "text": "Structural and Vibrational Study of CsSbGe3O9, a New Germanate in the ASbGe3O9 Family (A = Alkali Metal). The germanate CsSbGe3O9, grown spontaneously via the high-temperature solution method from Cs2Mo4O13 used as a flux, crystallizes in the orthorhombic system with a = 12.3636(2), b = 13.8521(2), c = 31.4824(5) \u00c5, and V = 5391.73(2) \u00c53.",
+      "query_kind": "family",
+      "query": "Ge Cs2Zn3S4 crystal structure solid state",
+      "evidence_id": "C55:L7"
+    },
+    {
+      "source_id": "29537828",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29537828/",
+      "publication_date": null,
+      "text": "Thioaluminogermanate M(AlS2)(GeS2)4 ( M = Na, Ag, Cu): Synthesis, Crystal Structures, Characterization, Ion-Exchange and Solid-State 27Al and 23Na NMR Spectroscopy. The new thioaluminogermanate Na(AlS2)(GeS2)4 (1) was successfully synthesized by a direct combination reaction.",
+      "query_kind": "family",
+      "query": "Ge Cs2Zn3S4 crystal structure solid state",
+      "evidence_id": "C55:L8"
+    }
+  ]
+}

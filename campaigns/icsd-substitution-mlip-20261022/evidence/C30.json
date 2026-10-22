@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C30",
+  "formula_B": "RuN",
+  "excerpts": [
+    {
+      "source_id": "1001.3530v1",
+      "locator": "https://arxiv.org/abs/1001.3530",
+      "publication_date": null,
+      "text": "Stability, structural, elastic and electronic properties of RuN polymorphs from first-principles calculations First-principles calculations through a FLAPW-GGA method for six possible polymorphs of ruthenium mononitride RuN with various atomic coordination numbers CNs: cubic zinc blende (ZB) and cooperite PtS-like structures with CNs = 4; cubic rock-salt (RS), hexagonal WC-like and NiAs-like structures with CNs = 6 and cubic CsCl-like structure with CN = 8 indicate that the most stable is ZB structure, which is much more preferable for RuN than the recently reported RS structure for synthesized RuN samples. The elastic and electronic properties of ZB-RuN were investigated and discussed in comparison with those for RS-RuN polymorph.",
+      "query_kind": "formula",
+      "query": "\"RuN\" crystal structure inorganic solid",
+      "evidence_id": "C30:L1"
+    },
+    {
+      "source_id": "27627856",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/27627856/",
+      "publication_date": null,
+      "text": "Diverse ruthenium nitrides stabilized under pressure: a theoretical prediction. First-principles calculations were performed to understand the structural stability, synthesis routes, mechanical and electronic properties of diverse ruthenium nitrides.",
+      "query_kind": "formula",
+      "query": "\"RuN\" crystal structure inorganic solid",
+      "evidence_id": "C30:L2"
+    },
+    {
+      "source_id": "32844000",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/32844000/",
+      "publication_date": null,
+      "text": "Crystal structure of La24Ru11. The compound La24Ru11 (tetra-cosa-lanthanum undeca-ruthenium) crystallizes in a Ce24Co11-type structure.",
+      "query_kind": "family",
+      "query": "Ru NiAs crystal structure solid state",
+      "evidence_id": "C30:L3"
+    },
+    {
+      "source_id": "17102860",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17102860/",
+      "publication_date": null,
+      "text": "Synthesis, crystal structure and some physical properties of RuZn3. The crystal structure, phase relations and some physical properties of the binary zinc-rich phase RuZn3 are reported.",
+      "query_kind": "family",
+      "query": "Ru NiAs crystal structure solid state",
+      "evidence_id": "C30:L4"
+    },
+    {
+      "source_id": "20141115",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20141115/",
+      "publication_date": null,
+      "text": "Ruthenium intermetallics grown from La-Ni flux: synthesis, structure, and physical properties. Crystals of three new intermetallic compounds were grown from reactions of ruthenium with other elements in La(0.8)Ni(0.2) eutectic flux.",
+      "query_kind": "family",
+      "query": "Ru NiAs crystal structure solid state",
+      "evidence_id": "C30:L5"
+    },
+    {
+      "source_id": "37817950",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/37817950/",
+      "publication_date": null,
+      "text": "Crystal structures of five compounds in the aluminium-ruthenium-silicon system. Single crystals of five compounds with approximate compositions \u223cRu16(Al0.78Si0.22)47, (I), \u223cRu9(Al0.70Si0.30)32, (II), \u223cRu10(Al0.67Si0.33)41, (III), \u223cRu(Al0.57Si0.43)5, (IV), and \u223cRu2(Al0.46Si0.54)9, (V), were obtained from polycrystalline lumps mainly composed of the target compounds, and their crystal structures were determined by means of single-crystal X-ray diffraction.",
+      "query_kind": "family",
+      "query": "Ru NiAs crystal structure solid state",
+      "evidence_id": "C30:L6"
+    },
+    {
+      "source_id": "15640561",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15640561/",
+      "publication_date": null,
+      "text": "Trisilver oxoruthenate(V), Ag3RuO4. Ag3RuO4 is constituted of anionic helical chains of edge-sharing RuO6 octahedra, extending along the c axis.",
+      "query_kind": "family",
+      "query": "Ru NiAs crystal structure solid state",
+      "evidence_id": "C30:L7"
+    },
+    {
+      "source_id": "14731005",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/14731005/",
+      "publication_date": null,
+      "text": "R(6)TT'(2), new variants of the Fe(2)P structure type. Sc(6)TTe(2) (T = Ru, Os, Rh, Ir), Lu(6)MoSb(2), and the anti-typic Sc(6)Te(0.80)Bi(1.68).",
+      "query_kind": "family",
+      "query": "Ru NiAs crystal structure solid state",
+      "evidence_id": "C30:L8"
+    }
+  ]
+}

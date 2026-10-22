@@ -1,0 +1,60 @@
+{
+  "candidate_id": "C74",
+  "formula_B": "KTeF4",
+  "excerpts": [
+    {
+      "source_id": "19299873",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19299873/",
+      "publication_date": null,
+      "text": "Polymorphism of CaTeO3 and solid solutions Ca(x)Sr(1-x)TeO3. Single crystals and microcrystalline samples of the calcium tellurate(IV) phases alpha-, beta-, beta'- and gamma-CaTeO3 as well as of two solid solutions Ca(x)Sr(1-x)TeO3 (x = 0.55 and 0.77) have been synthesized and characterized by X-ray diffraction and thermal analysis.",
+      "query_kind": "family",
+      "query": "Te KAlF4(tP12) crystal structure solid state",
+      "evidence_id": "C74:L1"
+    },
+    {
+      "source_id": "25093351",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25093351/",
+      "publication_date": null,
+      "text": "Crystal chemistry of anion-excess ReO3-related phases. III.",
+      "query_kind": "family",
+      "query": "Te KAlF4(tP12) crystal structure solid state",
+      "evidence_id": "C74:L2"
+    },
+    {
+      "source_id": "11983960",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11983960/",
+      "publication_date": null,
+      "text": "Tl2Te and its relationship with Tl5Te3. The crystal structure of Tl(2)Te, dithallium telluride, has been determined by single-crystal X-ray diffraction.",
+      "query_kind": "family",
+      "query": "Te KAlF4(tP12) crystal structure solid state",
+      "evidence_id": "C74:L3"
+    },
+    {
+      "source_id": "12794885",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12794885/",
+      "publication_date": null,
+      "text": "BaP4Te2--a ternary telluride with P-Te bonds and a structural fragment of black phosphorus. The new telluride BaP(4)Te(2) was synthesized in form of gleaming black needles by heating stochiometric mixtures of the elements to 475 degrees C for 100 h.",
+      "query_kind": "family",
+      "query": "Te KAlF4(tP12) crystal structure solid state",
+      "evidence_id": "C74:L4"
+    },
+    {
+      "source_id": "36525293",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/36525293/",
+      "publication_date": null,
+      "text": "First ternary tungsten tellurate(IV) WTe2O7 with unique crystal structure type. At multianvil high-pressure/high-temperature conditions of 10 GPa and 1273 K, the first ternary tungsten tellurate WTe2O7 is formed, starting from a stoichiometric mixture of WO3 and TeO2.",
+      "query_kind": "family",
+      "query": "Te KAlF4(tP12) crystal structure solid state",
+      "evidence_id": "C74:L5"
+    },
+    {
+      "source_id": "37057020",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/37057020/",
+      "publication_date": null,
+      "text": "Garnet-type Na3Te2(FeO4)3. Na3Te2(FeO4)3 or Na3Te2Fe3O12, tris-odium ditellurium(VI) triiron(III) dodeca-oxide, was obtained in the form of single-crystals under hydro-thermal conditions.",
+      "query_kind": "pair",
+      "query": "Te substituted for Al related inorganic frameworks crystal structure",
+      "evidence_id": "C74:L6"
+    }
+  ]
+}

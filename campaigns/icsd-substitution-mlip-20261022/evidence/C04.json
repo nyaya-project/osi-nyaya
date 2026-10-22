@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C04",
+  "formula_B": "CsSrBr3",
+  "excerpts": [
+    {
+      "source_id": "24098159",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24098159/",
+      "publication_date": null,
+      "text": "SBN60, strontium-barium niobate at 100 K. The title compound, Sr0.6Ba0.4Nb2O6 (strontium barium niobium oxide), belongs to the group of strontium-barium niobates with varying composition of Sr and Ba.",
+      "query_kind": "family",
+      "query": "Sr BaNiO3 crystal structure solid state",
+      "evidence_id": "C04:L1"
+    },
+    {
+      "source_id": "15672189",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15672189/",
+      "publication_date": null,
+      "text": "Synthesis and structural characterisation of the new K2NiF4-type phases, A2In0.5Sb0.5O4(A = Sr, Ba). In this paper the synthesis and structural characterisation of two new K2NiF4-type phases, Ba2In(0.5)Sb(0.5)O4 and Sr2In(0.5)Sb(0.5)O4, are reported.",
+      "query_kind": "family",
+      "query": "Sr BaNiO3 crystal structure solid state",
+      "evidence_id": "C04:L2"
+    },
+    {
+      "source_id": "23964993",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23964993/",
+      "publication_date": null,
+      "text": "Extended Ni(III) oxyhalide perovskite derivatives: Sr2NiO3X (X = F, Cl). Extended layered oxyhalide compounds, Sr2NiO3X (X = F, Cl), with the square pyramidal coordination around the trivalent nickel ions in the low spin state (S = 1/2), are successfully synthesized by a high-pressure and high-temperature reaction.",
+      "query_kind": "family",
+      "query": "Sr BaNiO3 crystal structure solid state",
+      "evidence_id": "C04:L3"
+    },
+    {
+      "source_id": "36380910",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/36380910/",
+      "publication_date": null,
+      "text": "Crystal structure of the cubic double-perovskite Sr2Cr0.84Ni0.09Os1.07O6. The crystal structure of the cubic double-perovskite Sr2Cr0.84Ni0.09Os1.07O6, grown at high pressure, was solved using intensity data measured at 113 K.",
+      "query_kind": "family",
+      "query": "Sr BaNiO3 crystal structure solid state",
+      "evidence_id": "C04:L4"
+    },
+    {
+      "source_id": "0807.2964v1",
+      "locator": "https://arxiv.org/abs/0807.2964",
+      "publication_date": null,
+      "text": "Reducing the positional modulation of NbO6-octahedra in SrxBa1-xNb2O6 by increasing the Barium content: A single crystal neutron diffraction study at ambient temperature for x=0.61 and x=0.34 We report on the influence of the Barium content on the modulation amplitude in SrxBa1-xNb2O6 compounds by comparing Sr0.61Ba0.39Nb2O6 (SBN61) and Sr0.34Ba0.66Nb2O6 (SBN34). Our single crystal neutron diffraction results demonstrate that the amplitude of the positional modulation of the NbO6 octahedra is reduced with increasing barium content, indicating that the origin of the modulation is the partial occupation of the pentagonal channels by Sr and Ba atoms.",
+      "query_kind": "family",
+      "query": "Sr BaNiO3 crystal structure solid state",
+      "evidence_id": "C04:L5"
+    },
+    {
+      "source_id": "29340398",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29340398/",
+      "publication_date": null,
+      "text": "Synthesis and crystal structure of Sr3Bi2O6 and structural change in the strontium-bismuth-oxide system. The crystal structures and their changing trend in the strontium-bismuth-oxide system are critical for the studies of the related systems and their applications.",
+      "query_kind": "family",
+      "query": "Sr BaNiO3 crystal structure solid state",
+      "evidence_id": "C04:L6"
+    },
+    {
+      "source_id": "26594419",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26594419/",
+      "publication_date": null,
+      "text": "Crystal structure of strontium dinickel iron orthophosphate. The title compound, SrNi2Fe(PO4)3, synthesized by solid-state reaction, crystallizes in an ordered variant of the \u03b1-CrPO4 structure.",
+      "query_kind": "pair",
+      "query": "Sr substituted for Ni related inorganic frameworks crystal structure",
+      "evidence_id": "C04:L7"
+    },
+    {
+      "source_id": "16999439",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16999439/",
+      "publication_date": null,
+      "text": "Crystal growth and structure determination of oxygen-deficient Sr6Co5O15. Large single crystals of oxygen-deficient Sr6Co5O(15-delta) compounds, i.e., Sr6Co5O14.70 and Sr6Co4.9Ni0.1O14.36, were obtained by using K2CO3 flux in the presence of additives of transition metal oxides.",
+      "query_kind": "pair",
+      "query": "Sr substituted for Ni related inorganic frameworks crystal structure",
+      "evidence_id": "C04:L8"
+    }
+  ]
+}

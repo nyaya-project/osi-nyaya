@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C21",
+  "formula_B": "SrLiF3",
+  "excerpts": [
+    {
+      "source_id": "21697563",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21697563/",
+      "publication_date": null,
+      "text": "Resolving the controversies about the 'nearly cubic' and other phases of Sr(1-x)Ca(x)TiO(3) (0\u2264x\u22641): I. Room temperature structures.",
+      "query_kind": "family",
+      "query": "Sr CaTiO3 crystal structure solid state",
+      "evidence_id": "C21:L1"
+    },
+    {
+      "source_id": "25761251",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25761251/",
+      "publication_date": null,
+      "text": "Crystal structure of A-site deficient La0.2Sr0.7-xCaxTiO3 perovskite at ambient conditions and high temperatures: a neutron powder diffraction study. The crystal structures of several members of the solid solution perovskite La(0.2)Sr(0.7-x)CaxTiO(3) were investigated using the Rietveld analysis of neutron powder diffraction patterns collected in ambient conditions and high temperatures.",
+      "query_kind": "family",
+      "query": "Sr CaTiO3 crystal structure solid state",
+      "evidence_id": "C21:L2"
+    },
+    {
+      "source_id": "21694137",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21694137/",
+      "publication_date": null,
+      "text": "Neutron total scattering and reverse Monte Carlo study of cation ordering in Ca(x)Sr(1-x)TiO(3). We use neutron total scattering measurements with reverse Monte Carlo analysis methods incorporating an atom-swapping algorithm to identify the short-range Ca/Sr cation ordering within the Ca(x)Sr(1-x)TiO(3) solid solution (compositions x = 0.2,0.5,0.8).",
+      "query_kind": "family",
+      "query": "Sr CaTiO3 crystal structure solid state",
+      "evidence_id": "C21:L3"
+    },
+    {
+      "source_id": "28241672",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/28241672/",
+      "publication_date": null,
+      "text": "Structural Behaviour of Solid Solutions in the NdAlO3-SrTiO3 System. Single-phase mixed aluminates-titanates Nd1-x Sr x Al1-x Ti x O3 (x = 0.3 \u00f7 0.9) were prepared from stoichiometric amounts of constituent oxides Nd2O3, Al2O3, TiO2 and strontium carbonate SrCO3 by solid-state reaction technique in air at 1773 K.",
+      "query_kind": "family",
+      "query": "Sr CaTiO3 crystal structure solid state",
+      "evidence_id": "C21:L4"
+    },
+    {
+      "source_id": "21697564",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21697564/",
+      "publication_date": null,
+      "text": "Resolving the controversies about the 'nearly cubic' and other phases of Sr(1-x)Ca(x)TiO(3) (0\u2264x\u22641): II. Comparison of phase transition behaviours for x = 0.40 and 0.43.",
+      "query_kind": "family",
+      "query": "Sr CaTiO3 crystal structure solid state",
+      "evidence_id": "C21:L5"
+    },
+    {
+      "source_id": "19299873",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19299873/",
+      "publication_date": null,
+      "text": "Polymorphism of CaTeO3 and solid solutions Ca(x)Sr(1-x)TeO3. Single crystals and microcrystalline samples of the calcium tellurate(IV) phases alpha-, beta-, beta'- and gamma-CaTeO3 as well as of two solid solutions Ca(x)Sr(1-x)TeO3 (x = 0.55 and 0.77) have been synthesized and characterized by X-ray diffraction and thermal analysis.",
+      "query_kind": "family",
+      "query": "Sr CaTiO3 crystal structure solid state",
+      "evidence_id": "C21:L6"
+    },
+    {
+      "source_id": "11019187",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11019187/",
+      "publication_date": null,
+      "text": "Novel features of Sr1-xCaxTiO3 phase diagram: evidence for competing antiferroelectric and ferroelectric interactions Structural and dielectric evidences are advanced to show that the Sr1-xCaxTiO3 (SCT) system undergoes an antiferroelectric (AFE) phase transition in the composition range 0.18</=x</=0.40. Stabilization of the AFE phase, instead of the ferroelectric (FE) phase known for 0<x<0.12, is shown to be intimately linked with the nonpolar antiferrodistortive phase transitions driven by the R and M point instabilities preceding the AFE transition.",
+      "query_kind": "family",
+      "query": "Sr CaTiO3 crystal structure solid state",
+      "evidence_id": "C21:L7"
+    },
+    {
+      "source_id": "20305344",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20305344/",
+      "publication_date": null,
+      "text": "Crystal growth and twinned crystal structure of Sr2CaWO6. Single crystals of Sr(2)CaWO(6) have been prepared by sintering at high temperature.",
+      "query_kind": "family",
+      "query": "Sr CaTiO3 crystal structure solid state",
+      "evidence_id": "C21:L8"
+    }
+  ]
+}
