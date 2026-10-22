@@ -1,0 +1,33 @@
+campaign_id: icsd-substitution-mlip-20261022
+llm:
+  model: gpt-5.6-sol
+  provider: openai-codex
+  temperature: null  # Provider default; parameter omitted in every arm.
+pool_size: 50
+batch_size: 10
+top_k: 10
+max_rounds: 2
+seeds:
+  pool_split: 20261022
+  rattle: 20261022
+  bootstrap: 20261022
+mlip:
+  package: matcalc
+  provider: matgl
+  checkpoint: TensorNet-MatPES-PBE-2025.2
+  version: 0.6.0
+  matgl_version: 4.1.1
+  torch_version: 2.7.1+cu126
+  device: cuda
+  environment: /home/user/nyaya-eval/.venv
+  requirements_lock: /home/user/nyaya-eval/requirements.lock.txt
+delivery_target: telegram:-1004419031322:1204
+literature:
+  mcp: valency
+  url: https://mcp.valency.io/
+  access_method: direct_streamable_http_jsonrpc
+  search_tool: semantic_search_papers
+  fetch_tool: get_paper_by_id
+  excerpts_per_candidate: 8
+  max_sentences_per_excerpt: 2
+novelty_databases: []

@@ -1,0 +1,23 @@
+{
+  "verified_at": "2026-10-23",
+  "protocol_version": "2025-11-25",
+  "server_version": "0.4.1",
+  "tool_names": {
+    "search": "semantic_search_papers",
+    "fetch": "get_paper_by_id",
+    "sources": "list_sources"
+  },
+  "sources": [
+    "PubMed",
+    "arXiv",
+    "bioRxiv",
+    "medRxiv",
+    "PsyArXiv",
+    "ChemRxiv",
+    "SocArXiv",
+    "EarthArXiv",
+    "Valency Hub"
+  ],
+  "citation_graph_size": 535585096,
+  "credential": "not stored; direct authenticated access is external"
+}
