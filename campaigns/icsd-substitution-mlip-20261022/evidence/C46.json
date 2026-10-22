@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C46",
+  "formula_B": "CsMnTe2",
+  "excerpts": [
+    {
+      "source_id": "11666428",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11666428/",
+      "publication_date": null,
+      "text": "CsTl: A New Example of Tetragonally Compressed Tl(6)(6)(-) Octahedra. Electronic Effects and Packing Requirements in the Diverse Structures of ATl (A = Li, Na, K, Cs).",
+      "query_kind": "family",
+      "query": "Cs AgTlTe2 crystal structure solid state",
+      "evidence_id": "C46:L1"
+    },
+    {
+      "source_id": "23125566",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23125566/",
+      "publication_date": null,
+      "text": "Caesium diuranium hexa-telluride. Single crystals of CsU(2)Te(6) were synthesized from the reaction of U, Te, and Cs(2)Te(3) at 1273 K.",
+      "query_kind": "family",
+      "query": "Cs AgTlTe2 crystal structure solid state",
+      "evidence_id": "C46:L2"
+    },
+    {
+      "source_id": "12526494",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12526494/",
+      "publication_date": null,
+      "text": "Cs3AgAs4Se8 and CsAgAs2Se4: selenoarsenates with infinite 1 infinity[AsSe2]- chains in different Ag+ coordination environments. Two quaternary silver selenoarsenates Cs3AgAs4Se8 (I) and CsAgAs2Se4 (II) have been discovered by methanothermal reaction of Li3AsSe3 with AgBF4 in the presence of the respective alkali metal sources Cs2CO3 and CsCl.",
+      "query_kind": "family",
+      "query": "Cs AgTlTe2 crystal structure solid state",
+      "evidence_id": "C46:L3"
+    },
+    {
+      "source_id": "11666572",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11666572/",
+      "publication_date": null,
+      "text": "Synthesis and Structure of the Layered Thorium Telluride CsTh(2)Te(6). The compound CsTh(2)Te(6) has been synthesized at 800 degrees C by the reaction of Th with a Cs(2)Te(3)/Te melt as a reactive flux.",
+      "query_kind": "family",
+      "query": "Cs AgTlTe2 crystal structure solid state",
+      "evidence_id": "C46:L4"
+    },
+    {
+      "source_id": "40237238",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/40237238/",
+      "publication_date": null,
+      "text": "Cs4Ca[Si8O19]: a new mixed tetrahedral-octahedral oxosilicate, its topological features and comparison with other interrupted framework silicates. Single crystals of a previously unknown caesium calcium silicate with the composition Ca4Ca[Si8O19] have been obtained during a systematic study of the phase relations and compound formation in the system Cs2O-CaO-SiO2.",
+      "query_kind": "pair",
+      "query": "Cs substituted for K related inorganic frameworks crystal structure",
+      "evidence_id": "C46:L5"
+    },
+    {
+      "source_id": "21375255",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21375255/",
+      "publication_date": null,
+      "text": "In situ X-ray diffraction study of cesium exchange in synthetic umbite. The exchange of Cs(+) into H(1.22)K(0.84)ZrSi(3)O(9)\u00b72.16H(2)O (umbite-(HK)) was followed in situ using time-resolved X-ray diffraction at the National Synchrotron Light Source.",
+      "query_kind": "pair",
+      "query": "Cs substituted for K related inorganic frameworks crystal structure",
+      "evidence_id": "C46:L6"
+    },
+    {
+      "source_id": "11669959",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11669959/",
+      "publication_date": null,
+      "text": "Syntheses and X-ray Powder Structures of K(2)(ZrSi(3)O(9)).H(2)O and Its Ion-Exchanged Phases with Na and Cs. A zirconium trisilicate compound, with composition K(2)ZrSi(3)O(9).H(2)O (1), was prepared under mild hydrothermal conditions and was structurally characterized by using its X-ray powder diffraction data.",
+      "query_kind": "pair",
+      "query": "Cs substituted for K related inorganic frameworks crystal structure",
+      "evidence_id": "C46:L7"
+    },
+    {
+      "source_id": "20603544",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20603544/",
+      "publication_date": null,
+      "text": "A novel In3O16 fragment in Cs3In3(PO4)4. The double phosphate Cs(3)In(3)(PO(4))(4), prepared by a flux technique, features a fragment of composition In(3)O(16) formed by three corner-sharing InO(6) polyhedra.",
+      "query_kind": "pair",
+      "query": "Cs substituted for K related inorganic frameworks crystal structure",
+      "evidence_id": "C46:L8"
+    }
+  ]
+}

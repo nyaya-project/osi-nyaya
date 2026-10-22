@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C57",
+  "formula_B": "RbGe3F10",
+  "excerpts": [
+    {
+      "source_id": "19407398",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19407398/",
+      "publication_date": null,
+      "text": "GeTe(2)O(6), a germanium tellurate(IV) with an open framework. The structure of an already evidenced but still uncharacterized GeTe(2)O(6) phase consists of isolated GeO(6) octahedra connected via isolated TeO(3) units.",
+      "query_kind": "family",
+      "query": "Ge Zr3PbO4F6 crystal structure solid state",
+      "evidence_id": "C57:L1"
+    },
+    {
+      "source_id": "17675676",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17675676/",
+      "publication_date": null,
+      "text": "Ca3GeO4Cl2 with a norbergite-like structure. The title compound, tricalcium monogermanate dichloride, is orthorhombic and consists of one distinct Ge site on special position 4c, site symmetry m, and two different Ca sites, Ca1 and Ca2, one on general position 8d, site symmetry 1, and the other on special position 4c.",
+      "query_kind": "family",
+      "query": "Ge Zr3PbO4F6 crystal structure solid state",
+      "evidence_id": "C57:L2"
+    },
+    {
+      "source_id": "25162501",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25162501/",
+      "publication_date": null,
+      "text": "Synthesis and characterization of the new strontium borogermanate Sr(3-x/2)B(2-x)Ge(4+x)O\u2081\u2084 (x = 0.32). The strontium borogermanate Sr(3-x/2)B(2-x)Ge(4+x)O14 (x = 0.32) was synthesized by high-temperature solid-state reaction of SrO, GeO2, and H3BO3 in a NaF/KF flux system using platinum crucibles.",
+      "query_kind": "family",
+      "query": "Ge Zr3PbO4F6 crystal structure solid state",
+      "evidence_id": "C57:L3"
+    },
+    {
+      "source_id": "24096491",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24096491/",
+      "publication_date": null,
+      "text": "The polar phase of Li2Ge4O9 at 298, 150 and 90 K. Dilithium tetragermanate is orthorhombic, space group P2(1)ca, at 298 K, and is thus in a polar and probably a ferroelectric state.",
+      "query_kind": "family",
+      "query": "Ge Zr3PbO4F6 crystal structure solid state",
+      "evidence_id": "C57:L4"
+    },
+    {
+      "source_id": "30002905",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30002905/",
+      "publication_date": null,
+      "text": "Ge0.57Ti0.43O2: a new high-pressure material with rutile-type crystal structure. Single crystals of a GeO2-TiO2 solid solution with the corresponding composition Ge0.57Ti0.43O2 (germanium titanium tetra-oxide) were obtained by devitrification of germania-titania glass at high pressure and temperature.",
+      "query_kind": "family",
+      "query": "Ge Zr3PbO4F6 crystal structure solid state",
+      "evidence_id": "C57:L5"
+    },
+    {
+      "source_id": "11706231",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11706231/",
+      "publication_date": null,
+      "text": "Trigonal sodium calcium germanate, Na(2.54)Ca(1.73)Ge(3)O(9). Single crystals of a new germanate, Na(2.54)Ca(1.73)Ge(3)O(9), have been synthesized.",
+      "query_kind": "family",
+      "query": "Ge Zr3PbO4F6 crystal structure solid state",
+      "evidence_id": "C57:L6"
+    },
+    {
+      "source_id": "25567581",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25567581/",
+      "publication_date": null,
+      "text": "Ca3ZnGeO2[Ge4O12]: a Ca-Zn germanate related to the mineral taikanite. The title compound, Ca3ZnGeO2[Ge4O12] (tricalcium zinc germanium dioxide dodecaoxidotetragermanate), adopts a taikanite-type structure.",
+      "query_kind": "family",
+      "query": "Ge Zr3PbO4F6 crystal structure solid state",
+      "evidence_id": "C57:L7"
+    },
+    {
+      "source_id": "36069731",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/36069731/",
+      "publication_date": null,
+      "text": "Crystal Structures of a Cubic Tin(II) Germanate, \u03b1-Sn6GeO8, and a Tetragonal Tin(II) Silicate, \u03b3-Sn6SiO8. A cubic tin(II) germanate, \u03b1-Sn6GeO8 (space group F4\u03053m, a = 10.52521(2) \u00c5, and Z = 4), has been synthesized by both regular hydrothermal and microwave-assisted hydrothermal methods, and the crystal structure of this material has been solved by Rietveld refinement of synchrotron powder X-ray diffraction (PXRD) data.",
+      "query_kind": "family",
+      "query": "Ge Zr3PbO4F6 crystal structure solid state",
+      "evidence_id": "C57:L8"
+    }
+  ]
+}

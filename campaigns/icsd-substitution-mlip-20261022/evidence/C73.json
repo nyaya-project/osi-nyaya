@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C73",
+  "formula_B": "KMnTl2F6",
+  "excerpts": [
+    {
+      "source_id": "11666428",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11666428/",
+      "publication_date": null,
+      "text": "CsTl: A New Example of Tetragonally Compressed Tl(6)(6)(-) Octahedra. Electronic Effects and Packing Requirements in the Diverse Structures of ATl (A = Li, Na, K, Cs).",
+      "query_kind": "family",
+      "query": "Tl CsAuCl3 crystal structure solid state",
+      "evidence_id": "C73:L1"
+    },
+    {
+      "source_id": "38416695",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/38416695/",
+      "publication_date": null,
+      "text": "[Tl7]7- Clusters in Mixed Alkali Metal Thallides Cs7.29K5.71Tl13 and Cs3.45K3.55Tl7. Investigations in the ternary system Cs-K-Tl resulted in the unexpected formation of new ternary thallides Cs7.29K5.71Tl13 and Cs3.45K3.55Tl7.",
+      "query_kind": "family",
+      "query": "Tl CsAuCl3 crystal structure solid state",
+      "evidence_id": "C73:L2"
+    },
+    {
+      "source_id": "40641378",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/40641378/",
+      "publication_date": null,
+      "text": "Layered anion ordering in oxide chloride Ca2TlO3Cl. Single crystals and polycrystals of the novel compound Ca2TlO3Cl can be obtained by gas-phase and solid-state reactions, respectively.",
+      "query_kind": "family",
+      "query": "Tl CsAuCl3 crystal structure solid state",
+      "evidence_id": "C73:L3"
+    },
+    {
+      "source_id": "25488773",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25488773/",
+      "publication_date": null,
+      "text": "Hole doping and structural transformation in CsTl1-xHgxCl3. CsTlCl(3) and CsTlF(3) perovskites have been theoretically predicted to be superconductors when properly hole-doped.",
+      "query_kind": "family",
+      "query": "Tl CsAuCl3 crystal structure solid state",
+      "evidence_id": "C73:L4"
+    },
+    {
+      "source_id": "33209339",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/33209339/",
+      "publication_date": null,
+      "text": "The crystal structure of TlMgCl3 from 290 K to 725 K. The title compound, thallium magnesium trichloride, has been identified as a scintillator with both moderate gamma-stopping power and moderate light yield.",
+      "query_kind": "family",
+      "query": "Tl CsAuCl3 crystal structure solid state",
+      "evidence_id": "C73:L5"
+    },
+    {
+      "source_id": "11669913",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11669913/",
+      "publication_date": null,
+      "text": "Pressure Dependence Investigation of the Low-Temperature Structure of TlAu(CN)(2) by High-Resolution Neutron Powder Diffraction and Optical Studies. In contrast to the anomalous increase of the lattice parameter b and associated reorientation of the [Au(3)(CN)(2)](-) ion with decreasing temperature, the unit cell volume and the lattice parameters of TlAu(CN)(2) are found to decrease (at T = 62 K) linearly for external hydrostatic pressures up to 4.5 kbar.",
+      "query_kind": "family",
+      "query": "Tl CsAuCl3 crystal structure solid state",
+      "evidence_id": "C73:L6"
+    },
+    {
+      "source_id": "38974151",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/38974151/",
+      "publication_date": null,
+      "text": "Crystal structure of hexa-chloro-thallate within a caesium chloride-phospho-tungstate lattice Cs9(TlCl6)(PW12O40)2\u00b79CsCl. Crystal formation of caesium thallium chloride phospho-tungstates, Cs9(TlCl6)(PW12O40)2\u00b79CsCl showcases the ability to capture and crystallize octa-hedral complexes via the use of polyoxometalates (POMs).",
+      "query_kind": "family",
+      "query": "Tl CsAuCl3 crystal structure solid state",
+      "evidence_id": "C73:L7"
+    },
+    {
+      "source_id": "35492267",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/35492267/",
+      "publication_date": null,
+      "text": "The channel structure of trithallium penta-anti-m-on-ate(V), Tl3Sb5O14. Single crystals of Tl3Sb5O14 were grown by solid-state reaction in a corundum crucible under air (1273 K, 12 h).",
+      "query_kind": "pair",
+      "query": "Tl substituted for Cs related inorganic frameworks crystal structure",
+      "evidence_id": "C73:L8"
+    }
+  ]
+}

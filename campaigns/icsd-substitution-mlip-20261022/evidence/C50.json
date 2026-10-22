@@ -1,0 +1,60 @@
+{
+  "candidate_id": "C50",
+  "formula_B": "Sc2ZnSe4",
+  "excerpts": [
+    {
+      "source_id": "20187619",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20187619/",
+      "publication_date": null,
+      "text": "Synthesis, structure, bonding, and properties of Sc(3)Al(3)O(5)C(2) and ScAl(2)ONC-unique compounds with ordered distribution of anions and cations. Single crystals of the new compounds Sc(3)Al(3)O(5)C(2) and ScAl(2)ONC were obtained by reacting Sc(2)O(3) and C in an Al-melt at 1550 degrees C.",
+      "query_kind": "family",
+      "query": "Sc MgAl2O4 crystal structure solid state",
+      "evidence_id": "C50:L1"
+    },
+    {
+      "source_id": "37267603",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/37267603/",
+      "publication_date": null,
+      "text": "Formation of the Sub-oxide Sc4Au2O1-x and the Drastically Negative 27Al NMR Shift in Sc2Al. During attempts to synthesize Sc4AuAl in the cubic Gd4RhIn-type structure, the solid solution Sc2Au0.5Al0.5 in the PbCl2-type structure formed instead.",
+      "query_kind": "family",
+      "query": "Sc MgAl2O4 crystal structure solid state",
+      "evidence_id": "C50:L2"
+    },
+    {
+      "source_id": "1105.3645v1",
+      "locator": "https://arxiv.org/abs/1105.3645",
+      "publication_date": null,
+      "text": "High-pressure study of substrate material ScAlMgO4 We report on the structural properties of ScAlMgO4 studied under quasi-hydrostatic pressure using synchrotron high-pressure x-ray diffraction up to 40 GPa. We also report on single-crystal studies of ScAlMgO4 performed at 300 K and 100 K.",
+      "query_kind": "family",
+      "query": "Sc MgAl2O4 crystal structure solid state",
+      "evidence_id": "C50:L3"
+    },
+    {
+      "source_id": "31484806",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/31484806/",
+      "publication_date": null,
+      "text": "The crystal structure of new quantum memory-storage material Sc1.368Y0.632SiO5. Monoisotopic scandium yttrium oxyorthosilicate crystals as a material for quantum memory storage with high optical quality were grown by the Czochralski method.",
+      "query_kind": "family",
+      "query": "Sc MgAl2O4 crystal structure solid state",
+      "evidence_id": "C50:L4"
+    },
+    {
+      "source_id": "19655745",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19655745/",
+      "publication_date": null,
+      "text": "Synthesis, structure, bonding, and properties of the oxide carbide ScAlOC, a new type of compound. Single crystals of ScAlOC were obtained by reacting Sc(2)O(3) and C in an Al melt at 1600 degrees C.",
+      "query_kind": "family",
+      "query": "Sc MgAl2O4 crystal structure solid state",
+      "evidence_id": "C50:L5"
+    },
+    {
+      "source_id": "32551552",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/32551552/",
+      "publication_date": null,
+      "text": "A Scandium MOF with an Unprecedented Inorganic Building Unit, Delimiting the Micropore Windows. A new scandium metal-organic framework (Sc-MOF) with the composition of [Sc(OH)(OBA)], denoted as Sc-CAU-21, was prepared under solvothermal reaction conditions using 4,4'-oxidibenzoic acid (H2OBA) as the ligand.",
+      "query_kind": "pair",
+      "query": "Sc substituted for Al related inorganic frameworks crystal structure",
+      "evidence_id": "C50:L6"
+    }
+  ]
+}

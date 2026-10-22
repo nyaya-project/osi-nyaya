@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C25",
+  "formula_B": "Nd3SmO6",
+  "excerpts": [
+    {
+      "source_id": "21580813",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21580813/",
+      "publication_date": null,
+      "text": "Redetermination of the distorted perovskite Nd(0.53)Sr(0.47)MnO(3). Neodymium strontium manganese oxide with ideal composition Nd(0.5)Sr(0.5)MnO(3) was reported to have two different structure models.",
+      "query_kind": "family",
+      "query": "Nd Mn2O3 crystal structure solid state",
+      "evidence_id": "C25:L1"
+    },
+    {
+      "source_id": "10927282",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/10927282/",
+      "publication_date": null,
+      "text": "Room-temperature and low-temperature structure of Nd1-xCaxMnO3 (0.3 </= x </= 0.5). The structure of the insulating manganites Nd(1-x)Ca(x)MnO(3) (0.3 </= x </= 0.5) has been studied against temperature using electron diffraction and neutron diffraction.",
+      "query_kind": "family",
+      "query": "Nd Mn2O3 crystal structure solid state",
+      "evidence_id": "C25:L2"
+    },
+    {
+      "source_id": "16434793",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16434793/",
+      "publication_date": null,
+      "text": "Structures of the cation-deficient perovskite Nd(0.7)Ti(0.9)Al(0.1)O3 from high-resolution neutron powder diffraction in combination with group-theoretical analysis. The crystal structures of Nd(0.7)Ti(0.9)Al(0.1)O3, taken to represent the ideal Nd(2/3)TiO3, have been elucidated from 4 to 1273 K using high-resolution neutron powder diffraction in combination with group-theoretical analysis.",
+      "query_kind": "family",
+      "query": "Nd Mn2O3 crystal structure solid state",
+      "evidence_id": "C25:L3"
+    },
+    {
+      "source_id": "21572231",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21572231/",
+      "publication_date": null,
+      "text": "Magnetic and structural features of the NdNi(1 - x)Mn(x)O3 perovskite series investigated by neutron diffraction. Selected members of the perovskite series NdNi(1 - x)Mn(x)O(3) (0 \u2264 x \u2264 1) have been prepared by a soft chemistry technique, followed by thermal treatments either under high oxygen pressure (x \u2264 0.5) or in air (x > 0.5).",
+      "query_kind": "family",
+      "query": "Nd Mn2O3 crystal structure solid state",
+      "evidence_id": "C25:L4"
+    },
+    {
+      "source_id": "21828557",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21828557/",
+      "publication_date": null,
+      "text": "Neutron diffraction investigation of the magnetic structure and magnetoelastic effects in NdMnO(3). We investigated the evolution of the magnetic structure and magnetoelastic effects of NdMnO(3) by neutron powder diffraction.",
+      "query_kind": "family",
+      "query": "Nd Mn2O3 crystal structure solid state",
+      "evidence_id": "C25:L5"
+    },
+    {
+      "source_id": "11456664",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11456664/",
+      "publication_date": null,
+      "text": "Control of magnetic ordering by Jahn--Teller distortions in Nd(2)GaMnO(6) and La(2)GaMnO(6). The substitution of Ga(3+) into the Jahn--Teller distorted, antiferromagnetic perovskites LaMnO(3) and NdMnO(3) strongly affects both the crystal structures and resulting magnetic ordering.",
+      "query_kind": "family",
+      "query": "Nd Mn2O3 crystal structure solid state",
+      "evidence_id": "C25:L6"
+    },
+    {
+      "source_id": "12526369",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12526369/",
+      "publication_date": null,
+      "text": "Evolution of the Jahn-Teller distortion of MnO6 octahedra in RMnO3 perovskites (R = Pr, Nd, Dy, Tb, Ho, Er, Y): a neutron diffraction study. Stoichiometric RMnO3 perovskites have been prepared in the widest range of R3+ ionic sizes, from PrMnO3 to ErMnO3.",
+      "query_kind": "family",
+      "query": "Nd Mn2O3 crystal structure solid state",
+      "evidence_id": "C25:L7"
+    },
+    {
+      "source_id": "26373986",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26373986/",
+      "publication_date": null,
+      "text": "Effects of monovalent cation doping on the structure, microstructure, lattice distortion and magnetic behavior of single crystalline NdMnO3 compounds. Pure and 15 mol% Na, K-doped NdMnO3 compounds with perovskite structures are prepared by sol-gel method.",
+      "query_kind": "family",
+      "query": "Nd Mn2O3 crystal structure solid state",
+      "evidence_id": "C25:L8"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "candidate_id": "C91",
+  "formula_B": "Cr2PdO6",
+  "excerpts": [
+    {
+      "source_id": "22757615",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22757615/",
+      "publication_date": null,
+      "text": "High-pressure synthesis, crystal structure, and properties of BiPd2O4 with Pd2+ and Pd4+ ordering and PbPd2O4. BiPd(2)O(4) and PbPd(2)O(4) were synthesized at high pressure of 6 GPa and 1500 K.",
+      "query_kind": "family",
+      "query": "Pd FeTa2O6 crystal structure solid state",
+      "evidence_id": "C91:L1"
+    },
+    {
+      "source_id": "20067297",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20067297/",
+      "publication_date": null,
+      "text": "Ordering of Pd(2+) and Pd(4+) in the mixed-valent palladate KPd(2)O(3). A new potassium palladate KPd(2)O(3) was synthesized by the reaction of KO(2) and PdO at elevated oxygen pressure.",
+      "query_kind": "family",
+      "query": "Pd FeTa2O6 crystal structure solid state",
+      "evidence_id": "C91:L2"
+    },
+    {
+      "source_id": "1204.0102v1",
+      "locator": "https://arxiv.org/abs/1204.0102",
+      "publication_date": null,
+      "text": "Magnetic properties of PdAs2O6: a dilute spin system with an unusually high N\\'eel temperature The crystal structure and magnetic ordering pattern of PdAs2O6 were investigated by neutron powder diffraction. While the magnetic structure of PdAs2O6 is identical to the one of its isostructural 3d-homologue NiAs2O6, its N\\'{e}el temperature (140 K) is much higher than the one of NiAs2O6 (30 K).",
+      "query_kind": "family",
+      "query": "Pd FeTa2O6 crystal structure solid state",
+      "evidence_id": "C91:L3"
+    },
+    {
+      "source_id": "24339045",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24339045/",
+      "publication_date": null,
+      "text": "Ferromagnetic ordering in the layer-structured Pd(HS(2)O(7))(2). The reaction of (NO2 )(CF3 SO3 ) and elemental palladium in oleum (65 % SO3 ) leads to violet single crystals of Pd(HS2 O7 )2 (monoclinic, P21 /c, Z=2, a=927.80(9), b=682.58(7), c=920.84(9) pm, \u03b2=117.756(2)\u00b0, wR2 =0.0439).",
+      "query_kind": "family",
+      "query": "Pd FeTa2O6 crystal structure solid state",
+      "evidence_id": "C91:L4"
+    },
+    {
+      "source_id": "15606184",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15606184/",
+      "publication_date": null,
+      "text": "Palladium(II)-substituted tungstosilicate [Cs2K(H2O)7Pd2WO(H2O)(A--SiW9O34)2]9-. The palladium(II)-substituted tungstosilicate [Cs(2)K(H(2)O)(7)Pd(2)WO(H(2)O)(A-alpha-SiW(9)O(34))(2)](9)(-) (1) has been synthesized and characterized by IR, elemental analysis, and electrochemistry.",
+      "query_kind": "pair",
+      "query": "Pd substituted for W related inorganic frameworks crystal structure",
+      "evidence_id": "C91:L5"
+    },
+    {
+      "source_id": "42223031",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/42223031/",
+      "publication_date": null,
+      "text": "The Palladium(IV)-Centered Hexatungstate Ion [PdIVW6O24]8. We report on the synthesis of the palladium(IV)-containing hexatungstate [PdIVW6O24]8- (PdW6) with a central 6-coordinated PdIV ion, which is surrounded by a ring of six edge-shared WO6 octahedra.",
+      "query_kind": "pair",
+      "query": "Pd substituted for W related inorganic frameworks crystal structure",
+      "evidence_id": "C91:L6"
+    },
+    {
+      "source_id": "15206872",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15206872/",
+      "publication_date": null,
+      "text": "First structurally characterized palladium(II)-substituted polyoxoanion: [Cs2Na(H2O)10Pd3(alpha-SbIIIW9O33)2]9-. The palladium-substituted tungstoantimonate(III) [Cs(2)Na(H(2)O)(10)Pd(3)(alpha-SbW(9)O(33))(2)](9-) (1) has been synthesized and characterized by IR, elemental analysis, and electrochemistry.",
+      "query_kind": "pair",
+      "query": "Pd substituted for W related inorganic frameworks crystal structure",
+      "evidence_id": "C91:L7"
+    }
+  ]
+}

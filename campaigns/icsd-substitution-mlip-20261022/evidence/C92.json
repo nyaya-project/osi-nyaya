@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C92",
+  "formula_B": "Na2BiAs",
+  "excerpts": [
+    {
+      "source_id": "33536370",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/33536370/",
+      "publication_date": null,
+      "text": "The structure of Ce2Al3Ge4 refined for the first time from single-crystal X-ray diffraction data. Single crystals of dicerium trialuminium tetragermanide, Ce2Al3Ge4, have been synthesized from a high-temperature reaction using an eutectic mixture of Al and Ge as a metal flux.",
+      "query_kind": "family",
+      "query": "Bi CeAl crystal structure solid state",
+      "evidence_id": "C92:L1"
+    },
+    {
+      "source_id": "30212194",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30212194/",
+      "publication_date": null,
+      "text": "Synthesis, and Crystal and Electronic Structures, of the Titanium-Rich Bismuthides AE3Ti8Bi10 ( AE = Sr, Ba, Eu). Three isotypic compounds with the chemical formula AE3Ti8Bi10 ( AE = Sr, Ba, Eu) have been obtained via both high-temperature solid state and flux growth reactions.",
+      "query_kind": "family",
+      "query": "Bi CeAl crystal structure solid state",
+      "evidence_id": "C92:L2"
+    },
+    {
+      "source_id": "26422218",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26422218/",
+      "publication_date": null,
+      "text": "Synthesis and structure determination of seven ternary bismuthides: crystal chemistry of the RELi3Bi2 family (RE = La-Nd, Sm, Gd, and Tb). Zintl phases are renowned for their diverse crystal structures with rich structural chemistry and have recently exhibited some remarkable heat- and charge-transport properties.",
+      "query_kind": "family",
+      "query": "Bi CeAl crystal structure solid state",
+      "evidence_id": "C92:L3"
+    },
+    {
+      "source_id": "29504553",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29504553/",
+      "publication_date": null,
+      "text": "On the effect of Ga and In substitutions in the Ca11Bi10 and Yb11Bi10 bismuthides crystallizing in the tetragonal Ho11Ge10 structure type. The Ga- and In-substituted bismuthides Ca11GaxBi10-x, Ca11InxBi10-x, Yb11GaxBi10-x, and Yb11InxBi10-x (x < 2) can be readily synthesized employing molten Ga or In metals as fluxes.",
+      "query_kind": "family",
+      "query": "Bi CeAl crystal structure solid state",
+      "evidence_id": "C92:L4"
+    },
+    {
+      "source_id": "21099021",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21099021/",
+      "publication_date": null,
+      "text": "The modulated structure of the calcium aluminate Ca6(AlO2)12\u00b7Bi2O3. Bismuth calcium aluminate, Bi(2)Ca(6)Al(12)O(27), has been prepared as a ceramic and a single crystal.",
+      "query_kind": "family",
+      "query": "Bi CeAl crystal structure solid state",
+      "evidence_id": "C92:L5"
+    },
+    {
+      "source_id": "27240771",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/27240771/",
+      "publication_date": null,
+      "text": "New insight on bismuth cuprates with incommensurate modulated structures. The incommensurate modulated crystal structure of Bi2.27Sr1.73CuO6 + \u03b4 (2201) phase [a = 5.3874 (5), b = 5.3869 (4), c = 24.579 (3) \u00c5; \u03b2 = 90.01 (1)\u00b0, q = 0.2105 (3)a(*) + 0.538 (4)c(*), Z = 4, the (3 + 1)-dimensional monoclinic A2/a(\u03b10\u03b3) group] has been refined with R = 0.041, wR = 0.052 from X-ray single-crystal data including up to third-order satellite reflections.",
+      "query_kind": "pair",
+      "query": "Bi substituted for Cu related inorganic frameworks crystal structure",
+      "evidence_id": "C92:L6"
+    },
+    {
+      "source_id": "25229311",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25229311/",
+      "publication_date": null,
+      "text": "Sr\u2082\u2081Bi\u2088Cu\u2082(CO\u2083)\u2082O\u2084\u2081, a Bi\u2075\u207a oxycarbonate with an original 10L structure. The layered structure of Sr21Bi8Cu2(CO3)2O41 (Z = 2) was determined by transmission electron microscopy, infrared spectroscopy, and powder X-ray diffraction refinement in space group P6\u2083/mcm (No.",
+      "query_kind": "pair",
+      "query": "Bi substituted for Cu related inorganic frameworks crystal structure",
+      "evidence_id": "C92:L7"
+    },
+    {
+      "source_id": "21936483",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21936483/",
+      "publication_date": null,
+      "text": "Undulating layers in a new rhodate network: structure of Bi(1.4)CuORh5O10. A new rhodate, Bi(1.4)CuRh(5)O(11), with an hitherto unknown channel structure containing undulating layers of RhO(6) octahedra sharing corners and edges has been discovered and its structure refined from single crystal X-ray diffraction data.",
+      "query_kind": "pair",
+      "query": "Bi substituted for Cu related inorganic frameworks crystal structure",
+      "evidence_id": "C92:L8"
+    }
+  ]
+}

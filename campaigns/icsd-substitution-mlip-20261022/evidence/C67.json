@@ -1,0 +1,24 @@
+{
+  "candidate_id": "C67",
+  "formula_B": "Th2Se6Br",
+  "excerpts": [
+    {
+      "source_id": "12456976",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12456976/",
+      "publication_date": null,
+      "text": "Commensurate and incommensurate structures of the hexabromotellurate(IV) bis[dibromodiselenate(I)] ion - [(C2H5)n(C6H5)4-nP]2[TeBr6(Se2Br2)2], n = 0,1. Structure analysis of [(C(2)H(5))(n)(C(6)H(5))(4-n)P](2)[TeBr(6)(Se(2)Br(2))(2)] is presented for n = 1 and 0 [hereafter (I) and (II)].",
+      "query_kind": "family",
+      "query": "Br KTh2Se6 crystal structure solid state",
+      "evidence_id": "C67:L1"
+    },
+    {
+      "source_id": "31417800",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/31417800/",
+      "publication_date": null,
+      "text": "Syntheses and crystal structures of a new family of hybrid perovskites: C5H14N2\u00b7ABr3\u00b70.5H2O (A = K, Rb, Cs). The syntheses and crystal structures of three hybrid perovskites, viz.",
+      "query_kind": "pair",
+      "query": "Br substituted for K related inorganic frameworks crystal structure",
+      "evidence_id": "C67:L2"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "candidate_id": "C29",
+  "formula_B": "FeAg2IrS4",
+  "excerpts": [
+    {
+      "source_id": "26636188",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26636188/",
+      "publication_date": null,
+      "text": "Anion-Anion Bonding and Topology in Ternary Iridium Seleno-Stannides. The synthesis and physical properties of two new and one known Ir-Sn-Se compound are reported.",
+      "query_kind": "family",
+      "query": "Ir Cu2FeSnS4 crystal structure solid state",
+      "evidence_id": "C29:L1"
+    },
+    {
+      "source_id": "1601.00603v1",
+      "locator": "https://arxiv.org/abs/1601.00603",
+      "publication_date": null,
+      "text": "Anion-Anion Bonding and the Topology in Ternary Iridium Seleno-Stannides The synthesis and physical properties of two new and one known Ir-Sn-Se compound are reported. Their crystal structures are elucidated with transmission electron microscopy and powder X-ray diffraction.",
+      "query_kind": "family",
+      "query": "Ir Cu2FeSnS4 crystal structure solid state",
+      "evidence_id": "C29:L2"
+    },
+    {
+      "source_id": "35765344",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/35765344/",
+      "publication_date": null,
+      "text": "Ab initio investigation of electronic structure and optical properties of IrSn4. We have examined the electronic structure and optical properties of intermetallic IrSn4 for three polymorphic modifications, \u03b1-IrSn4, \u03b2-IrSn4, and \u03b3-IrSn4, utilizing the first-principles PAW-PBEsol-GGA and FP-LAPW-LSDA methods.",
+      "query_kind": "family",
+      "query": "Ir Cu2FeSnS4 crystal structure solid state",
+      "evidence_id": "C29:L3"
+    },
+    {
+      "source_id": "32831240",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/32831240/",
+      "publication_date": null,
+      "text": "Crystal structures of two very similar 2 \u00d7 2 \u00d7 2 superstructures of \u03b3-brass-related phases in ternary Ir-Cd-Cu system. A binary phase Ir8Cd41 in the Ir-Cd binary system and novel ternary phases in the Ir-Cd-Cu system have been synthesized from the constituent elements using high-temperature solid-state synthesis.",
+      "query_kind": "family",
+      "query": "Ir Cu2FeSnS4 crystal structure solid state",
+      "evidence_id": "C29:L4"
+    }
+  ]
+}

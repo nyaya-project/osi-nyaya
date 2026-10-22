@@ -1,0 +1,42 @@
+{
+  "candidate_id": "C52",
+  "formula_B": "LiTmCl4",
+  "excerpts": [
+    {
+      "source_id": "31814395",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/31814395/",
+      "publication_date": null,
+      "text": "Investigation of the Structure and Luminescence Mechanism of Tm3+-Doped LiYF4: New Theoretical Perspectives. The absorption and emission transitions of Tm3+-doped LiYF4 have been extensively investigated due to the excellent properties and enormous applications of these materials as laser materials.",
+      "query_kind": "family",
+      "query": "Tm CaWO4 crystal structure solid state",
+      "evidence_id": "C52:L1"
+    },
+    {
+      "source_id": "35541480",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/35541480/",
+      "publication_date": null,
+      "text": "Alkali metal impact on structural and phonon properties of Er3+ and Tm3+ co-doped MY(WO4)2 (M = Li, Na, K) nanocrystals. The Pechini and microwave-assisted hydrothermal syntheses of nanocrystalline Er3+ and Tm3+ co-doped MY(WO4)2, where M = Li, Na, K, double tungstates are reported.",
+      "query_kind": "family",
+      "query": "Tm CaWO4 crystal structure solid state",
+      "evidence_id": "C52:L2"
+    },
+    {
+      "source_id": "30216052",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30216052/",
+      "publication_date": null,
+      "text": "Deciphering the Microstructure and Energy-Level Splitting of Tm3+-Doped Yttrium Aluminum Garnet. Thulium-doped yttrium aluminum garnet (Tm:YAG) is an important solid-state laser crystal.",
+      "query_kind": "family",
+      "query": "Tm CaWO4 crystal structure solid state",
+      "evidence_id": "C52:L3"
+    },
+    {
+      "source_id": "39876337",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/39876337/",
+      "publication_date": null,
+      "text": "Effect of Tm3+ concentration on structure, spectral properties and cross relaxation of Tm:CaF2 crystal. Through the investigation of spectral characteristics, the evolution of cluster proportions and the cross-relaxation process in Tm:CaF2 crystals as a function of Tm doping concentration has been clarified.",
+      "query_kind": "family",
+      "query": "Tm CaWO4 crystal structure solid state",
+      "evidence_id": "C52:L4"
+    }
+  ]
+}

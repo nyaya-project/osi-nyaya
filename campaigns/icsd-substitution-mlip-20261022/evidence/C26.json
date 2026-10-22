@@ -1,0 +1,51 @@
+{
+  "candidate_id": "C26",
+  "formula_B": "HgBi2ClO4",
+  "excerpts": [
+    {
+      "source_id": "38546546",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/38546546/",
+      "publication_date": null,
+      "text": "Hg16O12(NO3)6F2(H2O): A Mercury-Rich Nitrate Oxyfluoride with Diverse Triple-Coordinated Mercury-Based Units That Exhibits an Unparalleled [(Hg16O12F2(H2O))6+]\u221e Cationic Framework and a Large Birefringence. Designing new compounds based on anion regulation has been widely favored due to the production of diverse crystal structures and excellent optical properties.",
+      "query_kind": "family",
+      "query": "Hg Bi2ErO4I crystal structure solid state",
+      "evidence_id": "C26:L1"
+    },
+    {
+      "source_id": "38967448",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/38967448/",
+      "publication_date": null,
+      "text": "\u03b2-CsHg2I5, a compound with rare [Hg2I5] dimers and large optical anisotropy. Hg-based compounds show abundant structural diversity and distinguished properties.",
+      "query_kind": "family",
+      "query": "Hg Bi2ErO4I crystal structure solid state",
+      "evidence_id": "C26:L2"
+    },
+    {
+      "source_id": "11870277",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11870277/",
+      "publication_date": null,
+      "text": "HgWO(4) synthesized at high pressure and temperature. Crystals of mercury(II) tungstate(VI), HgWO(4), were grown in sealed gold tubes under an Ar atmosphere at 300 MPa and 973 K.",
+      "query_kind": "family",
+      "query": "Hg Bi2ErO4I crystal structure solid state",
+      "evidence_id": "C26:L3"
+    },
+    {
+      "source_id": "22048407",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22048407/",
+      "publication_date": null,
+      "text": "Synthesis, crystal structure and properties of a new candidate for nonlinear optical material in the IR region: Hg2BrI3. The synthesis, crystal structure, nonlinear optical (NLO) property and some other properties of a new material, Hg(2)BrI(3), are reported.",
+      "query_kind": "family",
+      "query": "Hg Bi2ErO4I crystal structure solid state",
+      "evidence_id": "C26:L4"
+    },
+    {
+      "source_id": "12456968",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12456968/",
+      "publication_date": null,
+      "text": "The structure of orange HgI2. I.",
+      "query_kind": "family",
+      "query": "Hg Bi2ErO4I crystal structure solid state",
+      "evidence_id": "C26:L5"
+    }
+  ]
+}

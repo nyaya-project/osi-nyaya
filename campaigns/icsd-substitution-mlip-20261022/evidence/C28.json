@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C28",
+  "formula_B": "BiF4",
+  "excerpts": [
+    {
+      "source_id": "39108776",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/39108776/",
+      "publication_date": null,
+      "text": "Rerefinement of the crystal structure of BiF5. The crystal structure of bis-muth penta-fluoride, BiF5, was rerefined from single-crystal data.",
+      "query_kind": "family",
+      "query": "Bi SnF4 crystal structure solid state",
+      "evidence_id": "C28:L1"
+    },
+    {
+      "source_id": "11670996",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11670996/",
+      "publication_date": null,
+      "text": "X-ray Diffraction and (119)Sn M\u00f6ssbauer Spectroscopy Study of a New Phase in the Bi(2)Se(3)-SnSe System: SnBi(4)Se(7). First studies of the ternary system SnSe-Bi(2)Se(3) developed in 1960s and 1970s have revealed the existence of a nonstoichiometric trigonal phase with a wide range of compositions.",
+      "query_kind": "family",
+      "query": "Bi SnF4 crystal structure solid state",
+      "evidence_id": "C28:L2"
+    },
+    {
+      "source_id": "14577789",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/14577789/",
+      "publication_date": null,
+      "text": "Tropochemical cell-twinning in the new quaternary bismuth selenides KxSn(6-2x)Bi(2+x)Se9 and KSn5Bi5Se13. The quaternary K(x)Sn(6-2x)Bi(2+x)Se(9) and KSn(5)Bi(5)Se(13) were discovered from reactions involving K(2)Se, Bi(2)Se(3), Sn, and Se.",
+      "query_kind": "family",
+      "query": "Bi SnF4 crystal structure solid state",
+      "evidence_id": "C28:L3"
+    },
+    {
+      "source_id": "35192329",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/35192329/",
+      "publication_date": null,
+      "text": "The Role of the Bi3+ Lone Pair Effect in Bi(H3O)(SO4)2, Bi(HSO4)3, and Bi2(SO4)3. Three new members in the Bi2O3-SO3-H2O system are identified by single crystal X-ray diffraction and Rietveld refinement after a fundamental examination of this phase space.",
+      "query_kind": "family",
+      "query": "Bi SnF4 crystal structure solid state",
+      "evidence_id": "C28:L4"
+    },
+    {
+      "source_id": "27248317",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/27248317/",
+      "publication_date": null,
+      "text": "An Exhaustive Symmetry Approach to Structure Determination: Phase Transitions in Bi2Sn2O7. The exploitable properties of many materials are intimately linked to symmetry-lowering structural phase transitions.",
+      "query_kind": "family",
+      "query": "Bi SnF4 crystal structure solid state",
+      "evidence_id": "C28:L5"
+    },
+    {
+      "source_id": "16749834",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16749834/",
+      "publication_date": null,
+      "text": "Synthesis and crystal chemistry of two new fluorite-related bismuth phosphates, Bi(4.25)(PO4)2O(3.375) and Bi5(PO4)2O4.5, in the Series Bi4+x(PO4)2O3+3x/2 (0.175 < or = x < or = 1). Two new phosphates, Bi(4.25)(PO4)2O(3.375) and Bi(5)(PO(4))(2)O(4.5), have been analyzed by single-crystal X-ray diffraction in the series Bi(4+x)(PO4)2O(3+3x/2) (0.175 < or = x < or = 1).",
+      "query_kind": "family",
+      "query": "Bi SnF4 crystal structure solid state",
+      "evidence_id": "C28:L6"
+    },
+    {
+      "source_id": "17658872",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17658872/",
+      "publication_date": null,
+      "text": "Synthesis, structure, and bonding of Eu3Bi(Sn,Bi)4. A rare inverse-Cr5B3-type structure with a new tin/bismuth network.",
+      "query_kind": "family",
+      "query": "Bi SnF4 crystal structure solid state",
+      "evidence_id": "C28:L7"
+    },
+    {
+      "source_id": "19617676",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19617676/",
+      "publication_date": null,
+      "text": "The incommensurately modulated crystal structure of beta-Pb2BiVO6: interpretation of the phase transition alpha --> beta --> delta and conduction properties of related materials. A new polymorph of Pb(2)BiVO(6) was prepared under ambient conditions and its crystal structure was determined by single-crystal X-ray diffraction.",
+      "query_kind": "pair",
+      "query": "Bi substituted for Pb related inorganic frameworks crystal structure",
+      "evidence_id": "C28:L8"
+    }
+  ]
+}

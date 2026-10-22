@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C03",
+  "formula_B": "HfTiNb3S8",
+  "excerpts": [
+    {
+      "source_id": "11196911",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11196911/",
+      "publication_date": null,
+      "text": "Electronic structures of M21S8 (M = Nb, Zr) and (M,M')21S8 (M, M' = Hf, Ti; Nb, Ta) phases and reasons for variations in the metal site occupations. The electronic structures of binary M21S8 (M = Nb, Zr) and isostructural ternary (M,M')21S8 (M, M' = Hf, Ti; Nb, Ta) phases have been studied by means of extended H\u00fcckel tight-binding band structure calculations.",
+      "query_kind": "family",
+      "query": "Hf MnNb4S8 crystal structure solid state",
+      "evidence_id": "C03:L1"
+    },
+    {
+      "source_id": "23981254",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23981254/",
+      "publication_date": null,
+      "text": "Topochemical cross-linking of the [Hf2N2] layers with sulfur in \u03b1-HfNBr. \u03b1-HfNBr (space group Pmmn) isostructural with FeOCl consists of orthorhombic [Hf2N2] layers sandwiched by bromide layers.",
+      "query_kind": "family",
+      "query": "Hf MnNb4S8 crystal structure solid state",
+      "evidence_id": "C03:L2"
+    },
+    {
+      "source_id": "11671040",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11671040/",
+      "publication_date": null,
+      "text": "Sb-Sb Interactions in the Hafnium-Rich Antimonide Hf(6)TiSb(4). (Hf,Ti)(7)Sb(4) is accessible via arc-melting of suitable mixtures of Hf, Ti, and HfSb(2).",
+      "query_kind": "family",
+      "query": "Hf MnNb4S8 crystal structure solid state",
+      "evidence_id": "C03:L3"
+    },
+    {
+      "source_id": "21202163",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21202163/",
+      "publication_date": null,
+      "text": "Hafnium germanium telluride. The title hafnium germanium telluride, HfGeTe(4), has been synthesized by the use of a halide flux and structurally characterized by X-ray diffraction.",
+      "query_kind": "family",
+      "query": "Hf MnNb4S8 crystal structure solid state",
+      "evidence_id": "C03:L4"
+    },
+    {
+      "source_id": "22412394",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22412394/",
+      "publication_date": null,
+      "text": "Ti insertion in the MTe(5) (M = Zr, Hf) structure type: Hf(0.78)Ti(0.22)Te(5). The group 5 mixed-metal telluride, Hf(0.78)Ti(0.22)Te(5) (hafnium titanium penta-telluride), is isostructural with the binary phases HfTe(5) and ZrTe(5) and forms a layered structure extending parallel to (010).",
+      "query_kind": "family",
+      "query": "Hf MnNb4S8 crystal structure solid state",
+      "evidence_id": "C03:L5"
+    },
+    {
+      "source_id": "30379071",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30379071/",
+      "publication_date": null,
+      "text": "At the Gates: The Tantalum-Rich Phase Hf3Ta2O11 and its Commensurately Modulated Structure. Generic mixtures in the system (Zr,Hf)O2-(Nb,Ta)2O5 are employed as tunable gate materials for field-effect transistors.",
+      "query_kind": "pair",
+      "query": "Hf substituted for Nb related inorganic frameworks crystal structure",
+      "evidence_id": "C03:L6"
+    },
+    {
+      "source_id": "30989014",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30989014/",
+      "publication_date": null,
+      "text": "Commensurate Nb2Zr5O15: Accessible Within the Field Nb2Zr x O2x+5 After All. Doped niobium zirconium oxides are applied in field-effect transistors and as special-purpose coatings.",
+      "query_kind": "pair",
+      "query": "Hf substituted for Nb related inorganic frameworks crystal structure",
+      "evidence_id": "C03:L7"
+    },
+    {
+      "source_id": "32830748",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/32830748/",
+      "publication_date": null,
+      "text": "Crystal structure solution for the A6B2O17 (A = Zr, Hf; B = Nb, Ta) superstructure. Zr6Ta2O17, Hf6Nb2O17 and Hf6Ta2O17 crystal structure solutions have been solved using synchrotron X-ray powder diffraction and neutron powder diffraction in conjunction with simulated annealing, charge flipping and Rietveld refinement.",
+      "query_kind": "pair",
+      "query": "Hf substituted for Nb related inorganic frameworks crystal structure",
+      "evidence_id": "C03:L8"
+    }
+  ]
+}

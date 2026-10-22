@@ -1,0 +1,51 @@
+{
+  "candidate_id": "C07",
+  "formula_B": "BaLuFe2O5",
+  "excerpts": [
+    {
+      "source_id": "21231500",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21231500/",
+      "publication_date": null,
+      "text": "Pressure-induced structural transition in LuFe2O4: towards a new charge ordered state. The electronic ferroelectric lutetium ferrite (LuFe(2)O(4)) was studied by x-ray diffraction as a function of pressure.",
+      "query_kind": "family",
+      "query": "Lu YBaFe2O5(Pmmm) crystal structure solid state",
+      "evidence_id": "C07:L1"
+    },
+    {
+      "source_id": "1112.0978v2",
+      "locator": "https://arxiv.org/abs/1112.0978",
+      "publication_date": null,
+      "text": "Charge order in LuFe2O4: an unlikely route to ferroelectricity We present the refinement of the crystal structure of charge-ordered LuFe2O4, based on single-crystal x-ray diffraction data. The arrangement of the different Fe-valence states, determined with bond-valence-sum analysis, corresponds to a stacking of charged Fe bilayers, in contrast to the polar bilayers previously suggested.",
+      "query_kind": "family",
+      "query": "Lu YBaFe2O5(Pmmm) crystal structure solid state",
+      "evidence_id": "C07:L2"
+    },
+    {
+      "source_id": "22681119",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22681119/",
+      "publication_date": null,
+      "text": "Charge order in LuFe2O4: an unlikely route to ferroelectricity. We present the refinement of the crystal structure of charge-ordered LuFe2O4, based on single-crystal x-ray diffraction data.",
+      "query_kind": "family",
+      "query": "Lu YBaFe2O5(Pmmm) crystal structure solid state",
+      "evidence_id": "C07:L3"
+    },
+    {
+      "source_id": "30403481",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30403481/",
+      "publication_date": null,
+      "text": "Crystal and Magnetic Structures and Properties of (Lu1- xMn x)MnO3 Solid Solutions. (Lu1- xMn x)MnO3 solid solutions, having the perovskite-type structure and Pnma space group, with 0 \u2264 x \u2264 0.4 were synthesized by a high-pressure, high-temperature method at 6 GPa and about 1670 K from Lu2O3 and Mn2O3.",
+      "query_kind": "family",
+      "query": "Lu YBaFe2O5(Pmmm) crystal structure solid state",
+      "evidence_id": "C07:L4"
+    },
+    {
+      "source_id": "32431946",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/32431946/",
+      "publication_date": null,
+      "text": "Crystal structure of lutetium aluminate (LUAM), Lu4Al2O9. The crystal structure of the title compound containing lutetium, the last element in the lanthanide series, was determined using a single crystal prepared by heating a pressed pellet of a 2:1 molar ratio mixture of Lu2O3 and Al2O3 powders in an Ar atmosphere at 2173 K for 4 h.",
+      "query_kind": "pair",
+      "query": "Lu substituted for Eu related inorganic frameworks crystal structure",
+      "evidence_id": "C07:L5"
+    }
+  ]
+}

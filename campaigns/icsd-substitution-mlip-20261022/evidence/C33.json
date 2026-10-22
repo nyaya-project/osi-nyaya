@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C33",
+  "formula_B": "MnCl3",
+  "excerpts": [
+    {
+      "source_id": "17338515",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17338515/",
+      "publication_date": null,
+      "text": "Structural and magnetic properties of MCl2 (M = Fe, Mn, Co): acetonitrile solvates. MIICl2 (M = Mn, Fe, Co) as their acetonitrile solvates were isolated, and their structural, spectroscopic, and magnetic properties were studied.",
+      "query_kind": "family",
+      "query": "Mn BCl3 crystal structure solid state",
+      "evidence_id": "C33:L1"
+    },
+    {
+      "source_id": "11666702",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11666702/",
+      "publication_date": null,
+      "text": "Manganese(II/II/II) and Manganese(III/II/III) Trinuclear Compounds. Structure and Solid and Solution Behavior.",
+      "query_kind": "family",
+      "query": "Mn BCl3 crystal structure solid state",
+      "evidence_id": "C33:L2"
+    },
+    {
+      "source_id": "26645988",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26645988/",
+      "publication_date": null,
+      "text": "Magnetic Structure and Exchange Interactions in Quasi-One-Dimensional MnCl2(urea)2. MnCl2(urea)2 is a new linear chain coordination polymer that exhibits slightly counter-rotated Mn2Cl2 rhomboids along the chain-axis.",
+      "query_kind": "family",
+      "query": "Mn BCl3 crystal structure solid state",
+      "evidence_id": "C33:L3"
+    },
+    {
+      "source_id": "24251931",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24251931/",
+      "publication_date": null,
+      "text": "Crystal structures of manganese and cobalt dichloride monohydrate and deuteration effects on magnetic behavior. This work reports the long sought crystal structures of the title members of the intriguing series of 3d transition metal dichloride monohydrates.",
+      "query_kind": "family",
+      "query": "Mn BCl3 crystal structure solid state",
+      "evidence_id": "C33:L4"
+    },
+    {
+      "source_id": "27920925",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/27920925/",
+      "publication_date": null,
+      "text": "Crystal structure of BaMnB2O5 containing structurally isolated manganese oxide sheets. In an attempt to search for mixed alkaline-earth and transition metal pyroborates, the title compound, barium manganese(II) pyroborate, has been synthesized by employing a flux method.",
+      "query_kind": "family",
+      "query": "Mn BCl3 crystal structure solid state",
+      "evidence_id": "C33:L5"
+    },
+    {
+      "source_id": "24453115",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24453115/",
+      "publication_date": null,
+      "text": "Peierls-distorted monoclinic MnB(4) with a Mn-Mn bond. Tetraborides of chromium and manganese exhibit an unusual boron-atom framework that resembles the hypothetical tetragonal diamond.",
+      "query_kind": "family",
+      "query": "Mn BCl3 crystal structure solid state",
+      "evidence_id": "C33:L6"
+    },
+    {
+      "source_id": "29250353",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29250353/",
+      "publication_date": null,
+      "text": "Manganese(II) chloride complexes with pyridine N-oxide (PNO) derivatives and their solid-state structures. Three manganese(II) N-oxide complexes have been synthesized from the reaction of manganese(II) chloride with either pyridine N-oxide (PNO), 2-methyl-pyridine N-oxide (2MePNO) or 3-methyl-pyridine N-oxide (3MePNO).",
+      "query_kind": "family",
+      "query": "Mn BCl3 crystal structure solid state",
+      "evidence_id": "C33:L7"
+    },
+    {
+      "source_id": "37831105",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/37831105/",
+      "publication_date": null,
+      "text": "Ca2MnO3X (X = Cl, Br) Oxyhalides with 1-Dimensional Ferromagnetic Chains of Square-Planar S = 2 Mn3. Mixed anion oxyhalides with the formula Ca2MnO3X (X = Cl, Br) are synthesized using solid-state reaction methods.",
+      "query_kind": "family",
+      "query": "Mn BCl3 crystal structure solid state",
+      "evidence_id": "C33:L8"
+    }
+  ]
+}

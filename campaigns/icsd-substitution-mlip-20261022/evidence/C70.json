@@ -1,0 +1,51 @@
+{
+  "candidate_id": "C70",
+  "formula_B": "Na6DyCl8",
+  "excerpts": [
+    {
+      "source_id": "12526369",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12526369/",
+      "publication_date": null,
+      "text": "Evolution of the Jahn-Teller distortion of MnO6 octahedra in RMnO3 perovskites (R = Pr, Nd, Dy, Tb, Ho, Er, Y): a neutron diffraction study. Stoichiometric RMnO3 perovskites have been prepared in the widest range of R3+ ionic sizes, from PrMnO3 to ErMnO3.",
+      "query_kind": "family",
+      "query": "Dy Mg6MnO8 crystal structure solid state",
+      "evidence_id": "C70:L1"
+    },
+    {
+      "source_id": "38012860",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/38012860/",
+      "publication_date": null,
+      "text": "Anisotropic Thermal Expansion and a Second-Order Charge Order Transition in the Ferrimagnetic Dy2CuZnMn4O12 Perovskite with Triple A-Site Cation Ordering. Dy2CuZnMn4O12 perovskite, belonging to the A-site columnar-ordered quadruple perovskite family with the general composition of A2A'A\u2033B4O12, was prepared by a high-pressure, high-temperature method at 6 GPa and 1500 K.",
+      "query_kind": "family",
+      "query": "Dy Mg6MnO8 crystal structure solid state",
+      "evidence_id": "C70:L2"
+    },
+    {
+      "source_id": "28425715",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/28425715/",
+      "publication_date": null,
+      "text": "Five-Fold Ordering in High-Pressure Perovskites RMn3O6 (R = Gd-Tm and Y). Cation and anion ordering plays an important role in the properties of materials, in particular, in the properties of perovskite materials.",
+      "query_kind": "family",
+      "query": "Dy Mg6MnO8 crystal structure solid state",
+      "evidence_id": "C70:L3"
+    },
+    {
+      "source_id": "21817238",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21817238/",
+      "publication_date": null,
+      "text": "Structural and magnetic properties of DyMn(2)D(6) synthesized under high deuterium pressure. DyMn(2)D(6) has been prepared by applying high gaseous deuterium pressure on DyMn(2).",
+      "query_kind": "family",
+      "query": "Dy Mg6MnO8 crystal structure solid state",
+      "evidence_id": "C70:L4"
+    },
+    {
+      "source_id": "29342122",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29342122/",
+      "publication_date": null,
+      "text": "Synthesis and Characterization of a Heterometallic Extended Architecture Based on a Manganese(II)-Substituted Sandwich-Type Polyoxotungstate. The reaction of [\u03b1-P\u2082W15O56]12- with MnII and DyIII in an aqueous basic solution led to the isolation of an all inorganic heterometallic aggregate Na10(OH\u2082)42[{Dy(H\u2082O)\u2086}\u2082Mn\u2084P\u2084W30O112(H\u2082O)\u2082]\u00b717H\u2082O (Dy\u2082Mn\u2084-P\u2082W15).",
+      "query_kind": "pair",
+      "query": "Dy substituted for Mn related inorganic frameworks crystal structure",
+      "evidence_id": "C70:L5"
+    }
+  ]
+}

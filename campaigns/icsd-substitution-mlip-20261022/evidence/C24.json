@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C24",
+  "formula_B": "Pr(TiP3)4",
+  "excerpts": [
+    {
+      "source_id": "30212194",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30212194/",
+      "publication_date": null,
+      "text": "Synthesis, and Crystal and Electronic Structures, of the Titanium-Rich Bismuthides AE3Ti8Bi10 ( AE = Sr, Ba, Eu). Three isotypic compounds with the chemical formula AE3Ti8Bi10 ( AE = Sr, Ba, Eu) have been obtained via both high-temperature solid state and flux growth reactions.",
+      "query_kind": "family",
+      "query": "Ti LaFe4P12 crystal structure solid state",
+      "evidence_id": "C24:L1"
+    },
+    {
+      "source_id": "36603150",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/36603150/",
+      "publication_date": null,
+      "text": "Cu4TiTe4: Synthesis, Crystal Structure, and Chemical Bonding. A new compound Cu4TiTe4 in the Cu-Ti-Te ternary system is prepared using high-temperature solid-state synthesis and characterized by single-crystal X-ray diffraction and energy-dispersive X-ray spectroscopy.",
+      "query_kind": "family",
+      "query": "Ti LaFe4P12 crystal structure solid state",
+      "evidence_id": "C24:L2"
+    },
+    {
+      "source_id": "29726472",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29726472/",
+      "publication_date": null,
+      "text": "Undistorted linear Bi chains with hypervalent bonding in La3TiBi5 from single-crystal X-ray diffraction. The crystal structure of the lanthanum titanium bismuthide La3TiBi5 (Pearson code hP18, Wyckoff sequence b d g2) has been established from single-crystal X-ray diffraction data and analyzed in detail using first-principles calculations.",
+      "query_kind": "family",
+      "query": "Ti LaFe4P12 crystal structure solid state",
+      "evidence_id": "C24:L3"
+    },
+    {
+      "source_id": "18616241",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18616241/",
+      "publication_date": null,
+      "text": "Ternary rare-earth titanium antimonides RE2Ti(11-x)Sb(14+x) (RE = Sm, Gd, Tb, Yb). The isostructural rare-earth titanium antimonides RE 2Ti 11 - x Sb 14 + x ( RE = Sm, Gd, Tb, Yb) have been synthesized by arc-melting reactions of the elements.",
+      "query_kind": "family",
+      "query": "Ti LaFe4P12 crystal structure solid state",
+      "evidence_id": "C24:L4"
+    },
+    {
+      "source_id": "16434787",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16434787/",
+      "publication_date": null,
+      "text": "Cluster approach to the Ti2Ni structure type. It has been established that the 16(c) first coordination clusters in the Ti2Ni structure type (space group Fd3m) follow icosahedral-face orientational ordering along regular tetrahedron edge directions.",
+      "query_kind": "family",
+      "query": "Ti LaFe4P12 crystal structure solid state",
+      "evidence_id": "C24:L5"
+    },
+    {
+      "source_id": "11468371",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11468371/",
+      "publication_date": null,
+      "text": "Modulated structure of the pseudohexagonal InFe(1--x--4 delta)Ti(x+3 delta)O(3+x/2) (x = 0.61) composite crystal. The structure of pseudohexagonal-type InFe(1--x--4 delta)Ti(x+3 delta)O(3+x/2) (x = 0.61, delta = 0.04), indium iron titanium oxide, was refined on the basis of a four-dimensional superspace group.",
+      "query_kind": "pair",
+      "query": "Ti substituted for Fe related inorganic frameworks crystal structure",
+      "evidence_id": "C24:L6"
+    },
+    {
+      "source_id": "34925902",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/34925902/",
+      "publication_date": null,
+      "text": "Mixed-metal phosphates K1.64Na0.36TiFe(PO4)3 and K0.97Na1.03Ti1.26Fe0.74(PO4)3 with a langbeinite framework. Single crystals of the langbeinite-type phosphates K1.65Na0.35TiFe(PO4)3 and K0.97Na1.03Ti1.26Fe0.74(PO4)3 were grown by crystallization from high-temperature self-fluxes in the system Na2O-K2O-P2O5-TiO2-Fe2O3 using fixed molar ratios of (Na+K):P = 1.0, Ti:P = 0.20 and Na:K = 1.0 or 2.0 over the temperature range 1273-953 K.",
+      "query_kind": "pair",
+      "query": "Ti substituted for Fe related inorganic frameworks crystal structure",
+      "evidence_id": "C24:L7"
+    },
+    {
+      "source_id": "23719700",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23719700/",
+      "publication_date": null,
+      "text": "Anisotropic thermal expansion of La(n)(Ti,Fe)(n)O(3n + 2) (n = 5 and 6). Crystal structures are reported for two perovskite-related compounds with nominal compositions La5(Ti(0.8)Fe(0.2))5O17 and La6(Ti(0.67)Fe(0.33))6O20 at seven different temperatures between 90 and 350 K.",
+      "query_kind": "pair",
+      "query": "Ti substituted for Fe related inorganic frameworks crystal structure",
+      "evidence_id": "C24:L8"
+    }
+  ]
+}

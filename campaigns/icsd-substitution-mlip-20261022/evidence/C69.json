@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C69",
+  "formula_B": "CsAlBr3",
+  "excerpts": [
+    {
+      "source_id": "26090138",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26090138/",
+      "publication_date": null,
+      "text": "Crystal structure of CsCrAs2O7, a new member of the diarsenate family. Caesium chromium(III) diarsenate(V), CsCrAs2O7, was prepared by solid-state reactions.",
+      "query_kind": "family",
+      "query": "Al CsCrBr3 crystal structure solid state",
+      "evidence_id": "C69:L1"
+    },
+    {
+      "source_id": "31599587",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/31599587/",
+      "publication_date": null,
+      "text": "Low-Dimensional Magnetic Semimetal Cr0.65Al1.35Se3. While exploring novel magnetic semiconductors, the new phase Cr0.65Al1.35Se3 was discovered and characterized by both structural and physical properties.",
+      "query_kind": "family",
+      "query": "Al CsCrBr3 crystal structure solid state",
+      "evidence_id": "C69:L2"
+    },
+    {
+      "source_id": "19728730",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19728730/",
+      "publication_date": null,
+      "text": "The crystal structure of alpha-K3AlF6: elpasolites and double perovskites with broken corner-sharing connectivity of the octahedral framework. The crystal structure of alpha-K(3)AlF(6) was solved and refined from a combination of powder X-ray and neutron diffraction data (a = 18.8385(3)A, c = 33.9644(6)A, S.G.",
+      "query_kind": "family",
+      "query": "Al CsCrBr3 crystal structure solid state",
+      "evidence_id": "C69:L3"
+    },
+    {
+      "source_id": "40627833",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/40627833/",
+      "publication_date": null,
+      "text": "The Role of Dynamic Polyhedral Rotations in the Phase Transitions of Rb3AlF6 and Cs3AlF6. The structures and phase transitions of cryolite-related rubidium and cesium aluminum fluoride phases are investigated and related to the dynamic motions of AlF6 octahedra.",
+      "query_kind": "family",
+      "query": "Al CsCrBr3 crystal structure solid state",
+      "evidence_id": "C69:L4"
+    },
+    {
+      "source_id": "32286067",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/32286067/",
+      "publication_date": null,
+      "text": "X-ray Diffraction, NMR Studies, and DFT Calculations of the Room and High Temperature Structures of Rubidium Cryolite, Rb3AlF6. A crystallographic approach incorporating multinuclear high field solid state NMR (SSNMR), X-ray structure determinations, TEM observation, and density functional theory (DFT) was used to characterize two polymorphs of rubidium cryolite, Rb3AlF6.",
+      "query_kind": "family",
+      "query": "Al CsCrBr3 crystal structure solid state",
+      "evidence_id": "C69:L5"
+    },
+    {
+      "source_id": "36338303",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/36338303/",
+      "publication_date": null,
+      "text": "Crystal structure of the Al8Cr5-type inter-metallic Al7.85Cr5.16. An aluminium-deficient Al8Cr5-type inter-metallic with formula Al7.85Cr5.16 (octa-aluminium penta-chromium) was uncovered when high-pressure sinter-ing of a mixture with composition Al11Cr4 was carried out.",
+      "query_kind": "family",
+      "query": "Al CsCrBr3 crystal structure solid state",
+      "evidence_id": "C69:L6"
+    },
+    {
+      "source_id": "12513072",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12513072/",
+      "publication_date": null,
+      "text": "A novel nonlinear optical crystal for the IR region: noncentrosymmetrically crystalline CsCdBr3 and its properties. A noncentrosymmetric crystal structure of CsCdBr(3) has been successfully observed with X-ray single-crystal structure analysis.",
+      "query_kind": "source",
+      "query": "\"CsCdBr3\" substitution doping crystal structure",
+      "evidence_id": "C69:L7"
+    },
+    {
+      "source_id": "39319651",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/39319651/",
+      "publication_date": null,
+      "text": "Synthesis and optical properties of perovskite nanocrystals in glass with cationic substitution. The effect of cadmium ions introduced into fluorophosphate glass on the growth and photoluminescence (PL) of the CsPb1-xCdxBr3 perovskite nanocrystals (NCs) is systematically studied.",
+      "query_kind": "source",
+      "query": "\"CsCdBr3\" substitution doping crystal structure",
+      "evidence_id": "C69:L8"
+    }
+  ]
+}

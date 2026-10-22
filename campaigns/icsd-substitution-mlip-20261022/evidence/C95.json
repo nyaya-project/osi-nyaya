@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C95",
+  "formula_B": "AgCl2",
+  "excerpts": [
+    {
+      "source_id": "2108.12143v1",
+      "locator": "https://arxiv.org/abs/2108.12143",
+      "publication_date": null,
+      "text": "Stability of hypothetical AgIICl2 polymorphs under high pressure, revisited : a computational study A comparative computational study of stability of candidate structures for an as yet unknown silver dichloride AgCl2 is presented. It is found that all considered candidates have a negative enthalpy of formation, but are unstable towards charge transfer and decomposition into silver(I) chloride and chlorine within the DFT and hybrid DFT approaches in the entire studied pressure range.",
+      "query_kind": "formula",
+      "query": "\"AgCl2\" crystal structure inorganic solid",
+      "evidence_id": "C95:L1"
+    },
+    {
+      "source_id": "35064224",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/35064224/",
+      "publication_date": null,
+      "text": "Stability of hypothetical AgIICl2 polymorphs under high pressure, revisited: a computational study. A comparative computational study of stability of candidate structures for an as-yet unknown silver dichloride AgCl2 is presented.",
+      "query_kind": "formula",
+      "query": "\"AgCl2\" crystal structure inorganic solid",
+      "evidence_id": "C95:L2"
+    },
+    {
+      "source_id": "17778425",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17778425/",
+      "publication_date": null,
+      "text": "Crystal Structure of the Solid Electrolyte(C5H5NH) Ag5I6 at -30{degrees}C. The crystal structure of pyridinium hexaiodopentaargentate, (C(5)H(5)NH) Ag(5)l(6), is unique among those of the halide and chalcogenide solid electrolytes in that face-sharing iodide octahedra as well as face-sharing tetrahedra and face-sharing between octahedra and tetrahedra provide the paths for silver ion transport.",
+      "query_kind": "family",
+      "query": "Ag CdCl2 crystal structure solid state",
+      "evidence_id": "C95:L3"
+    },
+    {
+      "source_id": "16482280",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16482280/",
+      "publication_date": null,
+      "text": "Silver ion dynamics in the Ag5Te2Cl-polymorphs revealed by solid state NMR lineshape and two- and three-time correlation spectroscopies. The relation between structure and ion dynamics in the three polymorphs of Ag(5)Te(2)Cl has been investigated using (109)Ag, (125)Te, and (35)Cl NMR spectroscopies.",
+      "query_kind": "family",
+      "query": "Ag CdCl2 crystal structure solid state",
+      "evidence_id": "C95:L4"
+    },
+    {
+      "source_id": "26023890",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26023890/",
+      "publication_date": null,
+      "text": "Silver Indium Telluride Semiconductors and Their Solid Solutions with Cadmium Indium Telluride: Structure and Physical Properties. Ag0.8In2.4Te4 (= AgIn3Te5) and Ag0.5In2.5Te4 (= AgIn5Te8) form solid solutions with CdIn2Te4, which are interesting as materials for photovoltaics or with respect to their thermoelectric properties.",
+      "query_kind": "family",
+      "query": "Ag CdCl2 crystal structure solid state",
+      "evidence_id": "C95:L5"
+    },
+    {
+      "source_id": "34519315",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/34519315/",
+      "publication_date": null,
+      "text": "Ag6Cl4: the first silver chloride with rare Ag6 clusters from an ab initio study. The first diamagnetic semiconducting silver subhalide, Ag6Cl4, featuring rare subvalent Ag6 clusters with 2e--6c bonds, 1D argentophilic d10-d10 intercluster interactions and 3D ionic connectivity ensured by Cl atoms has been predicted employing Density Functional Theory.",
+      "query_kind": "family",
+      "query": "Ag CdCl2 crystal structure solid state",
+      "evidence_id": "C95:L6"
+    },
+    {
+      "source_id": "28638652",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/28638652/",
+      "publication_date": null,
+      "text": "Crystal structure of a silver-, cobalt- and iron-based phosphate with an alluaudite-like structure: Ag1.655Co1.64Fe1.36(PO4)3. The new silver-, cobalt- and iron-based phosphate, silver cobalt iron tris(ortho-phosphate), Ag1.655Co1.64Fe1.36(PO4)3, was synthesized by solid-state reactions.",
+      "query_kind": "pair",
+      "query": "Ag substituted for Fe related inorganic frameworks crystal structure",
+      "evidence_id": "C95:L7"
+    },
+    {
+      "source_id": "30116583",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30116583/",
+      "publication_date": null,
+      "text": "Crystal structure of disilver(I) dizinc(II) iron(III) tris-(orthovanadate) with an alluaudite-type structure. The title compound, Ag2Zn2Fe(VO4)3, has been synthesized by solid-state reactions and belongs to the alluaudite structure family.",
+      "query_kind": "pair",
+      "query": "Ag substituted for Fe related inorganic frameworks crystal structure",
+      "evidence_id": "C95:L8"
+    }
+  ]
+}

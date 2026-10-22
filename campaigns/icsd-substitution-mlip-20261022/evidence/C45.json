@@ -1,0 +1,24 @@
+{
+  "candidate_id": "C45",
+  "formula_B": "Sm(Tl2I3)2",
+  "excerpts": [
+    {
+      "source_id": "14671335",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/14671335/",
+      "publication_date": null,
+      "text": "Partial Sn-atom ordering in Sm3Ga0.80-2.48Sn4.20-2.52. Trisamarium digallide tristannide crystallizes with a partially ordered Pu(3)Pd(5)-type structure in space group Cmcm.",
+      "query_kind": "family",
+      "query": "Sm Tl4HgBr6 crystal structure solid state",
+      "evidence_id": "C45:L1"
+    },
+    {
+      "source_id": "22259312",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22259312/",
+      "publication_date": null,
+      "text": "Cs(3)Sm(7)Se(12). The title compound, tricaesium hepta-samarium(III) dodeca-selenide, is setting a new starting point for realization of the channel structure of the Cs(3)M(7)Se(12) series, now with M = Sm, Gd-Er.",
+      "query_kind": "family",
+      "query": "Sm Tl4HgBr6 crystal structure solid state",
+      "evidence_id": "C45:L2"
+    }
+  ]
+}

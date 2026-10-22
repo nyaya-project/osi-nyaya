@@ -1,0 +1,69 @@
+{
+  "candidate_id": "C39",
+  "formula_B": "KWF4",
+  "excerpts": [
+    {
+      "source_id": "30623498",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30623498/",
+      "publication_date": null,
+      "text": "The h-Sbx WO3+2x Oxygen Excess Antimony Tungsten Bronze. We describe the previously unreported oxygen excess hexagonal antimony tungsten bronze is reported, with a composition of Sb0.5 W3 O10 , in the following denoted as h-Sbx WO3+2x with x=0.167, to demonstrate its analogy to classical Ax WO3 tungsten bronzes.",
+      "query_kind": "family",
+      "query": "W SbO2 crystal structure solid state",
+      "evidence_id": "C39:L1"
+    },
+    {
+      "source_id": "17658875",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17658875/",
+      "publication_date": null,
+      "text": "Synthesis, structure, characterization, and calculations of two new Sn2+ -W6+-oxides, Sn2WO5 and Sn3WO6. Two new Sn2+-W6+-oxides, Sn2WO5 and Sn3WO6, have been synthesized hydrothermally, and their structures have been determined by single-crystal X-ray diffraction methods.",
+      "query_kind": "family",
+      "query": "W SbO2 crystal structure solid state",
+      "evidence_id": "C39:L2"
+    },
+    {
+      "source_id": "10927371",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/10927371/",
+      "publication_date": null,
+      "text": "Structures of Bi14WO24 and Bi14MoO24 from neutron powder diffraction data. The (isomorphous) structures of Bi(14)WO(24), tetradecabismuth tungsten tetracosaoxide, and Bi(14)MoO(24), tetradecabismuth molybdenum tetracosaoxide, have been solved and refined using neutron powder diffraction data in the space group I4/m.",
+      "query_kind": "pair",
+      "query": "W substituted for Bi related inorganic frameworks crystal structure",
+      "evidence_id": "C39:L3"
+    },
+    {
+      "source_id": "20305350",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20305350/",
+      "publication_date": null,
+      "text": "Re-investigation of the structure and crystal chemistry of the Bi2O3-W2O6 'type (Ib)' solid solution using single-crystal neutron and synchrotron X-ray diffraction. Single crystals of composition Bi(35.66)W(4.34)O(66.51) (or Bi(8.2)WO(15.3), bismuth tungsten oxide), within the type (Ib) solid-solution region of the Bi(2)O(3)-WO(3) system, were synthesized using the floating-zone furnace method.",
+      "query_kind": "pair",
+      "query": "W substituted for Bi related inorganic frameworks crystal structure",
+      "evidence_id": "C39:L4"
+    },
+    {
+      "source_id": "26634724",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26634724/",
+      "publication_date": null,
+      "text": "Type II Bi1 - xWxO1.5 + 1.5x: a (3 + 3)-dimensional commensurate modulation that stabilizes the fast-ion conducting delta phase of bismuth oxide. The Type II phase in the Bi1 - xWxO1.5 + 1.5x system is shown to have a (3 + 3)-dimensional modulated \u03b4-Bi2O3-related structure, in which the modulation vector \u2107 `locks in' to a commensurate value of 1/3.",
+      "query_kind": "pair",
+      "query": "W substituted for Bi related inorganic frameworks crystal structure",
+      "evidence_id": "C39:L5"
+    },
+    {
+      "source_id": "21681291",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21681291/",
+      "publication_date": null,
+      "text": "A series of novel rare-earth bismuth tungstate compounds LnBiW2O9 (Ln=Ce, Sm, Eu, Er): synthesis, crystal structure, optical and electronic properties. The structural, optical, and electronic properties of four rare-earth bismuth tungstate compounds, LnBiW(2)O(9) (Ln = Ce, Sm, Eu, Er), have been investigated by means of single-crystal X-ray diffraction, elemental analyses, and spectral measurements.",
+      "query_kind": "pair",
+      "query": "W substituted for Bi related inorganic frameworks crystal structure",
+      "evidence_id": "C39:L6"
+    },
+    {
+      "source_id": "18641445",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18641445/",
+      "publication_date": null,
+      "text": "Order, disorder and structural modulations in Bi-Fe-W-O-Br Sill\u00e9n-Aurivillius intergrowths. Transmission electron microscopy observations on a new complex oxybromide with nominal composition Bi(4)Fe(1/3)W(2/3)O(8)Br, heated at high temperature, reveal the transformation of its basic structure yielding two types of crystals.",
+      "query_kind": "pair",
+      "query": "W substituted for Bi related inorganic frameworks crystal structure",
+      "evidence_id": "C39:L7"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C47",
+  "formula_B": "CuTe2Au",
+  "excerpts": [
+    {
+      "source_id": "31341598",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/31341598/",
+      "publication_date": null,
+      "text": "Gold(i) sulfide: unusual bonding and an unexpected computational challenge in a simple solid. We report the experimental high-pressure crystal structure and equation of state of gold(i) sulfide (Au2S) determined using diamond-anvil cell synchrotron X-ray diffraction.",
+      "query_kind": "family",
+      "query": "Au CuFeS2 crystal structure solid state",
+      "evidence_id": "C47:L1"
+    },
+    {
+      "source_id": "30232258",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30232258/",
+      "publication_date": null,
+      "text": "Old puzzle of incommensurate crystal structure of calaverite AuTe2 and predicted stability of novel AuTe compound. Gold is a very inert element, which forms relatively few compounds.",
+      "query_kind": "family",
+      "query": "Au CuFeS2 crystal structure solid state",
+      "evidence_id": "C47:L2"
+    },
+    {
+      "source_id": "28140577",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/28140577/",
+      "publication_date": null,
+      "text": "Network Formation by Condensed Tetrahedral [Au3Al] Units in Na2Au3Al: Crystal and Electronic Structure, Spectroscopic Investigations, and Physical Properties of an Ordered Ternary Auride. Na2Au3Al, the first experimentally prepared compound in the ternary Na-Au-Al system, crystallizes in the cubic crystal system with space group P4132 (a = 771.42(2) pm).",
+      "query_kind": "family",
+      "query": "Au CuFeS2 crystal structure solid state",
+      "evidence_id": "C47:L3"
+    },
+    {
+      "source_id": "30171653",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30171653/",
+      "publication_date": null,
+      "text": "Mixed-valence Compounds: AuO2 and AuS. Mixed-valence compounds are of great interest due to their interesting properties and wide applications.",
+      "query_kind": "family",
+      "query": "Au CuFeS2 crystal structure solid state",
+      "evidence_id": "C47:L4"
+    },
+    {
+      "source_id": "11681904",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11681904/",
+      "publication_date": null,
+      "text": "AuCuSe(4): a mixed polychalcogenide with Se(3)(2-) and Se(2-) anions. The polychalcogenide compound AuCuSe(4) crystallizes in the monoclinic space group P2(1)/m with a = 4.318(2) A, b = 7.447(1) A, c = 8.099(1) A, beta = 93.33(2)(o), and Z = 2.",
+      "query_kind": "family",
+      "query": "Au CuFeS2 crystal structure solid state",
+      "evidence_id": "C47:L5"
+    },
+    {
+      "source_id": "33289722",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/33289722/",
+      "publication_date": null,
+      "text": "Structure and stability of \u03b31-AuZn2.1: a \u03b3-brass-related complex phase in the Au-Zn System. \u03b31-AuZn2.1 in the Au-Zn binary system has been synthesized and its structure analyzed by single-crystal X-ray diffraction.",
+      "query_kind": "family",
+      "query": "Au CuFeS2 crystal structure solid state",
+      "evidence_id": "C47:L6"
+    },
+    {
+      "source_id": "23323925",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23323925/",
+      "publication_date": null,
+      "text": "Rhombohedrally distorted \u03b3-Au(5-x)Zn(8+y) phases in the Au-Zn system. The region of the Au-Zn phase diagram encompassing \u03b3-brass-type phases has been studied experimentally from 45 to 85 atom % Zn.",
+      "query_kind": "family",
+      "query": "Au CuFeS2 crystal structure solid state",
+      "evidence_id": "C47:L7"
+    },
+    {
+      "source_id": "23642175",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23642175/",
+      "publication_date": null,
+      "text": "Site preference and ordering induced by Au substitution in the \u03b3-brass related complex Au-Cr-Zn phases. The crystal chemistry of the ternary Au-Cr-Zn alloy was studied by means of synthesis, single crystal X-ray diffraction, and electron structure calculations.",
+      "query_kind": "family",
+      "query": "Au CuFeS2 crystal structure solid state",
+      "evidence_id": "C47:L8"
+    }
+  ]
+}

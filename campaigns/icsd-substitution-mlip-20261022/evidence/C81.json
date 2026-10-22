@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C81",
+  "formula_B": "LiPtS2",
+  "excerpts": [
+    {
+      "source_id": "30101967",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30101967/",
+      "publication_date": null,
+      "text": "Refinement of the crystal structure of Li4P2S6 using NMR crystallography. The structure of Li4P2S6 was solved, based on a combination of X-ray powder diffraction data, quantum chemical calculations and solid state nuclear magnetic resonance (NMR).",
+      "query_kind": "family",
+      "query": "Li PdS crystal structure solid state",
+      "evidence_id": "C81:L1"
+    },
+    {
+      "source_id": "20066696",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20066696/",
+      "publication_date": null,
+      "text": "Lithium argyrodites with phosphorus and arsenic: order and disorder of lithium atoms, crystal chemistry, and phase transitions. Crystal chemical data of high- (HT) and low-temperature (LT) modifications of lithium argyrodites with the compositions Li(7)PCh(6) (Ch=S, Se), Li(6)PCh(5)X (X=Cl, Br, I), Li(6)AsS(5)Br, and Li(6)AsCh(5)I (Ch=S, Se) based on single-crystal, powder X-ray (113 K<T<503 K) and neutron measurements (5 K<T<293 K) are presented.",
+      "query_kind": "family",
+      "query": "Li PdS crystal structure solid state",
+      "evidence_id": "C81:L2"
+    },
+    {
+      "source_id": "20349468",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20349468/",
+      "publication_date": null,
+      "text": "Structural characterisation of the Li argyrodites Li7PS6 and Li7PSe6 and their solid solutions: quantification of site preferences by MAS-NMR spectroscopy. Li(7)PS(6) and Li(7)PSe(6) belong to a class of new solids that exhibit high Li(+) mobility.",
+      "query_kind": "family",
+      "query": "Li PdS crystal structure solid state",
+      "evidence_id": "C81:L3"
+    },
+    {
+      "source_id": "26267671",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26267671/",
+      "publication_date": null,
+      "text": "Li17Sb13S28: A New Lithium Ion Conductor and addition to the Phase Diagram Li2S-Sb2S3. Li17Sb13S28 was synthesized by solid-state reaction of stoichiometric amounts of anhydrous Li2S and Sb2S3.",
+      "query_kind": "family",
+      "query": "Li PdS crystal structure solid state",
+      "evidence_id": "C81:L4"
+    },
+    {
+      "source_id": "22267556",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22267556/",
+      "publication_date": null,
+      "text": "Polymorphism of Li2Zn3. Crystal structures of low- and high-temperature modifications of the binary phase Li(2)Zn(3) were determined by single-crystal X-ray diffraction techniques.",
+      "query_kind": "family",
+      "query": "Li PdS crystal structure solid state",
+      "evidence_id": "C81:L5"
+    },
+    {
+      "source_id": "23765170",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23765170/",
+      "publication_date": null,
+      "text": "Single-crystal X-ray structure analysis of the superionic conductor Li10GeP2S12. Tetragonal Li10GeP2S12 (LGPS) is the best solid Li ion conductor known to date.",
+      "query_kind": "family",
+      "query": "Li PdS crystal structure solid state",
+      "evidence_id": "C81:L6"
+    },
+    {
+      "source_id": "33397819",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/33397819/",
+      "publication_date": null,
+      "text": "Synthesis, crystal structure, and electronic structure of Li2PbSiS4: a quaternary thiosilicate with a compressed chalcopyrite-like structure. The new quaternary thiosilicate, Li2PbSiS4 (dilithium lead silicon tetrasulfide), was prepared in an evacuated fused-silica tube via high-temperature, solid-state synthesis at 800 \u00b0C, followed by slow cooling.",
+      "query_kind": "family",
+      "query": "Li PdS crystal structure solid state",
+      "evidence_id": "C81:L7"
+    },
+    {
+      "source_id": "15772444",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15772444/",
+      "publication_date": null,
+      "text": "On the structure of lithium peroxide, Li2O2. The two published lithium peroxide structures, both ascribed to the hexagonal P6 space group, were subjected to reinterpretation, and another more symmetric structure, now belonging to the P6(3)/mmc space group, was found.",
+      "query_kind": "family",
+      "query": "Li PdS crystal structure solid state",
+      "evidence_id": "C81:L8"
+    }
+  ]
+}

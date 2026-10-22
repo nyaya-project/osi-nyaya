@@ -1,0 +1,24 @@
+{
+  "candidate_id": "C79",
+  "formula_B": "YbTeAs",
+  "excerpts": [
+    {
+      "source_id": "15695884",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15695884/",
+      "publication_date": null,
+      "text": "Two new phosphate langbeinites, Rb2YbTi(PO4)3 and Rb2Yb0.32Ti1.68(PO4)3, investigated at 293 and 150 K. The rubidium ytterbium titanium phosphates Rb2YbTi(PO4)3, (I), and Rb2Yb(0.32)Ti(1.68)(PO4)3, (II), have been structurally characterized from X-ray data collected at both 293 and 150 K.",
+      "query_kind": "pair",
+      "query": "Yb substituted for Ti related inorganic frameworks crystal structure",
+      "evidence_id": "C79:L1"
+    },
+    {
+      "source_id": "18616241",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18616241/",
+      "publication_date": null,
+      "text": "Ternary rare-earth titanium antimonides RE2Ti(11-x)Sb(14+x) (RE = Sm, Gd, Tb, Yb). The isostructural rare-earth titanium antimonides RE 2Ti 11 - x Sb 14 + x ( RE = Sm, Gd, Tb, Yb) have been synthesized by arc-melting reactions of the elements.",
+      "query_kind": "pair",
+      "query": "Yb substituted for Ti related inorganic frameworks crystal structure",
+      "evidence_id": "C79:L2"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C82",
+  "formula_B": "BaZnGa2S5",
+  "excerpts": [
+    {
+      "source_id": "11670238",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11670238/",
+      "publication_date": null,
+      "text": "Cs(8)Ga(11), a New Isolated Cluster in a Binary Gallium Compound. A Family of Valence Analogues A(8)Tr(11)X: A = Cs, Rb; Tr = Ga, In, Tl; X = Cl, Br, I.",
+      "query_kind": "family",
+      "query": "Ga Cs3(CoCl4)Cl crystal structure solid state",
+      "evidence_id": "C82:L1"
+    },
+    {
+      "source_id": "26792549",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26792549/",
+      "publication_date": null,
+      "text": "(Cs6Cl)6Cs3[Ga53Se96]: A Unique Long Period-Stacking Structure of Layers Made from Ga2Se6 Dimers via Cis or Trans Intralayer Linking. The new compound (Cs6Cl)6Cs3[Ga53Se96] with its own structure type has been discovered by high-temperature solid-state reactions.",
+      "query_kind": "family",
+      "query": "Ga Cs3(CoCl4)Cl crystal structure solid state",
+      "evidence_id": "C82:L2"
+    },
+    {
+      "source_id": "30867946",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30867946/",
+      "publication_date": null,
+      "text": "CsGa(HAsO4)2, the first Ga representative of the RbAl(HAsO4)2 structure type. The crystal structure of hydro-thermally synthesized (T = 493 K, 7 d) caesium gallium bis-[hydrogen arsenate(V)], CsGa(HAsO4)2, was solved by single-crystal X-ray diffraction.",
+      "query_kind": "family",
+      "query": "Ga Cs3(CoCl4)Cl crystal structure solid state",
+      "evidence_id": "C82:L3"
+    },
+    {
+      "source_id": "20104305",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20104305/",
+      "publication_date": null,
+      "text": "Dimorphic (Ba[GaCl(4)](2))(3).2C(6)H(6): a case of coordination extremes. Two new dimorphic tris[barium bis(tetrachloro gallate]) bisbenzene formed by the same molecular building blocks have been isolated and structurally characterized, showing an unprecedented inorganic as well as mixed organic/inorganic coordination.",
+      "query_kind": "family",
+      "query": "Ga Cs3(CoCl4)Cl crystal structure solid state",
+      "evidence_id": "C82:L4"
+    },
+    {
+      "source_id": "22702657",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22702657/",
+      "publication_date": null,
+      "text": "Quaternary tellurides with different valent Ge centers: Cs2Ge3M6Te14 (M = Ga, In). New quaternary tellurides, Cs(2)Ge(3)M(6)Te(14) (M = Ga, In), were discovered by solid-state reactions.",
+      "query_kind": "family",
+      "query": "Ga Cs3(CoCl4)Cl crystal structure solid state",
+      "evidence_id": "C82:L5"
+    },
+    {
+      "source_id": "30151526",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30151526/",
+      "publication_date": null,
+      "text": "Compositional evolution of the NaZn13 structure motif in the systems La-Ni-Ga and Ce-Ni-Ga. Phase relationship and structural behaviour in the substitutional series LaNi13-xGax and CeNi13-xGax have been studied by a combination of X-ray powder diffraction measurements, differential scanning calorimetry, electron diffraction tomography and metallographic analyses.",
+      "query_kind": "pair",
+      "query": "Ga substituted for Ce related inorganic frameworks crystal structure",
+      "evidence_id": "C82:L6"
+    },
+    {
+      "source_id": "12716212",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12716212/",
+      "publication_date": null,
+      "text": "Ce10Cl4Ga5 and Ln3ClGa4 (Ln = La, Ce): reduced halides or oxidized intermetallics? The compounds Ce(10)Cl(4)Ga(5) and Ln(3)ClGa(4) (Ln = La, Ce) were synthesized from stoichiometric mixtures of Ln, LnCl(3), and Ga under Ar atmosphere in sealed Ta ampules at 910-1020 degrees C for 25-26 days.",
+      "query_kind": "pair",
+      "query": "Ga substituted for Ce related inorganic frameworks crystal structure",
+      "evidence_id": "C82:L7"
+    },
+    {
+      "source_id": "18811144",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18811144/",
+      "publication_date": null,
+      "text": "Polygallide RE2MGa9Ge2 (RE = Ce, Sm; M = Ni, Co) phases grown in molten gallium. The quaternary intermetallics Ce2CoGa9Ge2, Ce2NiGa9Ge2, and Sm2NiGa9Ge2 were prepared by reacting elemental metals in excess of gallium at 850 degrees C.",
+      "query_kind": "pair",
+      "query": "Ga substituted for Ce related inorganic frameworks crystal structure",
+      "evidence_id": "C82:L8"
+    }
+  ]
+}

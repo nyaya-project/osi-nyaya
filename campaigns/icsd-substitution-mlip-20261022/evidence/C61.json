@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C61",
+  "formula_B": "FeRuN2",
+  "excerpts": [
+    {
+      "source_id": "14731005",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/14731005/",
+      "publication_date": null,
+      "text": "R(6)TT'(2), new variants of the Fe(2)P structure type. Sc(6)TTe(2) (T = Ru, Os, Rh, Ir), Lu(6)MoSb(2), and the anti-typic Sc(6)Te(0.80)Bi(1.68).",
+      "query_kind": "family",
+      "query": "Ru MoNiP2 crystal structure solid state",
+      "evidence_id": "C61:L1"
+    },
+    {
+      "source_id": "40337310",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/40337310/",
+      "publication_date": null,
+      "text": "Nonamagnesium diruthenium, Mg9Ru2. A monoclinic phase with chemical composition of Mg9Ru2, nona-magnesium diruthenium, was obtained through high-pressure sinter-ing of a mixture with an initial chemical composition of MgRuB.",
+      "query_kind": "family",
+      "query": "Ru MoNiP2 crystal structure solid state",
+      "evidence_id": "C61:L2"
+    },
+    {
+      "source_id": "20141115",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20141115/",
+      "publication_date": null,
+      "text": "Ruthenium intermetallics grown from La-Ni flux: synthesis, structure, and physical properties. Crystals of three new intermetallic compounds were grown from reactions of ruthenium with other elements in La(0.8)Ni(0.2) eutectic flux.",
+      "query_kind": "family",
+      "query": "Ru MoNiP2 crystal structure solid state",
+      "evidence_id": "C61:L3"
+    },
+    {
+      "source_id": "36108143",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/36108143/",
+      "publication_date": null,
+      "text": "Linear Trimer Molecule Formation by Three-Center-Four-Electron Bonding in a Crystalline Solid RuP. Some inorganic solids undergo phase transitions that result in the formation of \"molecules\" in their crystalline frameworks, which are frequently accompanied by dramatic changes in physical properties; the metal-insulator transition (MIT) in vanadium dioxide, for instance, is accompanied by the formation of dimer molecules with conventional two-center-two-electron bonding.",
+      "query_kind": "family",
+      "query": "Ru MoNiP2 crystal structure solid state",
+      "evidence_id": "C61:L4"
+    },
+    {
+      "source_id": "21579592",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21579592/",
+      "publication_date": null,
+      "text": "Filled skutterudite structure of europium ruthenium polyphosphide, EuRu(4)P(12). The crystal structure of EuRu(4)P(12) is isotypic with filled skutterudite structures of rare earth transition metal poly-phosphides: RFe(4)P(12) (R = Ce, Pr, Nd, Sm and Eu), RRu(4)P(12) (R = La, Ce, Pr and Nd) and ROs(4)P(12) (R = La, Ce, Pr and Nd).",
+      "query_kind": "family",
+      "query": "Ru MoNiP2 crystal structure solid state",
+      "evidence_id": "C61:L5"
+    },
+    {
+      "source_id": "18549193",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18549193/",
+      "publication_date": null,
+      "text": "Crystal structure and chemical bonding of Mg3Ru2. Mg 3Ru 2 was prepared by a reaction between the elements in the ideal ratio in a sealed tantalum ampule.",
+      "query_kind": "family",
+      "query": "Ru MoNiP2 crystal structure solid state",
+      "evidence_id": "C61:L6"
+    },
+    {
+      "source_id": "20957992",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20957992/",
+      "publication_date": null,
+      "text": "Ru9Zn7Sb8: a structure with a 2 \u00d7 2 \u00d7 2 supercell of the half-Heusler phase. The title compound Ru(9)Zn(7)Sb(8) was synthesized via a high-temperature reaction from the elements in a stoichiometric ratio, and its structure was solved by a single-crystal X-ray diffraction method.",
+      "query_kind": "family",
+      "query": "Ru MoNiP2 crystal structure solid state",
+      "evidence_id": "C61:L7"
+    },
+    {
+      "source_id": "19655068",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19655068/",
+      "publication_date": null,
+      "text": "Synthesis and crystal structure of pseudo-sandwich-type heteropolytungstates functionalized by organometallic ruthenium(II). The reaction between [XW(9)O(34)](9-) (X = As, P) and [RuC(6)H(6)Cl(2)](2) in aqueous buffer solution (pH 6.0) leads to the isolation of two pseudo-sandwich-type heteropolytungstates KNa(6)[(RuC(6)H(6))AsW(9)O(34)] x 17 H(2)O (As-1) and Na(7)[(RuC(6)H(6))PW(9)O(34)] x 14 H(2)O (P-2).",
+      "query_kind": "pair",
+      "query": "Ru substituted for W related inorganic frameworks crystal structure",
+      "evidence_id": "C61:L8"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C35",
+  "formula_B": "Cs2AgAsSe4",
+  "excerpts": [
+    {
+      "source_id": "21202442",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21202442/",
+      "publication_date": null,
+      "text": "K(0.8)Ag(0.2)Nb(4)O(9)AsO(4). The title compound, potassium silver tetra-niobium nona-oxide arsenate, K(0.8)Ag(0.2)Nb(4)O(9)AsO(4), was prepared by a solid-state reaction at 1183 K.",
+      "query_kind": "family",
+      "query": "As K2CuNbSe4 crystal structure solid state",
+      "evidence_id": "C35:L1"
+    },
+    {
+      "source_id": "21522808",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21522808/",
+      "publication_date": null,
+      "text": "K(0.12)Na(0.54)Ag(0.34)Nb(4)O(9)AsO(4). Potassium sodium silver tetra-niobium nona-oxide arsenate, K(0.12)Na(0.54)Ag(0.34)Nb(4)AsO(13), synthesized by solid-state reaction at 1123 K, adopts a three-dimensional framework delimiting tunnels running along [001] in which occupationally disordered sodium, silver, and potassium ions are located.",
+      "query_kind": "family",
+      "query": "As K2CuNbSe4 crystal structure solid state",
+      "evidence_id": "C35:L2"
+    },
+    {
+      "source_id": "27143407",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/27143407/",
+      "publication_date": null,
+      "text": "Mixed-Valent NaCu4Se3: A Two-Dimensional Metal. The new ternary copper selenide NaCu4Se3 crystallizes in the RbCd4As3 structure type with the trigonal space group R3\u0305m and lattice constants a = 4.0316(4) \u00c5 and c = 31.438(8) \u00c5.",
+      "query_kind": "family",
+      "query": "As K2CuNbSe4 crystal structure solid state",
+      "evidence_id": "C35:L3"
+    },
+    {
+      "source_id": "12739957",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12739957/",
+      "publication_date": null,
+      "text": "NaCl/KCl flux single crystal growth and crystal structure of the new quaternary mixed-metal pnictide: BaCuZn3As3. Synthesis and crystal structure of a new compound, BaCuZn(3)As(3), are reported.",
+      "query_kind": "family",
+      "query": "As K2CuNbSe4 crystal structure solid state",
+      "evidence_id": "C35:L4"
+    },
+    {
+      "source_id": "22589751",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22589751/",
+      "publication_date": null,
+      "text": "Non-centrosymmetric Na(3)Nb(4)As(3)O(19). A new non-centrosymmetric compound, tris-odium tetra-niobium triarsenic nona-deca-oxide, Na(3)Nb(4)As(3)O(19), has been synthesized by a solid-state reaction at 1123 K.",
+      "query_kind": "pair",
+      "query": "As substituted for Nb related inorganic frameworks crystal structure",
+      "evidence_id": "C35:L5"
+    },
+    {
+      "source_id": "21321738",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21321738/",
+      "publication_date": null,
+      "text": "On vanadate phosphate and arsenate framework structures based on the NbO-net. The recently described framework structure of composition [As(6)V(4+)(12)V(5+)(3) O(51)](-9) is analogous to previously known vanadate phosphate frameworks.",
+      "query_kind": "pair",
+      "query": "As substituted for Nb related inorganic frameworks crystal structure",
+      "evidence_id": "C35:L6"
+    },
+    {
+      "source_id": "23468669",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23468669/",
+      "publication_date": null,
+      "text": "Na2MoO2As2O7. Disodium molybdenum dioxide diarsenate, Na2MoO2As2O7, has been synthesized by a solid-state reaction.",
+      "query_kind": "pair",
+      "query": "As substituted for Nb related inorganic frameworks crystal structure",
+      "evidence_id": "C35:L7"
+    },
+    {
+      "source_id": "24860297",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24860297/",
+      "publication_date": null,
+      "text": "\u03b2-Nb9VO25. The title compound, nona-niobium vanadium penta-cosa-oxide, was prepared by a solid-state reaction at 1198 K.",
+      "query_kind": "pair",
+      "query": "As substituted for Nb related inorganic frameworks crystal structure",
+      "evidence_id": "C35:L8"
+    }
+  ]
+}

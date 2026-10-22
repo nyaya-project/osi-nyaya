@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C99",
+  "formula_B": "CsMnTl2Br5",
+  "excerpts": [
+    {
+      "source_id": "0808.1954v2",
+      "locator": "https://arxiv.org/abs/0808.1954",
+      "publication_date": null,
+      "text": "Intermediate Phase IV in Structural Phase Transitions of TlCoCl$_3$ The structural changes of TlCoCl$_3$ around phase IV (68 K $<T<$ 75 K) were studied by single-crystal neutron diffraction measurement. The present investigation revealed that a small but definite Bragg peak at (${1/6} {1/6} 2$) appeared only in phase IV.",
+      "query_kind": "family",
+      "query": "Tl Cs3(CoCl4)Cl crystal structure solid state",
+      "evidence_id": "C99:L1"
+    },
+    {
+      "source_id": "33209339",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/33209339/",
+      "publication_date": null,
+      "text": "The crystal structure of TlMgCl3 from 290 K to 725 K. The title compound, thallium magnesium trichloride, has been identified as a scintillator with both moderate gamma-stopping power and moderate light yield.",
+      "query_kind": "family",
+      "query": "Tl Cs3(CoCl4)Cl crystal structure solid state",
+      "evidence_id": "C99:L2"
+    },
+    {
+      "source_id": "11666428",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11666428/",
+      "publication_date": null,
+      "text": "CsTl: A New Example of Tetragonally Compressed Tl(6)(6)(-) Octahedra. Electronic Effects and Packing Requirements in the Diverse Structures of ATl (A = Li, Na, K, Cs).",
+      "query_kind": "family",
+      "query": "Tl Cs3(CoCl4)Cl crystal structure solid state",
+      "evidence_id": "C99:L3"
+    },
+    {
+      "source_id": "38974151",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/38974151/",
+      "publication_date": null,
+      "text": "Crystal structure of hexa-chloro-thallate within a caesium chloride-phospho-tungstate lattice Cs9(TlCl6)(PW12O40)2\u00b79CsCl. Crystal formation of caesium thallium chloride phospho-tungstates, Cs9(TlCl6)(PW12O40)2\u00b79CsCl showcases the ability to capture and crystallize octa-hedral complexes via the use of polyoxometalates (POMs).",
+      "query_kind": "family",
+      "query": "Tl Cs3(CoCl4)Cl crystal structure solid state",
+      "evidence_id": "C99:L4"
+    },
+    {
+      "source_id": "40641378",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/40641378/",
+      "publication_date": null,
+      "text": "Layered anion ordering in oxide chloride Ca2TlO3Cl. Single crystals and polycrystals of the novel compound Ca2TlO3Cl can be obtained by gas-phase and solid-state reactions, respectively.",
+      "query_kind": "family",
+      "query": "Tl Cs3(CoCl4)Cl crystal structure solid state",
+      "evidence_id": "C99:L5"
+    },
+    {
+      "source_id": "38416695",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/38416695/",
+      "publication_date": null,
+      "text": "[Tl7]7- Clusters in Mixed Alkali Metal Thallides Cs7.29K5.71Tl13 and Cs3.45K3.55Tl7. Investigations in the ternary system Cs-K-Tl resulted in the unexpected formation of new ternary thallides Cs7.29K5.71Tl13 and Cs3.45K3.55Tl7.",
+      "query_kind": "family",
+      "query": "Tl Cs3(CoCl4)Cl crystal structure solid state",
+      "evidence_id": "C99:L6"
+    },
+    {
+      "source_id": "22807695",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22807695/",
+      "publication_date": null,
+      "text": "Thallium(I) copper(I) thorium(IV) tris-elenide, TlCuThSe(3). Thallium(I) copper(I) thorium(IV) tris-elenide, TlCuThSe\u2083, crystallizes with four formula units in the space group Cmcm in the KCuZrS\u2083 structure type.",
+      "query_kind": "family",
+      "query": "Tl Cs3(CoCl4)Cl crystal structure solid state",
+      "evidence_id": "C99:L7"
+    },
+    {
+      "source_id": "35492267",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/35492267/",
+      "publication_date": null,
+      "text": "The channel structure of trithallium penta-anti-m-on-ate(V), Tl3Sb5O14. Single crystals of Tl3Sb5O14 were grown by solid-state reaction in a corundum crucible under air (1273 K, 12 h).",
+      "query_kind": "pair",
+      "query": "Tl substituted for Cs related inorganic frameworks crystal structure",
+      "evidence_id": "C99:L8"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C31",
+  "formula_B": "KTe4Au",
+  "excerpts": [
+    {
+      "source_id": "22364120",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22364120/",
+      "publication_date": null,
+      "text": "Gold derivatives of eight rare-earth-metal-rich tellurides: monoclinic R7Au2Te2 and orthorhombic R6AuTe2 types. Two series of rare-earth-metal (R) compounds, R(7)Au(2)Te(2) (R = Tb, Dy, Ho) and R(6)AuTe(2) (R = Sc, Y, Dy, Ho, Lu), have been synthesized by high-temperature techniques and characterized by X-ray diffraction analyses as monoclinic Er(7)Au(2)Te(2)-type and orthorhombic Sc(6)PdTe(2)-type structures, respectively.",
+      "query_kind": "family",
+      "query": "Au CsGdTe4 crystal structure solid state",
+      "evidence_id": "C31:L1"
+    },
+    {
+      "source_id": "28140577",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/28140577/",
+      "publication_date": null,
+      "text": "Network Formation by Condensed Tetrahedral [Au3Al] Units in Na2Au3Al: Crystal and Electronic Structure, Spectroscopic Investigations, and Physical Properties of an Ordered Ternary Auride. Na2Au3Al, the first experimentally prepared compound in the ternary Na-Au-Al system, crystallizes in the cubic crystal system with space group P4132 (a = 771.42(2) pm).",
+      "query_kind": "family",
+      "query": "Au CsGdTe4 crystal structure solid state",
+      "evidence_id": "C31:L2"
+    },
+    {
+      "source_id": "35225597",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/35225597/",
+      "publication_date": null,
+      "text": "Superconducting YAu3Si and Antiferromagnetic GdAu3Si with an Interpenetrating Framework Structure Built from 16-Atom Polyhedra. Investigations of reaction mixtures REx(Au0.79Si0.21)100-x (RE = Y and Gd) yielded the compounds REAu3Si which adopt a new structure type, referred to as GdAu3Si structure (tP80, P42/mnm, Z = 16, a = 12.8244(6)/12.7702(2) \u00c5, and c = 9.0883(8)/9.0456(2) \u00c5 for GdAu3Si/YAu3Si, respectively).",
+      "query_kind": "family",
+      "query": "Au CsGdTe4 crystal structure solid state",
+      "evidence_id": "C31:L3"
+    },
+    {
+      "source_id": "28872066",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/28872066/",
+      "publication_date": null,
+      "text": "Crystal structures and new perspectives on Y3Au4 and Y14Au51. Y3Au4 (triyttrium tetragold) and Y14Au51 (tetradecayttrium henpentacontagold), two binary representatives of Au-rich rare earth (R) systems crystallize with the space groups R-3 and P6/m, adopting the Pu3Pd4 and Gd14Ag51 structure types, respectively (Pearson symbols hR42 and hP65).",
+      "query_kind": "family",
+      "query": "Au CsGdTe4 crystal structure solid state",
+      "evidence_id": "C31:L4"
+    },
+    {
+      "source_id": "26270622",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26270622/",
+      "publication_date": null,
+      "text": "From the Ternary Eu(Au/In)2 and EuAu4(Au/In)2 with Remarkable Au/In Distributions to a New Structure Type: The Gold-Rich Eu5Au16(Au/In)6 Structure. The ternary Eu(Au/In)2 (EuAu(0.46)In(1.54(2))) (I), EuAu4(Au/In)2 (EuAu(4+x)In(2-x) with x = 0.75(2) (II), 0.93(2), and 1.03(2)), and Eu5Au16(Au/In)6 (Eu5Au(17.29)In(4.71(3))) (III) have been synthesized, and their structures were characterized by single-crystal X-ray diffraction.",
+      "query_kind": "family",
+      "query": "Au CsGdTe4 crystal structure solid state",
+      "evidence_id": "C31:L5"
+    },
+    {
+      "source_id": "30818287",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30818287/",
+      "publication_date": null,
+      "text": "Structural transition in AuAgTe4 under pressure. Gold is inert and forms very few compounds.",
+      "query_kind": "family",
+      "query": "Au CsGdTe4 crystal structure solid state",
+      "evidence_id": "C31:L6"
+    },
+    {
+      "source_id": "21991925",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21991925/",
+      "publication_date": null,
+      "text": "Synthesis, structure, and bonding of orthorhombic R5Au2Te2 (R = Lu, Ho, Dy, Y). Electronic structure of the binary parent valence compound Eu5As4.",
+      "query_kind": "family",
+      "query": "Au CsGdTe4 crystal structure solid state",
+      "evidence_id": "C31:L7"
+    },
+    {
+      "source_id": "30118218",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30118218/",
+      "publication_date": null,
+      "text": "Polyanionic Gold-Tin Bonding and Crystal Structure Preference in REAu1.5Sn0.5 (RE = La, Ce, Pr, Nd). During a systematic search of the RE-Au-Sn (RE = La, Ce, Pr, Nd) ternary phase space, a series of compounds with the general formula REAu1.5Sn0.5 have been identified.",
+      "query_kind": "family",
+      "query": "Au CsGdTe4 crystal structure solid state",
+      "evidence_id": "C31:L8"
+    }
+  ]
+}

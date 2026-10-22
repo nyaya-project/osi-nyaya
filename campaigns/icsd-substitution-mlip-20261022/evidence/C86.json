@@ -1,0 +1,69 @@
+{
+  "candidate_id": "C86",
+  "formula_B": "Cs2MoBr6",
+  "excerpts": [
+    {
+      "source_id": "21579594",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21579594/",
+      "publication_date": null,
+      "text": "Monopotassium monosodium hexa-hydrogen \u03b1-hexa-molybdoplatinate(IV) undeca-hydrate. The title compound, KNa[H(6)PtMo(6)O(24)]\u00b711H(2)O, contains a discrete hexa-molybdoplatinate(IV) [H(6)PtMo(6)O(24)](2-) poly-anion (1 symmetry), which has the highest level of protonation.",
+      "query_kind": "family",
+      "query": "Mo K2PtCl6 crystal structure solid state",
+      "evidence_id": "C86:L1"
+    },
+    {
+      "source_id": "16634614",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16634614/",
+      "publication_date": null,
+      "text": "Solid state molecular structures of transition metal hexafluorides. Single-crystal structure determinations of all nine transition metal hexafluorides (Mo, Tc, Ru, Rh, W, Re, Os, Ir, and Pt) at -140 degrees C are presented.",
+      "query_kind": "family",
+      "query": "Mo K2PtCl6 crystal structure solid state",
+      "evidence_id": "C86:L2"
+    },
+    {
+      "source_id": "37960977",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/37960977/",
+      "publication_date": null,
+      "text": "A new high-pressure polymorph of K2MoO2F4. In this paper, a new high-pressure (HP) polymorph of the otherwise known oxyfluoride K2MoO2F4 is presented.",
+      "query_kind": "family",
+      "query": "Mo K2PtCl6 crystal structure solid state",
+      "evidence_id": "C86:L3"
+    },
+    {
+      "source_id": "16471973",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/16471973/",
+      "publication_date": null,
+      "text": "Synthesis, structural evolution, and electrical properties of the novel Mo12 cluster compounds K(1+x)Mo12S14 (x = 0, 1.1, 1.3, and 1.6) with a tunnel structure. The new structural type (1) K(2.3)Mo12S14 was prepared by solid-state reaction at 1500 degrees C in a sealed molybdenum crucible.",
+      "query_kind": "family",
+      "query": "Mo K2PtCl6 crystal structure solid state",
+      "evidence_id": "C86:L4"
+    },
+    {
+      "source_id": "26396772",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26396772/",
+      "publication_date": null,
+      "text": "Crystal structure of undeca-potassium bis-[\u03b1-hemi-penta-hydrogen hexa-molybdoplatinate(IV)] dodeca-hydrate. The title compound, K11[\u03b1-Pt(\u03bc3-OH)2(\u03bc3-OH0.5)Mo6(\u03bc3-O)3(\u03bc2-O)6O12]2\u00b712H2O (simplified chemical formula K11[H2.5PtMo6O24]2\u00b712H2O), containing the well-known Anderson-type heteropolyoxomolybdate anion, was obtained by hydro-thermal reaction at pH = ca 6.0.",
+      "query_kind": "family",
+      "query": "Mo K2PtCl6 crystal structure solid state",
+      "evidence_id": "C86:L5"
+    },
+    {
+      "source_id": "22497564",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22497564/",
+      "publication_date": null,
+      "text": "On the structure of \u03b2-molybdenum dichloride. The structure of \u03b2-molybdenum dichloride is compared with that of TcCl(2) using EXAFS spectroscopy.",
+      "query_kind": "family",
+      "query": "Mo K2PtCl6 crystal structure solid state",
+      "evidence_id": "C86:L6"
+    },
+    {
+      "source_id": "21522816",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21522816/",
+      "publication_date": null,
+      "text": "Redetermination of MoPt(3)Si(4) from single-crystal data. The crystal structure of molybdenum triplatinum tetrasilicide, MoPt(3)Si(4), determined previously from powder diffraction data [Joubert et al.",
+      "query_kind": "family",
+      "query": "Mo K2PtCl6 crystal structure solid state",
+      "evidence_id": "C86:L7"
+    }
+  ]
+}

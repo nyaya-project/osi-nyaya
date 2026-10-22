@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C10",
+  "formula_B": "Sb3N2",
+  "excerpts": [
+    {
+      "source_id": "34100592",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/34100592/",
+      "publication_date": null,
+      "text": "Missing Piece in the Crystal Chemistry of Zn-Sb Secondary Phases in ZnO-Sb2O3-Bi2O3 Varistor Ceramics: Orthorhombic \u03b2-Zn7Sb2O12. An Experimental and Theoretical Study of the Crystal Structure and Its Thermal and Vibrational Spectroscopic Characterization.",
+      "query_kind": "family",
+      "query": "Sb Zn3As2 crystal structure solid state",
+      "evidence_id": "C10:L1"
+    },
+    {
+      "source_id": "19476316",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19476316/",
+      "publication_date": null,
+      "text": "Zn(5)Sb(4)In(2-delta) - a ternary derivative of thermoelectric zinc antimonides. Zn(5)Sb(4)In(2-delta) (delta = 0.15(3)) was synthesized in the form of millimeter-sized crystals from reaction mixtures containing excess zinc.",
+      "query_kind": "family",
+      "query": "Sb Zn3As2 crystal structure solid state",
+      "evidence_id": "C10:L2"
+    },
+    {
+      "source_id": "15600316",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15600316/",
+      "publication_date": null,
+      "text": "The structure of alpha-Zn4Sb3: ordering of the phonon-glass thermoelectric material beta-Zn4Sb3. beta-Zn4Sb3 is an outstanding thermoelectric material mainly due to its extraordinarily low thermal conductivity, which is similar to that of glasses.",
+      "query_kind": "family",
+      "query": "Sb Zn3As2 crystal structure solid state",
+      "evidence_id": "C10:L3"
+    },
+    {
+      "source_id": "26585771",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26585771/",
+      "publication_date": null,
+      "text": "Identification, structural characterization and transformations of the high-temperature Zn9-\u03b4Sb7 phase in the Zn-Sb system. The Zn9-\u03b4Sb7 phase has been identified via high-temperature powder diffraction studies.",
+      "query_kind": "family",
+      "query": "Sb Zn3As2 crystal structure solid state",
+      "evidence_id": "C10:L4"
+    },
+    {
+      "source_id": "23629889",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23629889/",
+      "publication_date": null,
+      "text": "Ternary K2Zn5As4-type pnictides Rb2Cd5As4 and Rb2Zn5Sb4, and the solid solution Rb2Cd5(As,Sb)4. Dirubidium pentacadmium tetraarsenide, Rb2Cd5As4, dirubidium pentazinc tetraantimonide, Rb2Zn5Sb4, and the solid-solution phase dirubidium pentacadmium tetra(arsenide/antimonide), Rb2Cd5(As,Sb)4 [or Rb2Cd5As3.00(1)Sb1.00(1)], have been prepared by direct reaction of the component elements at high temperature.",
+      "query_kind": "family",
+      "query": "Sb Zn3As2 crystal structure solid state",
+      "evidence_id": "C10:L5"
+    },
+    {
+      "source_id": "20426404",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20426404/",
+      "publication_date": null,
+      "text": "Isolated infinity1[ZnPn2]4- chains in the Zintl phases Ba2ZnPn2 (Pn = As, Sb, Bi)--synthesis, structure, and bonding. Reported are the synthesis of three new Zintl phases, Ba2ZnAs2 (I), Ba2ZnSb2 (II), Ba2ZnBi2 (III) and their structural characterization by single-crystal X-ray diffraction.",
+      "query_kind": "family",
+      "query": "Sb Zn3As2 crystal structure solid state",
+      "evidence_id": "C10:L6"
+    },
+    {
+      "source_id": "22272660",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22272660/",
+      "publication_date": null,
+      "text": "Ternary arsenides A2Zn2As3 (A = Sr, Eu) and their stuffed derivatives A2Ag2ZnAs3. The ternary arsenides A(2)Zn(2)As(3) and the quaternary derivatives A(2)Ag(2)ZnAs(3) (A = Sr, Eu) have been prepared by stoichiometric reaction of the elements at 800 \u00b0C.",
+      "query_kind": "family",
+      "query": "Sb Zn3As2 crystal structure solid state",
+      "evidence_id": "C10:L7"
+    },
+    {
+      "source_id": "26372068",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26372068/",
+      "publication_date": null,
+      "text": "Elusive \u03b2-Zn8Sb7: A New Zinc Antimonide Thermoelectric. Zn8Sb7 was theoretically predicted to exhibit superior thermoelectric properties; however a crystalline phase with a similar composition was only stabilized in the form of nanoparticles.",
+      "query_kind": "family",
+      "query": "Sb Zn3As2 crystal structure solid state",
+      "evidence_id": "C10:L8"
+    }
+  ]
+}

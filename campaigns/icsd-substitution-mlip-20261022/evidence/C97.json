@@ -1,0 +1,24 @@
+{
+  "candidate_id": "C97",
+  "formula_B": "Rb3CoF7",
+  "excerpts": [
+    {
+      "source_id": "33117586",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/33117586/",
+      "publication_date": null,
+      "text": "The novel high-pressure/high-temperature compound Co12P7 determined from synchrotron data. The structural properties of cobalt phosphides were investigated at high pressures and temperatures to better understand the behavior of metal-rich phosphides in Earth and planetary inter-iors.",
+      "query_kind": "family",
+      "query": "Co K3SiF7 crystal structure solid state",
+      "evidence_id": "C97:L1"
+    },
+    {
+      "source_id": "25844179",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25844179/",
+      "publication_date": null,
+      "text": "Crystal structure of langbeinite-related Rb0.743K0.845Co0.293Ti1.707(PO4)3. Potassium rubidium cobalt(II)/titanium(IV) tris-(orthophosphate), Rb0.743K0.845Co0.293Ti1.707(PO4)3, has been obtained using a high-temperature crystallization method.",
+      "query_kind": "pair",
+      "query": "Co substituted for Ti related inorganic frameworks crystal structure",
+      "evidence_id": "C97:L2"
+    }
+  ]
+}

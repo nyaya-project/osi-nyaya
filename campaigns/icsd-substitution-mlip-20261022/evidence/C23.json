@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C23",
+  "formula_B": "MnBe6N5",
+  "excerpts": [
+    {
+      "source_id": "20082383",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/20082383/",
+      "publication_date": null,
+      "text": "A first-principles study on the existence and structures of the lighter alkaline-earth pernitrides. The lighter alkaline-earth pernitrides BeN(2), MgN(2), and CaN(2) have been structurally predicted by a series of density-functional (GGA/PBE/PAW) electronic-structure calculations.",
+      "query_kind": "family",
+      "query": "Be Ca6GaN5 crystal structure solid state",
+      "evidence_id": "C23:L1"
+    },
+    {
+      "source_id": "29575174",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29575174/",
+      "publication_date": null,
+      "text": "Sr[BeSi2 N4 ]:Eu2+ /Ce3+ and Eu[BeSi2 N4 ]: Nontypical Luminescence in Highly Condensed Nitridoberyllosilicates. M[BeSi2 N4 ] (M=Sr,Eu), crystallizing in the hexagonal space group P6\u203e 2c, was synthesized from Sr(NH2 )2 , Be3 N2 , and \"Si(NH)2 \" in W crucibles under a N2 atmosphere in a radio-frequency furnace.",
+      "query_kind": "family",
+      "query": "Be Ca6GaN5 crystal structure solid state",
+      "evidence_id": "C23:L2"
+    },
+    {
+      "source_id": "38963036",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/38963036/",
+      "publication_date": null,
+      "text": "Synthesis and Comprehensive Studies of Be-IV-N2 (IV=Si, Ge): Solving the Mystery of Wurtzite-Type Pmc21 Structures. The research for wurtzite-type ternary nitride semiconductors containing earth abundant elements with a stoichiometry of 1 : 1 : 2 was focused on metals like Mg or Zn, so far.",
+      "query_kind": "family",
+      "query": "Be Ca6GaN5 crystal structure solid state",
+      "evidence_id": "C23:L3"
+    },
+    {
+      "source_id": "39512078",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/39512078/",
+      "publication_date": null,
+      "text": "Combination of Ambient and High-Temperature Beryllium Nitride Motifs in W2Be4N5 and W4Be8N9. Compounds of transition metals and beryllium have a wide range of applications, from everyday tools to high tech applications.",
+      "query_kind": "family",
+      "query": "Be Ca6GaN5 crystal structure solid state",
+      "evidence_id": "C23:L4"
+    },
+    {
+      "source_id": "21828491",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21828491/",
+      "publication_date": null,
+      "text": "A density functional study of the high-pressure chemistry of MSiN(2)(M = Be, Mg, Ca): prediction of high-pressure phases and examination of pressure-induced decomposition. Normal pressure modifications and tentative high-pressure phases of the nitridosilicates MSiN(2) with M = Be, Mg, or Ca have been thoroughly studied by density functional methods.",
+      "query_kind": "family",
+      "query": "Be Ca6GaN5 crystal structure solid state",
+      "evidence_id": "C23:L5"
+    },
+    {
+      "source_id": "31243286",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/31243286/",
+      "publication_date": null,
+      "text": "Penta- and hexa-coordinated beryllium and phosphorus in high-pressure modifications of CaBe2P2O8. Beryllium oxides have been extensively studied due to their unique chemical properties and important technological applications.",
+      "query_kind": "pair",
+      "query": "Be substituted for Ca related inorganic frameworks crystal structure",
+      "evidence_id": "C23:L6"
+    },
+    {
+      "source_id": "24854837",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24854837/",
+      "publication_date": null,
+      "text": "Ca3Be6B5O16F: the first alkaline-earth beryllium borate with fluorine anions. The first all-alkaline-earth beryllium borate with fluorine anions, Ca3Be6B5O16F, was synthesized by a spontaneous crystallization flux method using LiF-B2O3 as the flux.",
+      "query_kind": "pair",
+      "query": "Be substituted for Ca related inorganic frameworks crystal structure",
+      "evidence_id": "C23:L7"
+    },
+    {
+      "source_id": "25084149",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25084149/",
+      "publication_date": null,
+      "text": "Ca3Na4LiBe4B10O24F: a new beryllium borate with a unique beryl borate \u221e(2)[Be8B16O40F2] layer intrabridged by [B12O24] groups. A novel beryllium borate, Ca3Na4LiBe4B10O24F, has been discovered.",
+      "query_kind": "pair",
+      "query": "Be substituted for Ca related inorganic frameworks crystal structure",
+      "evidence_id": "C23:L8"
+    }
+  ]
+}

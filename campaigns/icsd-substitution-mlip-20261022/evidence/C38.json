@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C38",
+  "formula_B": "CdHgGeSe4",
+  "excerpts": [
+    {
+      "source_id": "36063374",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/36063374/",
+      "publication_date": null,
+      "text": "Crystal structure, electronic structure, and optical properties of the novel Li4CdGe2S7, a wide-bandgap quaternary sulfide with a polar structure derived from lonsdaleite. The novel quaternary thiogermanate Li4CdGe2S7 (tetralithium cadmium digermanium heptasulfide) was discovered from a solid-state reaction at 750 \u00b0C.",
+      "query_kind": "family",
+      "query": "Cd CdAl2S4 crystal structure solid state",
+      "evidence_id": "C38:L1"
+    },
+    {
+      "source_id": "1310.3228v1",
+      "locator": "https://arxiv.org/abs/1310.3228",
+      "publication_date": null,
+      "text": "First-principles calculations of the electronic, optical and elastic properties of CdIn2S4 spinel at the ambient and elevated pressure CdIn2S4 thiospinel was studied by means of the first principles calculations in both generalized gradient and local density approximations (GGA and LDA). The structural, electronic, optical and elastic properties were calculated in the pressure range from 0 to 10 GPa, below the pressure of phase transition for this compound.",
+      "query_kind": "family",
+      "query": "Cd CdAl2S4 crystal structure solid state",
+      "evidence_id": "C38:L2"
+    },
+    {
+      "source_id": "23125567",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23125567/",
+      "publication_date": null,
+      "text": "Redetermination of Ba(2)CdTe(3) from single-crystal X-ray data. The previous structure determination of the title compound, dibarium tritelluridocadmate, was based on powder X-ray diffraction data [Wang & DiSalvo (1999 \u25b6).",
+      "query_kind": "family",
+      "query": "Cd CdAl2S4 crystal structure solid state",
+      "evidence_id": "C38:L3"
+    },
+    {
+      "source_id": "30384471",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30384471/",
+      "publication_date": null,
+      "text": "Exploratory Work in the Quaternary System of Ca\u207bEu\u207bCd\u207bSb: Synthesis, Crystal, and Electronic Structures of New Zintl Solid Solutions. Investigation of the quaternary system, Ca\u207bEu\u207bCd\u207bSb, led to a discovery of the new solid solutions, Ca1-xEuxCd\u2082Sb\u2082, with the CaAl\u2082Si\u2082 structure type (x \u2248 0.3\u207b0.9, hP5, P 3 \u00af m1, a = 4.6632(5)\u207b4.6934(3) \u00c5, c = 7.630(1)\u207b7.7062(7) \u00c5), Ca2-xEuxCdSb\u2082 with the Yb\u2082CdSb\u2082 type (x \u2248 0.6, oS20, Cmc2\u2081, a = 4.646(2) \u00c5, b = 17.733(7) \u00c5, c = 7.283(3) \u00c5), and Eu11-xCaxCd\u2086Sb12 with the Sr11Cd\u2086Sb12 type (x \u2248 1, mS58, C2/m, a = 32.407(4) \u00c5, b = 4.7248(5) \u00c5, c = 12.377(1) \u00c5, \u03b2 = 109.96(1)\u00b0).",
+      "query_kind": "family",
+      "query": "Cd CdAl2S4 crystal structure solid state",
+      "evidence_id": "C38:L4"
+    },
+    {
+      "source_id": "21753925",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21753925/",
+      "publication_date": null,
+      "text": "Cu(2)ZnSiS(4). Single crystals of Cu(2)ZnSiS(4), dicopper(I) zinc silicon tetrasulfide, have been prepared via high-temperature solid-state synthesis.",
+      "query_kind": "family",
+      "query": "Cd CdAl2S4 crystal structure solid state",
+      "evidence_id": "C38:L5"
+    },
+    {
+      "source_id": "29278325",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29278325/",
+      "publication_date": null,
+      "text": "An Unusual Triple-Decker Variant of the Tetragonal BaAl4-Structure Type: Synthesis, Structural Characterization, and Chemical Bonding of Sr3Cd8Ge4 and Eu3Cd8Ge4. Reported are the synthesis and the crystal structures of the new ternary phases Sr3Cd8Ge4 and Eu3Cd8Ge4.",
+      "query_kind": "family",
+      "query": "Cd CdAl2S4 crystal structure solid state",
+      "evidence_id": "C38:L6"
+    },
+    {
+      "source_id": "19621873",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19621873/",
+      "publication_date": null,
+      "text": "Second-harmonic generation and crystal structure of the diamond-like semiconductors Li(2)CdGeS(4) and Li(2)CdSnS(4). The semiconductors Li(2)CdGeS(4) and Li(2)CdSnS(4), which are of interest for their nonlinear optical properties, were synthesized using high-temperature solid-state and polychalcogenide flux syntheses.",
+      "query_kind": "family",
+      "query": "Cd CdAl2S4 crystal structure solid state",
+      "evidence_id": "C38:L7"
+    },
+    {
+      "source_id": "0809.4620v1",
+      "locator": "https://arxiv.org/abs/0809.4620",
+      "publication_date": null,
+      "text": "High-pressure x-ray diffraction study on the structure and phase transitions of the defect-stannite ZnGa2Se4 and defect-chalcopyrite CdGa2S4 X-ray diffraction measurements on the sphalerite-derivatives ZnGa2Se4 and CdGa2S4 have been performed upon compression up to 23 GPa in a diamond-anvil cell. ZnGa2Se4 exhibits a defect tetragonal stannite-type structure (I-42m) up to 15.5 GPa and in the range from 15.5 GPa to 18.5 GPa the low-pressure phase coexists with a high-pressure phase, which remains stable up to 23 GPa.",
+      "query_kind": "family",
+      "query": "Cd CdAl2S4 crystal structure solid state",
+      "evidence_id": "C38:L8"
+    }
+  ]
+}

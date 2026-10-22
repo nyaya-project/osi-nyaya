@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C44",
+  "formula_B": "CrS2",
+  "excerpts": [
+    {
+      "source_id": "23640472",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23640472/",
+      "publication_date": null,
+      "text": "Crystal structure and magnetic properties of Cr3Te5O13Cl3. A new chromium tellurite oxochloride, Cr3Te5O13Cl3, has been prepared by solid-state reaction and the crystal structure was determined by single crystal X-ray diffraction.",
+      "query_kind": "family",
+      "query": "Cr CdCl2 crystal structure solid state",
+      "evidence_id": "C44:L1"
+    },
+    {
+      "source_id": "18613682",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18613682/",
+      "publication_date": null,
+      "text": "(CrCl3)3@2[C4mim][OMe]-molecular cluster-type chromium(III) chloride stabilized in a salt matrix. In [C4mim]2[CrCl3]3[OMe]2 molecular (CrCl3)3 units are embedded in a salt matrix of [C4mim][OMe].",
+      "query_kind": "family",
+      "query": "Cr CdCl2 crystal structure solid state",
+      "evidence_id": "C44:L2"
+    },
+    {
+      "source_id": "19606810",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19606810/",
+      "publication_date": null,
+      "text": "Alpha-CrCl2 under pressure: prediction of a metallic phase transition. The volume-pressure behavior for the alpha-CrCl(2) phase is studied at the density functional level of theory.",
+      "query_kind": "family",
+      "query": "Cr CdCl2 crystal structure solid state",
+      "evidence_id": "C44:L3"
+    },
+    {
+      "source_id": "25233033",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/25233033/",
+      "publication_date": null,
+      "text": "Superposition model study of Cr3+ doped tetra methyl ammonium cadmium chloride. The zero field splitting parameter D of Cr(3+) doped in tetra methyl ammonium cadmium chloride (TMCC) is calculated with perturbation formula using microscopic spin Hamiltonian theory and crystal field parameters from superposition model.",
+      "query_kind": "family",
+      "query": "Cr CdCl2 crystal structure solid state",
+      "evidence_id": "C44:L4"
+    },
+    {
+      "source_id": "11670169",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11670169/",
+      "publication_date": null,
+      "text": "Cr(3)Si(2)O(7).(1)/(4)MX (MX = NaCl, NaBr, KCl, KBr): A Cage Structure Built from [Cr(II)O(4)] and [Si(2)O(7)] Units(1). The new compounds Cr(3)Si(2)O(7).(1)/(4)MX (MX = NaCl, NaBr, KCl, KBr) form a series of chromous disilicates hosting alkali-metal halides in a framework structure.",
+      "query_kind": "family",
+      "query": "Cr CdCl2 crystal structure solid state",
+      "evidence_id": "C44:L5"
+    },
+    {
+      "source_id": "2201.08088v1",
+      "locator": "https://arxiv.org/abs/2201.08088",
+      "publication_date": null,
+      "text": "Crystal structure evolution in the van der Waals transition metal trihalides Most transition-metal trihalides are dimorphic. The representative chromium-based triad, CrCl3, CrBr3, CrI3, is characterized by the low-temperature phase adopting the trigonal BiI3 type while the structure of the high-temperature phase is monoclinic of AlCl3 type (C2/m).",
+      "query_kind": "family",
+      "query": "Cr CdCl2 crystal structure solid state",
+      "evidence_id": "C44:L6"
+    },
+    {
+      "source_id": "0806.1411v1",
+      "locator": "https://arxiv.org/abs/0806.1411",
+      "publication_date": null,
+      "text": "Ab initio study of bilateral doping within the MoS2-NbS2 system We present a systematic study on the stability and the structural and electronic properties of mixed molybdenum-niobium disulphides. Using density functional theory we investigate bilateral doping with up to 25 % of MoS2 (NbS2) by Nb (Mo) atoms, focusing on the precise arrangement of dopants within the host lattices.",
+      "query_kind": "source",
+      "query": "\"NbS2\" substitution doping crystal structure",
+      "evidence_id": "C44:L7"
+    },
+    {
+      "source_id": "34739204",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/34739204/",
+      "publication_date": null,
+      "text": "Experimental and Theoretical Study of Possible Collective Electronic States in Exfoliable Re-Doped NbS2. Metallic transition-metal dichalcogenides (TMDs) are rich material systems in which the interplay between strong electron-electron and electron-phonon interactions often results in a variety of collective electronic states, such as charge density waves (CDWs) and superconductivity.",
+      "query_kind": "source",
+      "query": "\"NbS2\" substitution doping crystal structure",
+      "evidence_id": "C44:L8"
+    }
+  ]
+}

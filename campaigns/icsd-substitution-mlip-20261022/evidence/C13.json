@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C13",
+  "formula_B": "BaScP",
+  "excerpts": [
+    {
+      "source_id": "32939291",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/32939291/",
+      "publication_date": null,
+      "text": "The crystal structure of KScP2O7. Single crystals of KScP2O7, potassium scandium diphosphate, were grown in a borate flux.",
+      "query_kind": "family",
+      "query": "Sc KZnP crystal structure solid state",
+      "evidence_id": "C13:L1"
+    },
+    {
+      "source_id": "27078201",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/27078201/",
+      "publication_date": null,
+      "text": "Scandium Selenophosphates: Structure and Properties of K4Sc2(PSe4)2(P2Se6). The new compound K4Sc2P4Se14 was synthesized via the polychalcogenide flux method.",
+      "query_kind": "family",
+      "query": "Sc KZnP crystal structure solid state",
+      "evidence_id": "C13:L2"
+    },
+    {
+      "source_id": "14731005",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/14731005/",
+      "publication_date": null,
+      "text": "R(6)TT'(2), new variants of the Fe(2)P structure type. Sc(6)TTe(2) (T = Ru, Os, Rh, Ir), Lu(6)MoSb(2), and the anti-typic Sc(6)Te(0.80)Bi(1.68).",
+      "query_kind": "family",
+      "query": "Sc KZnP crystal structure solid state",
+      "evidence_id": "C13:L3"
+    },
+    {
+      "source_id": "17257019",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17257019/",
+      "publication_date": null,
+      "text": "New stannide ScAgSn: determination of the superstructure via two-dimensional 45Sc solid state NMR. The new stannide ScAgSn was synthesized by induction melting of the elements in a sealed tantalum tube and subsequent annealing.",
+      "query_kind": "family",
+      "query": "Sc KZnP crystal structure solid state",
+      "evidence_id": "C13:L4"
+    },
+    {
+      "source_id": "11198872",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11198872/",
+      "publication_date": null,
+      "text": "Sc6MTe2 (M = Mn, Fe, Co, Ni): members of the flexible Zr6CoAl2-type family of compounds. The compounds Sc6MTe2 (M = Mn, Fe, Co, Ni) have been prepared by high-temperature solid-state techniques and their structures determined to be hexagonal P62m (No.",
+      "query_kind": "family",
+      "query": "Sc KZnP crystal structure solid state",
+      "evidence_id": "C13:L5"
+    },
+    {
+      "source_id": "21578541",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21578541/",
+      "publication_date": null,
+      "text": "Sodium scandium diphosphate, NaScP(2)O(7), isotypic with \u03b1-NaTi(III)P(2)O(7). Crystals of the title compound, NaScP(2)O(7), were grown by a flux method.",
+      "query_kind": "family",
+      "query": "Sc KZnP crystal structure solid state",
+      "evidence_id": "C13:L6"
+    },
+    {
+      "source_id": "23377672",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23377672/",
+      "publication_date": null,
+      "text": "Copper scandium zirconium phosphate: occupancy of the M1 and M2 sites in the temperature range 100-300 K. The title compound, with nominal formula Cu(2)ScZr(PO(4))(3), has a beige coloration and displays fast Cu(+) cation conduction at elevated temperatures.",
+      "query_kind": "pair",
+      "query": "Sc substituted for Cu related inorganic frameworks crystal structure",
+      "evidence_id": "C13:L7"
+    },
+    {
+      "source_id": "18163612",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18163612/",
+      "publication_date": null,
+      "text": "Synthesis, structure, and bonding of Sc4MgxCu15-xGa approximately 7.5 (x=0, 0.5). Two incommensurately modulated scandium substitution derivatives of cubic Mg2Cu6Ga5.",
+      "query_kind": "pair",
+      "query": "Sc substituted for Cu related inorganic frameworks crystal structure",
+      "evidence_id": "C13:L8"
+    }
+  ]
+}

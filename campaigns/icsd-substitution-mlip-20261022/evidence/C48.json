@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C48",
+  "formula_B": "Gd2SnO6",
+  "excerpts": [
+    {
+      "source_id": "22807698",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/22807698/",
+      "publication_date": null,
+      "text": "Redetermination of [Gd(NO\u2083)\u2083(H\u2082O)\u2084]\u00b72H\u2082O. The crystal structure of the title compound, tetra-aqua-tris-(nitrato-\u03ba\u00b2O,O')gadolinium(III) dihydrate, was redetermined from single-crystal X-ray data.",
+      "query_kind": "family",
+      "query": "Gd Sr(NO3)2 crystal structure solid state",
+      "evidence_id": "C48:L1"
+    },
+    {
+      "source_id": "37339514",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/37339514/",
+      "publication_date": null,
+      "text": "Sr14.06Gd14.63(BO3)24: A Gadolinium-Rich Borate with Magnetic Refrigeration Performance. A single crystal of Sr14.06Gd14.63(BO3)24 has been successfully grown through a high-temperature solution technique with K2O-KF-B2O3 as the flux.",
+      "query_kind": "family",
+      "query": "Gd Sr(NO3)2 crystal structure solid state",
+      "evidence_id": "C48:L2"
+    },
+    {
+      "source_id": "21588471",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21588471/",
+      "publication_date": null,
+      "text": "K(3)Gd(PO(4))(2). The title compound, tripotassium gadolinium(III) bis-[ortho-phosphate(V)], was synthesized by a high-temperature solution reaction.",
+      "query_kind": "family",
+      "query": "Gd Sr(NO3)2 crystal structure solid state",
+      "evidence_id": "C48:L3"
+    },
+    {
+      "source_id": "21588551",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21588551/",
+      "publication_date": null,
+      "text": "Poly[[tris-(\u03bc(2)-4,4'-bipyridine N,N'-di-oxide)hexa-nitratodigadolinium(III)] dichloro-methane disolvate]. The title one-dimensional coordination network, {[Gd(2)(NO(3))(6)(C(10)H(8)N(2)O(2))(3)]\u00b72CH(2)Cl(2)}(n), is isostructural with the previously reported Tb and Tl coordination networks and to its Eu analog.",
+      "query_kind": "family",
+      "query": "Gd Sr(NO3)2 crystal structure solid state",
+      "evidence_id": "C48:L4"
+    },
+    {
+      "source_id": "15930654",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15930654/",
+      "publication_date": null,
+      "text": "Rubidium gadolinium bis(tungstate). The structure of rubidium gadolinium bis(tungstate), RbGd(WO4)2, has been determined.",
+      "query_kind": "family",
+      "query": "Gd Sr(NO3)2 crystal structure solid state",
+      "evidence_id": "C48:L5"
+    },
+    {
+      "source_id": "38333117",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/38333117/",
+      "publication_date": null,
+      "text": "Crystal structure of a layered phosphate molybdate K2Gd(PO4)(MoO4). The title compound dipotassium gadolinium(III) phosphate(V) molybdate(VI), K2Gd(PO4)(MoO4), was synthesized from a high-temperature melt starting from GdF3 as a source of gadolinium.",
+      "query_kind": "family",
+      "query": "Gd Sr(NO3)2 crystal structure solid state",
+      "evidence_id": "C48:L6"
+    },
+    {
+      "source_id": "17198429",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17198429/",
+      "publication_date": null,
+      "text": "Synthesis, crystal structure, and optical properties of LiGd5P2O13, a layered lithium gadolinium phosphate containing one-dimensional Li chains. A lithium gadolinium phosphate crystal, LiGd5P2O13, has been synthesized by a high temperature solution reaction and solved by single-crystal X-ray diffraction data.",
+      "query_kind": "family",
+      "query": "Gd Sr(NO3)2 crystal structure solid state",
+      "evidence_id": "C48:L7"
+    },
+    {
+      "source_id": "32583837",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/32583837/",
+      "publication_date": null,
+      "text": "A new non-centrosymmetric Gd-based borate crystal Rb7SrGd2(B5O10)3: growth, structure, and nonlinear optical and magnetic properties. A new non-centrosymmetric borate crystal, Rb7SrGd2(B5O10)3, was successfully grown via the spontaneous nucleation technique from the Rb2O-B2O3-SrO self-flux system.",
+      "query_kind": "family",
+      "query": "Gd Sr(NO3)2 crystal structure solid state",
+      "evidence_id": "C48:L8"
+    }
+  ]
+}

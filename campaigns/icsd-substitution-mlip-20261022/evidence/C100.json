@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C100",
+  "formula_B": "Cs2NbAgBr6",
+  "excerpts": [
+    {
+      "source_id": "17944466",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/17944466/",
+      "publication_date": null,
+      "text": "Cation-anion interactions and polar structures in the solid state. Complicated structures where oxygen and fluorine are found together in one framework, where deviations from Pauling's second crystal rule (PSCR) are expected, often result in structures with important physical properties.",
+      "query_kind": "family",
+      "query": "Nb K2NaAlF6 crystal structure solid state",
+      "evidence_id": "C100:L1"
+    },
+    {
+      "source_id": "21522231",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21522231/",
+      "publication_date": null,
+      "text": "Al(0.5)Nb(1.5)(PO(4))(3). Single crystals of the title compound, aluminium niobium triphosphate, Al(0.5)Nb(1.5)(PO(4))(3), have been synthesized by a high-temperature reaction in a platinium crucible.",
+      "query_kind": "family",
+      "query": "Nb K2NaAlF6 crystal structure solid state",
+      "evidence_id": "C100:L2"
+    },
+    {
+      "source_id": "28186741",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/28186741/",
+      "publication_date": null,
+      "text": "The Crystal Structure of Ba3Nb2O8 Revisited: A Neutron Diffraction and Solid-State NMR Study. The structure of Ba3Nb2O8 has been investigated using high resolution neutron powder diffraction.",
+      "query_kind": "family",
+      "query": "Nb K2NaAlF6 crystal structure solid state",
+      "evidence_id": "C100:L3"
+    },
+    {
+      "source_id": "26370059",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26370059/",
+      "publication_date": null,
+      "text": "Differences in XPS and solid state NMR spectral data and thermo-chemical properties of iso-structural compounds in the series KTaF6, K2TaF7 and K3TaF8 and KNbF6, K2NbF7 and K3NbF8. A series of compounds KTaF6, K2TaF7 and K3TaF8 and KNbF6, K2NbF7 and K3NbF8 was investigated by means of XPS and MAS NMR spectroscopy and DSC measurements.",
+      "query_kind": "family",
+      "query": "Nb K2NaAlF6 crystal structure solid state",
+      "evidence_id": "C100:L4"
+    },
+    {
+      "source_id": "12050409",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12050409/",
+      "publication_date": null,
+      "text": "K(2)SrNb(6)Cl(18), dipotassium strontium hexaniobium octadecachloride. The structure of dipotassium strontium hexaniobium octadecachloride is based on [Nb(6)Cl(i)(12)Cl(a)(6)](4-) units (i and a denote 'inner' and 'outer' ligands, respectively), which have crystallographically imposed -3 symmetry, linked together by K(+) and Sr(2+) cations.",
+      "query_kind": "family",
+      "query": "Nb K2NaAlF6 crystal structure solid state",
+      "evidence_id": "C100:L5"
+    },
+    {
+      "source_id": "30869691",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30869691/",
+      "publication_date": null,
+      "text": "Enhanced visible light absorption for lead-free double perovskite Cs2AgSbBr6. In a search for Pb-free photovoltaic materials, a double perovskite Cs2AgSbBr6 with an indirect optical bandgap of 1.64 eV has been synthesized.",
+      "query_kind": "source",
+      "query": "\"Cs2AgSbBr6\" substitution doping crystal structure",
+      "evidence_id": "C100:L6"
+    },
+    {
+      "source_id": "12154280",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/12154280/",
+      "publication_date": null,
+      "text": "KMo5O13 and KNb(1.76)Sb(3.24)O13. The title compounds, potassium pentamolybdenum oxide, KMo(5)O(13), and potassium niobate antimonate or potassium niobium antimony oxide (1/1.76/3.24), KNb(1.76)Sb(3.24)O(13), were synthesized by solid-state reactions and are isomorphous in space group Cmcm.",
+      "query_kind": "pair",
+      "query": "Nb substituted for Sb related inorganic frameworks crystal structure",
+      "evidence_id": "C100:L7"
+    },
+    {
+      "source_id": "24860297",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/24860297/",
+      "publication_date": null,
+      "text": "\u03b2-Nb9VO25. The title compound, nona-niobium vanadium penta-cosa-oxide, was prepared by a solid-state reaction at 1198 K.",
+      "query_kind": "pair",
+      "query": "Nb substituted for Sb related inorganic frameworks crystal structure",
+      "evidence_id": "C100:L8"
+    }
+  ]
+}

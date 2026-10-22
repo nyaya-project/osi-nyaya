@@ -1,0 +1,33 @@
+{
+  "candidate_id": "C22",
+  "formula_B": "Fe2As2Pt",
+  "excerpts": [
+    {
+      "source_id": "35670830",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/35670830/",
+      "publication_date": null,
+      "text": "Metal-Rich Phosphides Obtained from the Lead Flux: Synthesis, Crystal, and Electronic Structure of Sr5Pt12P9 and BaPt3P2. Using a high-temperature ampoule technique and lead metal as a flux, we have grown single crystals and determined crystal structures from single-crystal X-ray diffraction data of two metal-rich phosphides, Sr5Pt12P9 (P 21/m, a = 6.1472(3) \u00c5, b = 25.1713(13) \u00c5, c = 6.4635(3) \u00c5, \u03b2 = 99.604(2)\u00b0, Z = 2, R1 = 0.0326, wR2 = 0.0786) and BaPt3P2 (P 212121, a = 6.3605(6) \u00c5, b = 6.8541(7) \u00c5, c = 11.3493(12) \u00c5, Z = 4, R1 = 0.0231, wR2 = 0.0501).",
+      "query_kind": "family",
+      "query": "Pt BaZn2P2 crystal structure solid state",
+      "evidence_id": "C22:L1"
+    },
+    {
+      "source_id": "15506777",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15506777/",
+      "publication_date": null,
+      "text": "Covalently bonded 1(infinity)[Pt]- chains in BaPt: extension of the Zintl-Klemm concept to anionic transition metals? BaPt has been synthesized by reaction of a 1:1 mixture of Ba and Pt at 1223 K in argon and characterized by single-crystal X-ray structure determination and electrical resistivity and magnetic susceptibility measurements.",
+      "query_kind": "family",
+      "query": "Pt BaZn2P2 crystal structure solid state",
+      "evidence_id": "C22:L2"
+    },
+    {
+      "source_id": "38412499",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/38412499/",
+      "publication_date": null,
+      "text": "Structural Properties of Some Vacancy-Ordered Platinum Halide Perovskites. The structural changes that accompany the dehydration of Na2PtX6\u00b76H2O (X = Cl, Br) were studied using in situ variable temperature synchrotron X-ray diffraction.",
+      "query_kind": "pair",
+      "query": "Pt substituted for Rb related inorganic frameworks crystal structure",
+      "evidence_id": "C22:L3"
+    }
+  ]
+}

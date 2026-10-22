@@ -1,0 +1,18 @@
+{
+  "campaign_id": "icsd-substitution-mlip-20261022",
+  "target_pool_size": 99,
+  "status": "human_authorized_99_candidate_pool",
+  "accepted_original_candidates": 94,
+  "accepted_validated_topups": [
+    "C14",
+    "C44",
+    "C55",
+    "C88",
+    "C99"
+  ],
+  "rejected_topup_candidate_ids": [
+    "C58"
+  ],
+  "final_candidate_count": 99,
+  "note": "The remaining invalid top-up was not repaired or included after explicit human authorization to proceed with 99 candidates."
+}

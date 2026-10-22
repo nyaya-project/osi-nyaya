@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C64",
+  "formula_B": "Cs2Na(MnTe2)2",
+  "excerpts": [
+    {
+      "source_id": "30074388",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30074388/",
+      "publication_date": null,
+      "text": "Synthesis, Crystal Structure, and Optical Properties of Noncentrosymmetric Na2ZnSnS4. A new chalcogenide Na2ZnSnS4 has been successfully synthesized by using Na2S2 as reactive flux.",
+      "query_kind": "family",
+      "query": "Na Cs2Zn3S4 crystal structure solid state",
+      "evidence_id": "C64:L1"
+    },
+    {
+      "source_id": "30345442",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/30345442/",
+      "publication_date": null,
+      "text": "Structural insights into T2-cluster-containing chalcogenides with vertex-, edge- and face-sharing connection modes of NaQ6 ligands: Na3ZnMIIIQ4 (MIII = In, Ga; Q = S, Se). A series of quaternary chalcogenides, Na3ZnMIIIQ4 (MIII = In, Ga; Q = S, Se), were successfully synthesized for the first time through a high temperature solid-state reaction method.",
+      "query_kind": "family",
+      "query": "Na Cs2Zn3S4 crystal structure solid state",
+      "evidence_id": "C64:L2"
+    },
+    {
+      "source_id": "35262155",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/35262155/",
+      "publication_date": null,
+      "text": "Na4Ga8S14: a Ga-enriched wide band gap ternary alkali-metal sulfide with unique [Ga12S42] 12-membered rings. A Ga-enriched ternary alkali-metal sulfide Na4Ga8S14 has been synthesized by a high temperature solid-state reaction.",
+      "query_kind": "family",
+      "query": "Na Cs2Zn3S4 crystal structure solid state",
+      "evidence_id": "C64:L3"
+    },
+    {
+      "source_id": "37338853",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/37338853/",
+      "publication_date": null,
+      "text": "Mechanochemical Synthesis and Structure of the Alkali Metal Magnesium Chalcogenide Na6MgS4. The new binary sodium magnesium sulfide was prepared by the mechanochemical synthesis route from Na2S and MgS as starting materials.",
+      "query_kind": "family",
+      "query": "Na Cs2Zn3S4 crystal structure solid state",
+      "evidence_id": "C64:L4"
+    },
+    {
+      "source_id": "19621968",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19621968/",
+      "publication_date": null,
+      "text": "Synthesis and characterization of Na5M(2+x)Sn(10-x) (x approximately = 0.5, M = Zn, Hg)--a doped tetrahedral framework structure. Two homologous and isostructural compounds Na(5)M(2+x)Sn(10-x) (M = Zn, Hg) were obtained by direct reaction of the elements at high temperature.",
+      "query_kind": "family",
+      "query": "Na Cs2Zn3S4 crystal structure solid state",
+      "evidence_id": "C64:L5"
+    },
+    {
+      "source_id": "29537828",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29537828/",
+      "publication_date": null,
+      "text": "Thioaluminogermanate M(AlS2)(GeS2)4 ( M = Na, Ag, Cu): Synthesis, Crystal Structures, Characterization, Ion-Exchange and Solid-State 27Al and 23Na NMR Spectroscopy. The new thioaluminogermanate Na(AlS2)(GeS2)4 (1) was successfully synthesized by a direct combination reaction.",
+      "query_kind": "family",
+      "query": "Na Cs2Zn3S4 crystal structure solid state",
+      "evidence_id": "C64:L6"
+    },
+    {
+      "source_id": "23692399",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/23692399/",
+      "publication_date": null,
+      "text": "Tetrahedral framework structures: polymorphic phase transition with reorientation of hexagonal helical channels in the Zintl compound Na2ZnSn5 and its relation to Na5Zn(2+x)Sn(10-x). Two modifications of the new Zintl compound Na2ZnSn5 were synthesized by direct reactions of the elements.",
+      "query_kind": "family",
+      "query": "Na Cs2Zn3S4 crystal structure solid state",
+      "evidence_id": "C64:L7"
+    },
+    {
+      "source_id": "21285490",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21285490/",
+      "publication_date": null,
+      "text": "The tunnel manganese oxide Na4.32Mn9O18: a new Na+ site discovered by single-crystal X-ray diffraction. The title compound, tetrasodium nonamanganese octadecaoxide, Na(4.32)Mn(9)O(18), was synthesized by reacting Mn(2)O(3) with NaCl.",
+      "query_kind": "pair",
+      "query": "Na substituted for Mn related inorganic frameworks crystal structure",
+      "evidence_id": "C64:L8"
+    }
+  ]
+}

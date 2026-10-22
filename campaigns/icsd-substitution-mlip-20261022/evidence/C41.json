@@ -1,0 +1,24 @@
+{
+  "candidate_id": "C41",
+  "formula_B": "Rb2Ce(IBr2)2",
+  "excerpts": [
+    {
+      "source_id": "38591256",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/38591256/",
+      "publication_date": null,
+      "text": "New iodate fluoride Rb2Ce(IO3)5F with nonlinear optical properties. New noncentrosymmetric cerium(IV) iodate fluoride Rb2Ce(IO3)5F was prepared employing a hydrothermal technique.",
+      "query_kind": "family",
+      "query": "Ce Rb2PdBr4(I2) crystal structure solid state",
+      "evidence_id": "C41:L1"
+    },
+    {
+      "source_id": "19235988",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/19235988/",
+      "publication_date": null,
+      "text": "CeAsSe-synthesis, crystal structure, and physical properties. Single crystals of CeAsSe were synthesized by a reaction of the elements using iodine as a mineralization agent at 900 degrees C.",
+      "query_kind": "family",
+      "query": "Ce Rb2PdBr4(I2) crystal structure solid state",
+      "evidence_id": "C41:L2"
+    }
+  ]
+}

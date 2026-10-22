@@ -1,0 +1,15 @@
+{
+  "candidate_id": "C76",
+  "formula_B": "LuI3",
+  "excerpts": [
+    {
+      "source_id": "31990531",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/31990531/",
+      "publication_date": null,
+      "text": "Understanding the Structural and Electronic Properties of Bismuth Trihalides and Related Compounds. Bismuth trihalides, BiX3 (X = F, Cl, Br, and I), have been thrust into prominence recently because of their close chemical relationship to the halide perovskites of lead, which exhibit remarkable performance as active layers in photovoltaic cells and other optoelectronic devices.",
+      "query_kind": "family",
+      "query": "Lu BiI3 crystal structure solid state",
+      "evidence_id": "C76:L1"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "candidate_id": "C36",
+  "formula_B": "Rb2Cr(PdS2)2",
+  "excerpts": [
+    {
+      "source_id": "31750476",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/31750476/",
+      "publication_date": null,
+      "text": "New layered chromium chalcogenides CsLiCrSe2, RbLiCrS2 and CsLiCrS2: structures and properties. We report the synthesis, crystal structures and physical properties of three quaternary compounds CsLiCrSe2, RbLiCrS2 and CsLiCrS2, which represent the first discovered ThCr2Si2-type chromium chalcogenides.",
+      "query_kind": "family",
+      "query": "Cr Cs2Pd3S4 crystal structure solid state",
+      "evidence_id": "C36:L1"
+    },
+    {
+      "source_id": "26418027",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/26418027/",
+      "publication_date": null,
+      "text": "Crystallographic, Electronic, and Magnetic Properties of Rock Salt Superstructure Sulfide Lu2CrS4 with Jahn-Teller Distortion. A new chromium(II) sulfide, Lu2CrS4, with a novel structure was prepared by a solid-state reaction.",
+      "query_kind": "family",
+      "query": "Cr Cs2Pd3S4 crystal structure solid state",
+      "evidence_id": "C36:L2"
+    },
+    {
+      "source_id": "32880450",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/32880450/",
+      "publication_date": null,
+      "text": "High-Pressure Synthesis and Crystal Structure of the Sulfur-Richest Chromium Sulfide CrS3 Composed of Cr(III) and Disulfide Ions. The new binary chromium sulfide CrS3 has been synthesized by reaction of Cr3S4 and sulfur mixtures at 800 \u00b0C and 13 GPa.",
+      "query_kind": "family",
+      "query": "Cr Cs2Pd3S4 crystal structure solid state",
+      "evidence_id": "C36:L3"
+    },
+    {
+      "source_id": "33748598",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/33748598/",
+      "publication_date": null,
+      "text": "Flux Crystal Growth, Crystal Structure, and Magnetic Properties of a Ternary Chromium Disulfide Ba9Cr4S19 with Unusual Cr4S15 Tetramer Units. A new ternary chromium disulfide, Ba9Cr4S19, has been grown out of BaCl2 molten salt.",
+      "query_kind": "family",
+      "query": "Cr Cs2Pd3S4 crystal structure solid state",
+      "evidence_id": "C36:L4"
+    },
+    {
+      "source_id": "11670962",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/11670962/",
+      "publication_date": null,
+      "text": "Synthesis and Structural Analysis of BaCrS(2). A new ternary chromium sulfide, BaCrS(2), was synthesized.",
+      "query_kind": "family",
+      "query": "Cr Cs2Pd3S4 crystal structure solid state",
+      "evidence_id": "C36:L5"
+    },
+    {
+      "source_id": "37782294",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/37782294/",
+      "publication_date": null,
+      "text": "Synthesis, Crystal and Electronic Structure, and Thermal Conductivity Investigation of the Hollandite-like CsxCr5Te8 Phases (0.73 < x < 1). This article presents a comprehensive study on the synthesis and structural and thermal conductivity properties of cesium-inserted chromium tellurides of formula CsxCr5Te8.",
+      "query_kind": "family",
+      "query": "Cr Cs2Pd3S4 crystal structure solid state",
+      "evidence_id": "C36:L6"
+    },
+    {
+      "source_id": "21588472",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/21588472/",
+      "publication_date": null,
+      "text": "The two-dimensional thio-phosphate CsCrP(2)S(7). The quaternary title compound, caesium chromium(III) hepta-thio-diphosphate(V), CsCrP(2)S(7), has been synthesized using the reactive halide flux method.",
+      "query_kind": "family",
+      "query": "Cr Cs2Pd3S4 crystal structure solid state",
+      "evidence_id": "C36:L7"
+    },
+    {
+      "source_id": "40777528",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/40777528/",
+      "publication_date": null,
+      "text": "Cr5B3 with the Shastry-Sutherland lattices. The structural parameters of penta-chromium triboride, Cr5B3, with Shastry-Sutherland lattices were refined based on single-crystal X-ray diffraction data.",
+      "query_kind": "family",
+      "query": "Cr Cs2Pd3S4 crystal structure solid state",
+      "evidence_id": "C36:L8"
+    }
+  ]
+}

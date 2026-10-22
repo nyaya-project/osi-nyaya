@@ -1,0 +1,33 @@
+{
+  "candidate_id": "C80",
+  "formula_B": "ReSn2Br5",
+  "excerpts": [
+    {
+      "source_id": "15685315",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/15685315/",
+      "publication_date": null,
+      "text": "Unexpected ligand substitutions in the cluster core {Re6Se8}: synthesis and structure of the novel cluster compound Cs11(H3O)[Re6Se4(O)4Cl6]3.4H2O. The compound Cs11(H3O)[Re6Se4(O)4Cl6]3.4H2O containing a novel cluster core {Re6Se4(O)4} with ordered ligands, where the 4 positions of one face of a Se4(O)4 cube are occupied exclusively by Se atoms and 4 O atoms lie in the opposite face was synthesized via the interaction of solid Re6Se8Br2 with molten KOH.",
+      "query_kind": "pair",
+      "query": "Re substituted for Cs related inorganic frameworks crystal structure",
+      "evidence_id": "C80:L1"
+    },
+    {
+      "source_id": "18252987",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/18252987/",
+      "publication_date": null,
+      "text": "Caesium cis-tetrachloridodioxidorhenate(VII). The title crystal structure, Cs[ReCl(4)O(2)], consists of cis-tetrachloridodioxidorhenate(VII) anions and caesium cations.",
+      "query_kind": "pair",
+      "query": "Re substituted for Cs related inorganic frameworks crystal structure",
+      "evidence_id": "C80:L2"
+    },
+    {
+      "source_id": "29850083",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/29850083/",
+      "publication_date": null,
+      "text": "Syntheses, Raman spectroscopy and crystal structures of alkali hexa-fluorido-rhenates(IV) revisited. The A2[ReF6] (A = K, Rb and Cs) salts are isotypic and crystallize in the trigonal space group type P [Formula: see text] m1, adopting the K2[GeF6] structure type.",
+      "query_kind": "pair",
+      "query": "Re substituted for Cs related inorganic frameworks crystal structure",
+      "evidence_id": "C80:L3"
+    }
+  ]
+}
