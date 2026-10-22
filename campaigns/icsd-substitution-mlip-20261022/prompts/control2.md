@@ -1,0 +1,3 @@
+Research question: Which single-element substitution into a known ordered ICSD source framework should be advanced as a new, simulation-verifiable proposal, and should its substituted framework be predicted to be retained or reconstructed after the declared MLIP relaxation?
+
+Here are ten candidates, the pair catalogue, and each candidate's frozen literature pack. Reason carefully about each. For every candidate provide predicted_outcome, p_retained (0–1), and short rationale, then rank all ten from most to least worth advancing. Cite literature only by evidence_id. Return the required JSON. Do not access any CKB graph artifact or classify evidence/fallacies.

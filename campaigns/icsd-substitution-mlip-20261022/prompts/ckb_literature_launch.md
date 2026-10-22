@@ -1,0 +1,3 @@
+# CKB literature mapping, batch <N>
+
+Read the listed ten candidates, their frozen packs `evidence/<candidate_id>.json`, and the read-only ICSD causal graph artifacts. Do not search live. Extend only `ckg/graph.json`, `ckg/run.json`, and `ckg/validation.json` under this campaign directory. Preserve association, observation, inference, and proposal distinctions. Every claim must include evidence_id provenance, pramana class, support strength, conditions, and candidate IDs. Run the existing `validate_graph.py`; write its result to campaign `ckg/validation.json`. Do not change existing ICSD graph files or agents/profiles/skills.

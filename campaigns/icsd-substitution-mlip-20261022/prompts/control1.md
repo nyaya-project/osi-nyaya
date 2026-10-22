@@ -1,0 +1,3 @@
+Research question: Which single-element substitution into a known ordered ICSD source framework should be advanced as a new, simulation-verifiable proposal, and should its substituted framework be predicted to be retained or reconstructed after the declared MLIP relaxation?
+
+Using the pair catalogue and logged Valency literature searches, propose ten new valid single-element substitutions. formula_B must not exist in ICSD. Rank best first. For each emit candidate fields, predicted_outcome (`retained` or `reconstructed`), p_retained (0–1), and a short rationale. Cite literature only by Valency source ID. Return only the specified JSON. Do not access any CKB graph artifact.
