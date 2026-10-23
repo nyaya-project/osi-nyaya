@@ -1,4 +1,4 @@
-# Nyāya Causal Deliberation Engine
+# Nyāya Causal Engine
 
 A provenance-first, multi-agent engine for causal reasoning and research deliberation, grounded in **Nyāya**. It turns a bounded corpus and a research question into an auditable sequence of causal claims, adversarial checks, and calibrated next-step decisions.
 
@@ -52,7 +52,6 @@ The mapper distinguishes direct observation, inferred mechanism, association, an
 - [`schemas/vaada-record.schema.json`](schemas/vaada-record.schema.json) — common `vaada-record/v1` contract for role records.
 - [`schemas/materials-experiment-plan.schema.json`](schemas/materials-experiment-plan.schema.json) — a five-or-more, falsifiable materials test-slate contract.
 - [`schemas/materials-simulation-decision-lock.schema.json`](schemas/materials-simulation-decision-lock.schema.json) — the required pre-simulation protocol lock, with no licensed CIF payload field.
-- [`tracker for humans.txt`](tracker%20for%20humans.txt) — human-facing project tracker.
 
 ## Core artifacts
 
