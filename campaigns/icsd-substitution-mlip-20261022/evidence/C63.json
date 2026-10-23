@@ -1,5 +1,26 @@
 {
   "candidate_id": "C63",
   "formula_B": "PmCl2",
-  "excerpts": []
+  "excerpts": [
+    {
+      "source_id": "36576433",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/36576433/",
+      "publication_date": "2023-01-10",
+      "text": "General Synthesis of 2D Magnetic Transition Metal Dihalides via Trihalide Reduction. A chemical-vapor-deposition route produced high-quality 2D transition-metal dihalide flakes including VCl2 by reduction of trihalide counterparts.",
+      "query_kind": "source",
+      "query": "\"VCl2\"",
+      "reports_formula_B_structure": false,
+      "evidence_id": "C63:L1"
+    },
+    {
+      "source_id": "41117720",
+      "locator": "https://pubmed.ncbi.nlm.nih.gov/41117720/",
+      "publication_date": "2025-11-04",
+      "text": "Oxygen-Assisted Growth of 2D Vanadium Oxyhalides with Ordered Vanadium Dimerization. An oxygen-assisted CVD method selectively synthesized vanadium dichloride (VCl2) and VOCl with phase control and high crystallinity.",
+      "query_kind": "source",
+      "query": "\"VCl2\"",
+      "reports_formula_B_structure": false,
+      "evidence_id": "C63:L2"
+    }
+  ]
 }

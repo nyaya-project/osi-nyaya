@@ -11,8 +11,9 @@ A provenance-first, multi-agent engine for causal reasoning and research deliber
 - A sequential **Vāda** protocol for an append-only debate artifact with bounded revision rounds.
 - A versioned JSON interchange schema for the Proponent, Opponent, and Judge records.
 - Portable, non-secret Hermes role definitions, reasoning contracts, skills, schemas, example data, report template, and graph validator.
+- A registered materials campaign that evaluates Nyāya-guided causal knowledge graphs and Vāda debate against fixed control workflows before any downstream MLIP label is read.
 
-The repository intentionally contains the reusable research protocol and artifacts, not a claim to have implemented automated truth discovery or a complete causal-discovery system.
+The repository intentionally contains reusable research protocol, auditable campaign controls, and non-sensitive artifacts. It does not claim automated truth discovery or a complete causal-discovery system.
 
 ## Reasoning loop
 
@@ -65,9 +66,21 @@ A debate is one append-only `vaada-cycle/v1` JSON document per `debate_id`. Embe
 
 This distinction matters because Telegram bots cannot directly read one another’s messages. A human or coordinator must pass the updated shared artifact to the next role, and a role must not claim to have seen a prior bot’s Telegram output unless that record is present in the artifact it received.
 
+## Active campaign: ICSD substitution MLIP evaluation
+
+The registered [`icsd-substitution-mlip-20261022`](campaigns/icsd-substitution-mlip-20261022/) campaign is a prospective evaluation of the engine, not a catalogue-mining exercise. It compares three pre-label reasoning conditions on one frozen 99-candidate pool:
+
+1. **Nyāya Causal Knowledge Builder:** evidence-linked causal graph plus provenance and uncertainty audit.
+2. **Nyāya Vāda:** Proponent, Opponent, and Judge deliberate sequentially on the same evidence.
+3. **Controls:** fixed non-Nyāya baselines evaluated against the same pool and prediction contract.
+
+The protocol locks the candidate pool, literature-evidence workflow, prediction schema, and scoring rule before the TensorNet-MatPES-PBE MLIP outcome is available. The campaign asks whether the Nyāya-guided causal graph and debate improve calibrated, falsifiable predictions of framework retention after relaxation. It does **not** treat a static relaxation as proof of a mechanism, stability, or synthesizability.
+
+Campaign-controlled files, validation scripts, and the current safe status summary are under [`campaigns/icsd-substitution-mlip-20261022/`](campaigns/icsd-substitution-mlip-20261022/). Raw/licensed ICSD CIF text, coordinates, cell parameters, and collection codes remain external to Git; only non-sensitive campaign identifiers and derived, auditable controls are versioned.
+
 ## Deliberately excluded
 
-No runtime or credential material is versioned here. This includes `.env` files, API keys, Telegram bot tokens, allowlists, session histories, memories, and logs. Those remain profile-local under `~/.hermes/profiles/<profile>/`.
+No runtime or credential material is versioned here. This includes `.env` files, API keys, Telegram bot tokens, allowlists, session histories, memories, and logs. Licensed ICSD CIF payloads, coordinates, cell parameters, and collection codes are also excluded. These remain in their authorized local stores or profile-local locations under `~/.hermes/profiles/<profile>/`.
 
 ## Status and direction
 

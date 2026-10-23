@@ -1,0 +1,23 @@
+# Credentials and runtime state
+.env
+.env.*
+*.pem
+*.key
+api_key_valency.txt
+
+# Python and local tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Licensed ICSD/reference-structure payloads and local databases
+*.cif
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+
+# Transient coordination files
+*.lock
+.tmp_*
