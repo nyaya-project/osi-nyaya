@@ -4,8 +4,6 @@ A provenance-first, multi-agent hypothesis engine for evidence-backed scientific
 
 ![Nyāya Hypothesis Engine cover slide from Open Scientific Intelligence Hackathon 2026](assets/readme/nyaya-hypothesis-engine-cover.jpg)
 
-*Project presentation cover, Open Scientific Intelligence Hackathon 2026. The engine is a research-reasoning aid, not an automated truth-discovery system.*
-
 > Extracting a causal claim from a source does **not** establish that the claim is true. The engine preserves this distinction in its records, provenance, uncertainty labels, and decision rules.
 
 ## What exists today
@@ -38,8 +36,6 @@ The mapper distinguishes direct observation, inferred mechanism, association, an
 
 ![Conceptual overview of the knowledge pool, Vāda engine, and scientist in the loop](assets/readme/nyaya-vaada-engine-architecture.jpg)
 
-*Conceptual workflow: bounded knowledge sources and direct evidence inform a Proponent–Opponent–Judge deliberation, while the scientist supplies the research query and reviews the output. This diagram expresses the intended human-in-the-loop reasoning model; the repository's schemas and append-only artifacts define the current implementation contract.*
-
 ## Operating principles
 
 - **Evidence-linked, not assertion-led.** Every material claim carries source provenance, a locator, scope, conditions, and limitations where available.
@@ -52,8 +48,6 @@ The mapper distinguishes direct observation, inferred mechanism, association, an
 ## Nyāya vocabulary for scientific reasoning
 
 ![Sixteen Nyāya concepts mapped to scientific-reasoning roles](assets/readme/nyaya-scientific-reasoning-vocabulary.jpg)
-
-*Working vocabulary used to frame scientific reasoning: evidence and validity (*Pramāṇa*), the object of inquiry (*Prameya*), uncertainty and competing explanations (*Saṃśaya*), research purpose (*Prayojana*), structured inference (*Avayava*), deliberation (*Vāda*), and ways to identify fallacious or unproductive argument. The labels are project-oriented interpretive mappings, not substitutes for scholarly study of Nyāya traditions.*
 
 ## Repository map
 
