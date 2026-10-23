@@ -1,6 +1,6 @@
-# Nyāya Causal Engine
+# Nyāya Hypothesis Engine
 
-A provenance-first, multi-agent engine for causal reasoning and research deliberation, grounded in **Nyāya**. It turns a bounded corpus and a research question into an auditable sequence of causal claims, adversarial checks, and calibrated next-step decisions.
+A provenance-first, multi-agent hypothesis engine for evidence-backed scientific reasoning and research deliberation, grounded in **Nyāya**. It turns a bounded corpus and a research question into an auditable sequence of causal claims, adversarial checks, and calibrated next-step decisions.
 
 > Extracting a causal claim from a source does **not** establish that the claim is true. The engine preserves this distinction in its records, provenance, uncertainty labels, and decision rules.
 
