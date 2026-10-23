@@ -76,11 +76,3 @@ The registered [`icsd-substitution-mlip-20261022`](campaigns/icsd-substitution-m
 The protocol locks the candidate pool, literature-evidence workflow, prediction schema, and scoring rule before the TensorNet-MatPES-PBE MLIP outcome is available. The campaign asks whether the Nyāya-guided causal graph and debate improve calibrated, falsifiable predictions of framework retention after relaxation. It does **not** treat a static relaxation as proof of a mechanism, stability, or synthesizability.
 
 Campaign-controlled files, validation scripts, and the current safe status summary are under [`campaigns/icsd-substitution-mlip-20261022/`](campaigns/icsd-substitution-mlip-20261022/). Raw/licensed ICSD CIF text, coordinates, cell parameters, and collection codes remain external to Git; only non-sensitive campaign identifiers and derived, auditable controls are versioned.
-
-## Deliberately excluded
-
-No runtime or credential material is versioned here. This includes `.env` files, API keys, Telegram bot tokens, allowlists, session histories, memories, and logs. Licensed ICSD CIF payloads, coordinates, cell parameters, and collection codes are also excluded. These remain in their authorized local stores or profile-local locations under `~/.hermes/profiles/<profile>/`.
-
-## Status and direction
-
-This is a small, inspectable foundation: readable role instructions, explicit data contracts, validation, examples, and evaluation-ready outputs. Near-term work should strengthen evaluation cases and coordinator/runtime integration without weakening provenance, contradiction handling, or the separation between extracted claims and established findings.
