@@ -2,6 +2,10 @@
 
 A provenance-first, multi-agent hypothesis engine for evidence-backed scientific reasoning and research deliberation, grounded in **Nyāya**. It turns a bounded corpus and a research question into an auditable sequence of causal claims, adversarial checks, and calibrated next-step decisions.
 
+![Nyāya Hypothesis Engine cover slide from Open Scientific Intelligence Hackathon 2026](assets/readme/nyaya-hypothesis-engine-cover.jpg)
+
+*Project presentation cover, Open Scientific Intelligence Hackathon 2026. The engine is a research-reasoning aid, not an automated truth-discovery system.*
+
 > Extracting a causal claim from a source does **not** establish that the claim is true. The engine preserves this distinction in its records, provenance, uncertainty labels, and decision rules.
 
 ## What exists today
@@ -32,6 +36,10 @@ Nyāya Judge ─────────────── provisional decision 
 
 The mapper distinguishes direct observation, inferred mechanism, association, and hypothesis. The Vāda cycle then requires each later role to preserve the provenance and uncertainty of the earlier record rather than silently upgrading a proposal into evidence.
 
+![Conceptual overview of the knowledge pool, Vāda engine, and scientist in the loop](assets/readme/nyaya-vaada-engine-architecture.jpg)
+
+*Conceptual workflow: bounded knowledge sources and direct evidence inform a Proponent–Opponent–Judge deliberation, while the scientist supplies the research query and reviews the output. This diagram expresses the intended human-in-the-loop reasoning model; the repository's schemas and append-only artifacts define the current implementation contract.*
+
 ## Operating principles
 
 - **Evidence-linked, not assertion-led.** Every material claim carries source provenance, a locator, scope, conditions, and limitations where available.
@@ -40,6 +48,12 @@ The mapper distinguishes direct observation, inferred mechanism, association, an
 - **Sequential and append-only deliberation.** The Proponent, causal grounding check, Opponent, Proponent defense, and Judge act in order. Revisions add records; they do not rewrite history.
 - **Calibrated decisions.** The Judge may request a discriminating experiment or escalate to a human rather than force acceptance or rejection.
 - **Bounded scope.** Absence of an edge means “not established in this scoped corpus,” never proof that no relationship exists.
+
+## Nyāya vocabulary for scientific reasoning
+
+![Sixteen Nyāya concepts mapped to scientific-reasoning roles](assets/readme/nyaya-scientific-reasoning-vocabulary.jpg)
+
+*Working vocabulary used to frame scientific reasoning: evidence and validity (*Pramāṇa*), the object of inquiry (*Prameya*), uncertainty and competing explanations (*Saṃśaya*), research purpose (*Prayojana*), structured inference (*Avayava*), deliberation (*Vāda*), and ways to identify fallacious or unproductive argument. The labels are project-oriented interpretive mappings, not substitutes for scholarly study of Nyāya traditions.*
 
 ## Repository map
 
